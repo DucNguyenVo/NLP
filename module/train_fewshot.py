@@ -4,6 +4,7 @@ import numpy as np
 from datasets import load_from_disk
 from transformers import (
     AutoModelForTokenClassification,
+    AutoTokenizer,
     TrainingArguments,
     Trainer,
     DataCollatorForTokenClassification
@@ -27,8 +28,9 @@ label_list = [
 label_to_id = {label: i for i, label in enumerate(label_list)}
 id_to_label = {i: label for i, label in enumerate(label_list)}
 
-# 2. Load Dataset đã được xử lý
+# 2. Load Dataset và Tokenizer
 dataset = load_from_disk(DATASET_PATH)
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 # Chia tập train/val (Vì chỉ có 300 câu, ta lấy 250 train, 50 val để theo dõi)
 dataset = dataset.train_test_split(test_size=0.15, seed=42)
@@ -67,14 +69,14 @@ def compute_metrics(p):
         "accuracy": results["overall_accuracy"],
     }
 
-# 5. Cấu hình huấn luyện (Tối ưu cho Few-shot)
+# 5. Cấu hình huấn luyện (Cập nhật cho Transformers v5)
 training_args = TrainingArguments(
     output_dir=OUTPUT_DIR,
-    evaluation_strategy="epoch",
-    learning_rate=2e-5,           # LR thấp để tránh catastrophic forgetting
+    eval_strategy="epoch",        # Sửa lỗi evaluation_strategy
+    learning_rate=2e-5,
     per_device_train_batch_size=8,
     per_device_eval_batch_size=8,
-    num_train_epochs=20,          # Tăng epoch vì dữ liệu ít
+    num_train_epochs=20,
     weight_decay=0.01,
     save_strategy="epoch",
     load_best_model_at_end=True,
@@ -83,8 +85,8 @@ training_args = TrainingArguments(
     report_to="none"
 )
 
-# 6. Khởi tạo Trainer
-data_collator = DataCollatorForTokenClassification(tokenizer=None) # Tokenizer không cần thiết ở đây vì đã padding ở tiền xử lý
+# 6. Khởi tạo Trainer với Tokenizer đúng chuẩn
+data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer)
 
 trainer = Trainer(
     model=model,
@@ -100,5 +102,7 @@ print("[*] Bắt đầu huấn luyện PubMedBERT Few-shot...")
 trainer.train()
 
 # 8. Lưu mô hình cuối cùng
+os.makedirs("models/pubmedbert-bioner-fewshot", exist_ok=True)
 trainer.save_model("models/pubmedbert-bioner-fewshot")
-print("[Done] Mô hình đã được lưu tại models/pubmedbert-bioner-fewshot")
+tokenizer.save_pretrained("models/pubmedbert-bioner-fewshot")
+print("[Done] Mô hình và Tokenizer đã được lưu tại models/pubmedbert-bioner-fewshot")
