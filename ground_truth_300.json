@@ -1,0 +1,4778 @@
+[
+    {
+        "id": 1,
+        "source": "BC5CDR",
+        "text": "After EE treatment , changes in immunostaining for 7H6 and ZO - 1 were similar to those seen in periportal hepatocytes after BDL , but distributed more diffusely throughout the lobule .",
+        "entities": [
+            {
+                "word": "EE",
+                "label": "Chemical",
+                "start_idx": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "source": "BC5CDR",
+        "text": "Furthermore , it was found that the magnitude of attentional modulation in secondary hyperalgesia is very similar to that of capsaicin - untreated , control condition .",
+        "entities": [
+            {
+                "word": "hyperalgesia",
+                "label": "DISEASE",
+                "start_idx": 13
+            },
+            {
+                "word": "capsaicin",
+                "label": "Chemical",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "source": "BC5CDR",
+        "text": "The duration of the study was six months .",
+        "entities": []
+    },
+    {
+        "id": 4,
+        "source": "BC5CDR",
+        "text": "The Dbh - / - mice had normal baseline performance in the EPM but were completely resistant to the anxiogenic effects of cocaine .",
+        "entities": [
+            {
+                "word": "cocaine",
+                "label": "Chemical",
+                "start_idx": 22
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "source": "BC5CDR",
+        "text": "RESULTS : The selected doses of WR242511 , which produced significant methemoglobinemia in beagle dogs in earlier studies conducted elsewhere , produced very little MHb ( mean < 2 . 0 % ) in the rhesus monkey .",
+        "entities": [
+            {
+                "word": "WR242511",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "methemoglobinemia",
+                "label": "DISEASE",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "source": "BC5CDR",
+        "text": "Verapamil is an effective and relatively - safe antihypertensive drug .",
+        "entities": [
+            {
+                "word": "Verapamil",
+                "label": "Chemical",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "source": "BC5CDR",
+        "text": "Therefore , when the arrhythmia is present in this population , reversible causes must be identified and resolved .",
+        "entities": [
+            {
+                "word": "arrhythmia",
+                "label": "DISEASE",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "source": "BC5CDR",
+        "text": "Grape seed extract , primarily a mixture of proanthocyanidins , has been shown to modulate a wide - range of biological , pharmacological and toxicological effects which are mainly cytoprotective .",
+        "entities": [
+            {
+                "word": "Grape seed extract",
+                "label": "Chemical",
+                "start_idx": 0
+            },
+            {
+                "word": "proanthocyanidins",
+                "label": "Chemical",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "source": "BC5CDR",
+        "text": "To determine if routine risperidone treatment is associated with a unique degree of D2 receptor occupancy and pattern of clinical effects , we used [ 123I ] IBZM SPECT to determine D2 occupancy in subjects treated with routine clinical doses of risperidone ( n = 12 ) or haloperidol ( n = 7 ) .",
+        "entities": [
+            {
+                "word": "risperidone",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "risperidone",
+                "label": "Chemical",
+                "start_idx": 41
+            },
+            {
+                "word": "haloperidol",
+                "label": "Chemical",
+                "start_idx": 48
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "source": "BC5CDR",
+        "text": "Treatment was from weeks 0 to 8 and was then tapered from weeks 8 to 16 .",
+        "entities": []
+    },
+    {
+        "id": 11,
+        "source": "BC5CDR",
+        "text": "CONCLUSIONS : Direct inhibition of cardiac HCN pacemaker channels contributes to the bradycardic effects of clonidine gene - targeted mice in vivo , and thus , clonidine - like drugs represent novel structures for future HCN channel inhibitors .",
+        "entities": [
+            {
+                "word": "clonidine",
+                "label": "Chemical",
+                "start_idx": 15
+            },
+            {
+                "word": "clonidine",
+                "label": "Chemical",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "source": "BC5CDR",
+        "text": "The stimulant action of nicotine was blocked by the central nicotinic antagonist mecamylamine but not by the peripheral nicotinic blocker hexamethonium , indicating that the response is probably mediated by central nicotinic receptors .",
+        "entities": [
+            {
+                "word": "nicotine",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "mecamylamine",
+                "label": "Chemical",
+                "start_idx": 12
+            },
+            {
+                "word": "hexamethonium",
+                "label": "Chemical",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "source": "BC5CDR",
+        "text": "In the present experiment calcitonin decreased locomotor activity when locally injected into the same sites where it decreases food intake .",
+        "entities": [
+            {
+                "word": "calcitonin",
+                "label": "Chemical",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "source": "BC5CDR",
+        "text": "In contrast , in the nitrendipine - treated group albuminuria increased from 12 . 8 + / - 2 progressively to 163 + / - 55 compared with 19 . 2 + / - 9 mg / 24 hr in the hypertensive controls .",
+        "entities": [
+            {
+                "word": "nitrendipine",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "albuminuria",
+                "label": "DISEASE",
+                "start_idx": 9
+            },
+            {
+                "word": "hypertensive",
+                "label": "DISEASE",
+                "start_idx": 41
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "source": "BC5CDR",
+        "text": "The management options in the ED , as exemplified by four individual case reports , in particular the use of a minimally invasive method of intracorporal epinephrine instillation , are discussed .",
+        "entities": [
+            {
+                "word": "epinephrine",
+                "label": "Chemical",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "source": "BC5CDR",
+        "text": "Phase II trial of vinorelbine in metastatic squamous cell esophageal carcinoma .",
+        "entities": [
+            {
+                "word": "vinorelbine",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "squamous cell esophageal carcinoma",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "source": "BC5CDR",
+        "text": "A literature review revealed no prior reports of pericarditis in anti - MPO pANCA - positive vasculitis associated with propylthio - uracil therapy .",
+        "entities": [
+            {
+                "word": "pericarditis",
+                "label": "DISEASE",
+                "start_idx": 8
+            },
+            {
+                "word": "vasculitis",
+                "label": "DISEASE",
+                "start_idx": 16
+            },
+            {
+                "word": "propylthio - uracil",
+                "label": "Chemical",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "source": "BC5CDR",
+        "text": "Because of the extreme toxicity of vitamin D3 in pregnant Jersey cows and the low margin of safety between doses of vitamin D3 that prevent milk fever and doses that induce milk fever , we concluded that vitamin D3 cannot be used practically to prevent milk fever when injected several weeks prepartum .",
+        "entities": [
+            {
+                "word": "toxicity",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "vitamin D3",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "vitamin D3",
+                "label": "Chemical",
+                "start_idx": 21
+            },
+            {
+                "word": "milk fever",
+                "label": "DISEASE",
+                "start_idx": 25
+            },
+            {
+                "word": "milk fever",
+                "label": "DISEASE",
+                "start_idx": 31
+            },
+            {
+                "word": "vitamin D3",
+                "label": "Chemical",
+                "start_idx": 37
+            },
+            {
+                "word": "milk fever",
+                "label": "DISEASE",
+                "start_idx": 45
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "source": "BC5CDR",
+        "text": "Safety assessments were made at baseline and at 2 , 4 , 6 , and 12 weeks after the start of product use .",
+        "entities": []
+    },
+    {
+        "id": 20,
+        "source": "BC5CDR",
+        "text": "However , OD was significantly higher in all patients with thrombosis ( n = 48 , 1 . 34 + / - 0 . 89 ) , including isolated - HIT patients who later developed thrombosis within 30 d ( n = 8 , 1 . 84 + / - 0 . 64 ) as compared to isolated - HIT patients who did not develop thrombosis ( 0 . 96 + / - 0 . 75 ; P = 0 . 011 and P = 0 . 008 ) .",
+        "entities": [
+            {
+                "word": "thrombosis",
+                "label": "DISEASE",
+                "start_idx": 10
+            },
+            {
+                "word": "HIT",
+                "label": "DISEASE",
+                "start_idx": 30
+            },
+            {
+                "word": "thrombosis",
+                "label": "DISEASE",
+                "start_idx": 35
+            },
+            {
+                "word": "HIT",
+                "label": "DISEASE",
+                "start_idx": 59
+            },
+            {
+                "word": "thrombosis",
+                "label": "DISEASE",
+                "start_idx": 65
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "source": "BC5CDR",
+        "text": "One month previously , she had taken a single high dose of disulfiram ( 130 tablets of ALCOHOL STOP TAB , Shin - Poong Pharm . Co . , Ansan , Korea ) in a suicide attempt .",
+        "entities": [
+            {
+                "word": "disulfiram",
+                "label": "Chemical",
+                "start_idx": 12
+            },
+            {
+                "word": "ALCOHOL",
+                "label": "Chemical",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "source": "BC5CDR",
+        "text": "The hematologic effects of cefonicid and cefazedone in the dog : a potential model of cephalosporin hematotoxicity in man .",
+        "entities": [
+            {
+                "word": "cefonicid",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "cefazedone",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "cephalosporin",
+                "label": "Chemical",
+                "start_idx": 15
+            },
+            {
+                "word": "hematotoxicity",
+                "label": "DISEASE",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "source": "BC5CDR",
+        "text": "METHODS : We sent a questionnaire concerning complications of indocyanine green to 32 institutions in Japan , which were selected on the basis of the client list from the Topcon Company , which manufactures the indocyanine green fundus camera .",
+        "entities": [
+            {
+                "word": "indocyanine green",
+                "label": "Chemical",
+                "start_idx": 9
+            },
+            {
+                "word": "indocyanine green",
+                "label": "Chemical",
+                "start_idx": 35
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "source": "BC5CDR",
+        "text": "Patients with a DBP reduction of > or = 20 % in the high - dose group had a significantly increased adjusted OR for the compound outcome variable death or dependency ( Barthel Index < 60 ) ( n / N = 25 / 26 , OR 10 . 16 , 95 % CI 1 . 02 to 101 . 74 ) and death alone ( n / N = 9 / 26 , OR 4 . 336 , 95 % CI 1 . 131 16 . 619 ) compared with all placebo patients ( n / N = 62 / 92 and 14 / 92 , respectively ) .",
+        "entities": [
+            {
+                "word": "DBP reduction",
+                "label": "DISEASE",
+                "start_idx": 3
+            },
+            {
+                "word": "death",
+                "label": "DISEASE",
+                "start_idx": 28
+            },
+            {
+                "word": "death",
+                "label": "DISEASE",
+                "start_idx": 63
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "source": "BC5CDR",
+        "text": "The bronchodilator effects of a single dose of ipratropium bromide aerosol ( 36 micrograms ) and short - acting theophylline tablets ( dose titrated to produce serum levels of 10 - 20 micrograms / mL ) were compared in a double - blind , placebo - controlled crossover study in 21 patients with stable , chronic obstructive pulmonary disease .",
+        "entities": [
+            {
+                "word": "ipratropium bromide",
+                "label": "Chemical",
+                "start_idx": 8
+            },
+            {
+                "word": "theophylline",
+                "label": "Chemical",
+                "start_idx": 19
+            },
+            {
+                "word": "chronic obstructive pulmonary disease",
+                "label": "DISEASE",
+                "start_idx": 55
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "source": "BC5CDR",
+        "text": "Review of this and previously reported cases indicates the need for early diagnosis of amiodarone pneumonitis , immediate withdrawal of amiodarone , and prompt but continued steroid therapy to ensure full recovery .",
+        "entities": [
+            {
+                "word": "amiodarone",
+                "label": "Chemical",
+                "start_idx": 14
+            },
+            {
+                "word": "pneumonitis",
+                "label": "DISEASE",
+                "start_idx": 15
+            },
+            {
+                "word": "amiodarone",
+                "label": "Chemical",
+                "start_idx": 20
+            },
+            {
+                "word": "steroid",
+                "label": "Chemical",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "source": "BC5CDR",
+        "text": "Microangiopathic hemolytic anemia complicating FK506 ( tacrolimus ) therapy .",
+        "entities": [
+            {
+                "word": "Microangiopathic hemolytic anemia",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "FK506",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "tacrolimus",
+                "label": "Chemical",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "source": "BC5CDR",
+        "text": "Allergic reaction to 5 - fluorouracil infusion .",
+        "entities": [
+            {
+                "word": "Allergic reaction",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "5 - fluorouracil",
+                "label": "Chemical",
+                "start_idx": 3
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "source": "BC5CDR",
+        "text": "MR imaging with quantitative diffusion mapping of tacrolimus - induced neurotoxicity in organ transplant patients .",
+        "entities": [
+            {
+                "word": "tacrolimus",
+                "label": "Chemical",
+                "start_idx": 7
+            },
+            {
+                "word": "neurotoxicity",
+                "label": "DISEASE",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "source": "BC5CDR",
+        "text": "The level of pyridoxal in the blood was normal during the periods of relapse .",
+        "entities": [
+            {
+                "word": "pyridoxal",
+                "label": "Chemical",
+                "start_idx": 3
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "source": "BC5CDR",
+        "text": "Although generally consisted safe when given intramuscularly , intravenous administration is known to cause respiratory and cardiovascular depression .",
+        "entities": [
+            {
+                "word": "respiratory and cardiovascular depression",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "source": "BC5CDR",
+        "text": "A transmission electron microscopic study of capillaries in the cerebellar cortex .",
+        "entities": []
+    },
+    {
+        "id": 33,
+        "source": "BC5CDR",
+        "text": "Myoglobinuria was also observed following the 7 . 0 mg / kg dose .",
+        "entities": [
+            {
+                "word": "Myoglobinuria",
+                "label": "DISEASE",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "source": "BC5CDR",
+        "text": "OBJECTIVE : Conventional treatment methods of lumbusacral radiculopathy are physical therapy , epidural steroid injections , oral medications , and spinal manipulative therapy .",
+        "entities": [
+            {
+                "word": "radiculopathy",
+                "label": "DISEASE",
+                "start_idx": 7
+            },
+            {
+                "word": "steroid",
+                "label": "Chemical",
+                "start_idx": 13
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "source": "BC5CDR",
+        "text": "Pain recall after one week was similarly precise ( magnitude : p < 0 . 01 , duration : p < 0 . 05 ) .",
+        "entities": [
+            {
+                "word": "Pain",
+                "label": "DISEASE",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "source": "BC5CDR",
+        "text": "This report demonstrates that not only intravenous , but also oral bisphosphonates can aggravate proteinuria and acute renal failure .",
+        "entities": [
+            {
+                "word": "bisphosphonates",
+                "label": "Chemical",
+                "start_idx": 11
+            },
+            {
+                "word": "proteinuria",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "acute renal failure",
+                "label": "DISEASE",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "source": "BC5CDR",
+        "text": "Therefore , we studied the hyperemic response to dipyridamole in seven open - chest anesthetized dogs after pretreatment with either pentoxifylline ( 0 , 7 . 5 , or 15 mg / kg i . v . ) or theophylline ( 3 mg / kg i . v . ) .",
+        "entities": [
+            {
+                "word": "dipyridamole",
+                "label": "Chemical",
+                "start_idx": 8
+            },
+            {
+                "word": "pentoxifylline",
+                "label": "Chemical",
+                "start_idx": 20
+            },
+            {
+                "word": "theophylline",
+                "label": "Chemical",
+                "start_idx": 39
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "source": "BC5CDR",
+        "text": "While there is no single correct starting dose for levodopa therapy , many individuals can be started on either the 25 / 100 or controlled - release formula , following the general rule not to attempt to titrate carbidopa - levodopa to the point of \" normality , \" which can lead to toxicity .",
+        "entities": [
+            {
+                "word": "levodopa",
+                "label": "Chemical",
+                "start_idx": 9
+            },
+            {
+                "word": "carbidopa",
+                "label": "Chemical",
+                "start_idx": 38
+            },
+            {
+                "word": "levodopa",
+                "label": "Chemical",
+                "start_idx": 40
+            },
+            {
+                "word": "toxicity",
+                "label": "DISEASE",
+                "start_idx": 53
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "source": "BC5CDR",
+        "text": "METHODS : In this study , we evaluated the performance of dopamine beta - hydroxylase knockout ( Dbh - / - ) mice , which lack norepinephrine ( NE ) , in the elevated plus maze ( EPM ) to examine the contribution of noradrenergic signaling to cocaine - induced anxiety .",
+        "entities": [
+            {
+                "word": "dopamine",
+                "label": "Chemical",
+                "start_idx": 11
+            },
+            {
+                "word": "norepinephrine",
+                "label": "Chemical",
+                "start_idx": 26
+            },
+            {
+                "word": "NE",
+                "label": "Chemical",
+                "start_idx": 28
+            },
+            {
+                "word": "cocaine",
+                "label": "Chemical",
+                "start_idx": 47
+            },
+            {
+                "word": "anxiety",
+                "label": "DISEASE",
+                "start_idx": 50
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "source": "BC5CDR",
+        "text": "This study supports the role of lipid peroxidation in mediating the proteinuric injury in PAN nephropathy .",
+        "entities": [
+            {
+                "word": "proteinuric injury",
+                "label": "DISEASE",
+                "start_idx": 11
+            },
+            {
+                "word": "PAN",
+                "label": "Chemical",
+                "start_idx": 14
+            },
+            {
+                "word": "nephropathy",
+                "label": "DISEASE",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "source": "BC5CDR",
+        "text": "This observation shows that clotiazepam can induce acute hepatitis and suggests that there is no cross hepatotoxicity between clotiazepam and several benzodiazepines .",
+        "entities": [
+            {
+                "word": "clotiazepam",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "hepatitis",
+                "label": "DISEASE",
+                "start_idx": 8
+            },
+            {
+                "word": "hepatotoxicity",
+                "label": "DISEASE",
+                "start_idx": 16
+            },
+            {
+                "word": "clotiazepam",
+                "label": "Chemical",
+                "start_idx": 18
+            },
+            {
+                "word": "benzodiazepines",
+                "label": "Chemical",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "source": "BC5CDR",
+        "text": "CONCLUSIONS : It was determined that injection duration had an effect on bruising and pain following the subcutaneous administration of heparin .",
+        "entities": [
+            {
+                "word": "bruising",
+                "label": "DISEASE",
+                "start_idx": 12
+            },
+            {
+                "word": "pain",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "heparin",
+                "label": "Chemical",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "source": "BC5CDR",
+        "text": "However , combinations of different therapeutic regimens require consideration of potential adverse reactions .",
+        "entities": []
+    },
+    {
+        "id": 44,
+        "source": "BC5CDR",
+        "text": "Consequently , lithium pretreatment caused a fall in filtration fraction and an increase in fractional Li excretion .",
+        "entities": [
+            {
+                "word": "lithium",
+                "label": "Chemical",
+                "start_idx": 2
+            },
+            {
+                "word": "Li",
+                "label": "Chemical",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "source": "BC5CDR",
+        "text": "The incidence of mood switches seemed not to differ between patients receiving an anticonvulsant and those receiving no mood stabilizer .",
+        "entities": []
+    },
+    {
+        "id": 46,
+        "source": "BC5CDR",
+        "text": "In vitro characterization of parasympathetic and sympathetic responses in cyclophosphamide - induced cystitis in the rat .",
+        "entities": [
+            {
+                "word": "cyclophosphamide",
+                "label": "Chemical",
+                "start_idx": 9
+            },
+            {
+                "word": "cystitis",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "source": "BC5CDR",
+        "text": "The ethanolic extract of Daucus carota seeds ( DCE ) was administered orally in three doses ( 100 , 200 , 400 mg / kg ) for seven successive days to different groups of young and aged mice .",
+        "entities": [
+            {
+                "word": "extract of Daucus carota seeds",
+                "label": "Chemical",
+                "start_idx": 2
+            },
+            {
+                "word": "DCE",
+                "label": "Chemical",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "source": "BC5CDR",
+        "text": "Cells were then treated with 30 ng / ml ritonavir or vehicle in the presence of aggregated LDL for 24 h .",
+        "entities": [
+            {
+                "word": "ritonavir",
+                "label": "Chemical",
+                "start_idx": 9
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "source": "BC5CDR",
+        "text": "Such attenuation was not found in animals which had been injected with GR 55562 into the accumbens core .",
+        "entities": [
+            {
+                "word": "GR 55562",
+                "label": "Chemical",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "source": "BC5CDR",
+        "text": "Twenty - three h postoperatively he developed a brief self - limited seizure .",
+        "entities": [
+            {
+                "word": "seizure",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "source": "BC5CDR",
+        "text": "No other risk factors for CNS toxicity were identified .",
+        "entities": [
+            {
+                "word": "toxicity",
+                "label": "DISEASE",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "source": "BC5CDR",
+        "text": "The possibility that habitual use of acetaminophen alone increases the risk of ESRD has not been clearly demonstrated , but cannot be dismissed .",
+        "entities": [
+            {
+                "word": "acetaminophen",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "ESRD",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "source": "BC5CDR",
+        "text": "The underlying mechanism of withdrawal - emergent RS in the present case may have been related to the pharmacological profile of risperidone , a serotonin - dopamine antagonist , suggesting the pathophysiologic influence of the serotonin system in the development of RS .",
+        "entities": [
+            {
+                "word": "withdrawal - emergent RS",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "risperidone",
+                "label": "Chemical",
+                "start_idx": 21
+            },
+            {
+                "word": "serotonin",
+                "label": "Chemical",
+                "start_idx": 24
+            },
+            {
+                "word": "dopamine",
+                "label": "Chemical",
+                "start_idx": 26
+            },
+            {
+                "word": "serotonin",
+                "label": "Chemical",
+                "start_idx": 35
+            },
+            {
+                "word": "RS",
+                "label": "DISEASE",
+                "start_idx": 41
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "source": "BC5CDR",
+        "text": "Cardiovascular complications associated with terbutaline treatment for preterm labor .",
+        "entities": [
+            {
+                "word": "Cardiovascular complications",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "terbutaline",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "preterm labor",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "source": "BC5CDR",
+        "text": "Proteinuria correlated most strongly with sirolimus therapy when compared to other demographic and clinical variables .",
+        "entities": [
+            {
+                "word": "Proteinuria",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "sirolimus",
+                "label": "Chemical",
+                "start_idx": 5
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "source": "BC5CDR",
+        "text": "This study shows that prenatal dexamethasone in rats results in a reduction in glomerular number , glomerulosclerosis , and hypertension when administered at specific points during gestation .",
+        "entities": [
+            {
+                "word": "dexamethasone",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "reduction in glomerular number",
+                "label": "DISEASE",
+                "start_idx": 11
+            },
+            {
+                "word": "glomerulosclerosis",
+                "label": "DISEASE",
+                "start_idx": 16
+            },
+            {
+                "word": "hypertension",
+                "label": "DISEASE",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "source": "BC5CDR",
+        "text": "Preliminary studies suggest that statins could interfere with the risk of recurrence after electrical cardioversion .",
+        "entities": [
+            {
+                "word": "statins",
+                "label": "Chemical",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "source": "BC5CDR",
+        "text": "These are nephrotoxic , but SRL seems to act differently displaying only minor nephrotoxic effects , although this question is still open .",
+        "entities": [
+            {
+                "word": "nephrotoxic",
+                "label": "DISEASE",
+                "start_idx": 2
+            },
+            {
+                "word": "SRL",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "nephrotoxic",
+                "label": "DISEASE",
+                "start_idx": 13
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "source": "BC5CDR",
+        "text": "The effects of exercise on the severity of isoproterenol - induced myocardial infarction were studied in female albino rats of 20 , 40 , 60 and 80 weeks of age .",
+        "entities": [
+            {
+                "word": "isoproterenol",
+                "label": "Chemical",
+                "start_idx": 8
+            },
+            {
+                "word": "myocardial infarction",
+                "label": "DISEASE",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "source": "BC5CDR",
+        "text": "Whereas patient 1 showed lesions of up to 1 cm readily detectable on magnetic resonance imaging under prolonged co - trimoxazole treatment , therapy of patient 2 was switched early .",
+        "entities": [
+            {
+                "word": "co - trimoxazole",
+                "label": "Chemical",
+                "start_idx": 18
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "source": "BC5CDR",
+        "text": "2 .",
+        "entities": []
+    },
+    {
+        "id": 62,
+        "source": "BC5CDR",
+        "text": "Mean follow - up on SRL therapy was 20 + / - 12 ( 6 to 43 ) months .",
+        "entities": [
+            {
+                "word": "SRL",
+                "label": "Chemical",
+                "start_idx": 5
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "source": "BC5CDR",
+        "text": "Generally , carboplatin is said to have milder side effects than cisplatin , whose ocular and orbital toxicity are well known .",
+        "entities": [
+            {
+                "word": "carboplatin",
+                "label": "Chemical",
+                "start_idx": 2
+            },
+            {
+                "word": "cisplatin",
+                "label": "Chemical",
+                "start_idx": 11
+            },
+            {
+                "word": "ocular and orbital toxicity",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "source": "BC5CDR",
+        "text": "Orthostatic hypotension was ameliorated 4 days after withdrawal of selegiline and totally abolished 7 days after discontinuation of the drug .",
+        "entities": [
+            {
+                "word": "Orthostatic hypotension",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "selegiline",
+                "label": "Chemical",
+                "start_idx": 9
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "source": "BC5CDR",
+        "text": "However , by comparing each subgroup to control group , we found statistically significant decreases of TEOAEs amplitudes at 4000Hz for all three groups .",
+        "entities": [
+            {
+                "word": "decreases of TEOAEs amplitudes",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "source": "BC5CDR",
+        "text": "Warfarin - induced iliopsoas hemorrhage with subsequent femoral nerve palsy .",
+        "entities": [
+            {
+                "word": "Warfarin",
+                "label": "Chemical",
+                "start_idx": 0
+            },
+            {
+                "word": "hemorrhage",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "femoral nerve palsy",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "source": "BC5CDR",
+        "text": "The clinical utility of FK 506 is complicated by substantial hypertension and nephrotoxicity .",
+        "entities": [
+            {
+                "word": "FK 506",
+                "label": "Chemical",
+                "start_idx": 4
+            },
+            {
+                "word": "hypertension",
+                "label": "DISEASE",
+                "start_idx": 10
+            },
+            {
+                "word": "nephrotoxicity",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "source": "BC5CDR",
+        "text": "Plasma CGRP concentration increased significantly ( P < 0 . 01 ) during the migraine attack and returned to baseline after the cessation of the migraine .",
+        "entities": [
+            {
+                "word": "CGRP",
+                "label": "Chemical",
+                "start_idx": 1
+            },
+            {
+                "word": "migraine",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "migraine",
+                "label": "DISEASE",
+                "start_idx": 25
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "source": "BC5CDR",
+        "text": "All but one of the patients were over 60 years old , and the 6 who died were all older than 65 .",
+        "entities": []
+    },
+    {
+        "id": 70,
+        "source": "BC5CDR",
+        "text": "Recently , however , we have had an increase of patients who are presenting after OLTX with end - stage renal disease ( ESRD ) .",
+        "entities": [
+            {
+                "word": "end - stage renal disease",
+                "label": "DISEASE",
+                "start_idx": 17
+            },
+            {
+                "word": "ESRD",
+                "label": "DISEASE",
+                "start_idx": 23
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "source": "BC5CDR",
+        "text": "Effects of long - term pretreatment with isoproterenol on bromocriptine - induced tachycardia in conscious rats .",
+        "entities": [
+            {
+                "word": "isoproterenol",
+                "label": "Chemical",
+                "start_idx": 7
+            },
+            {
+                "word": "bromocriptine",
+                "label": "Chemical",
+                "start_idx": 9
+            },
+            {
+                "word": "tachycardia",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "source": "BC5CDR",
+        "text": "The most common manifestation , observed in 15 further cases , was isolated optic atrophy .",
+        "entities": [
+            {
+                "word": "optic atrophy",
+                "label": "DISEASE",
+                "start_idx": 13
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "source": "BC5CDR",
+        "text": "This drug caused biventricular dysfunction , due to its negative inotropic effect , and hypotension , due to its peripheral vasodilatory effect .",
+        "entities": [
+            {
+                "word": "biventricular dysfunction",
+                "label": "DISEASE",
+                "start_idx": 3
+            },
+            {
+                "word": "hypotension",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "source": "BC5CDR",
+        "text": "Animal and clinical studies have suggested that N - methyl - D - aspartate ( NMDA ) antagonists , such as ketamine , may be effective in improving opioid analgesia in difficult pain syndromes , such as neuropathic pain .",
+        "entities": [
+            {
+                "word": "N - methyl - D - aspartate",
+                "label": "Chemical",
+                "start_idx": 7
+            },
+            {
+                "word": "NMDA",
+                "label": "Chemical",
+                "start_idx": 15
+            },
+            {
+                "word": "ketamine",
+                "label": "Chemical",
+                "start_idx": 21
+            },
+            {
+                "word": "pain",
+                "label": "DISEASE",
+                "start_idx": 32
+            },
+            {
+                "word": "neuropathic pain",
+                "label": "DISEASE",
+                "start_idx": 37
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "source": "BC5CDR",
+        "text": "After delivery of the infant , there should be no contraindication to the use of an alpha - adrenergic vasopressor such as phenylephrine to treat hypotensive patients with tachycardia .",
+        "entities": [
+            {
+                "word": "phenylephrine",
+                "label": "Chemical",
+                "start_idx": 22
+            },
+            {
+                "word": "hypotensive",
+                "label": "DISEASE",
+                "start_idx": 25
+            },
+            {
+                "word": "tachycardia",
+                "label": "DISEASE",
+                "start_idx": 28
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "source": "BC5CDR",
+        "text": "VNB was administered weekly as a 25 - mg / m2 short intravenous ( i . v . ) infusion .",
+        "entities": [
+            {
+                "word": "VNB",
+                "label": "Chemical",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "source": "BC5CDR",
+        "text": "We investigated the diagnostic value of cTnI and cTnT for the diagnosis of myocardial damage in a rat model of doxorubicin ( DOX ) - induced cardiomyopathy , and we examined the relationship between serial cTnI and cTnT with the development of cardiac disorders monitored by echocardiography and histological examinations in this model .",
+        "entities": [
+            {
+                "word": "myocardial damage",
+                "label": "DISEASE",
+                "start_idx": 13
+            },
+            {
+                "word": "doxorubicin",
+                "label": "Chemical",
+                "start_idx": 20
+            },
+            {
+                "word": "DOX",
+                "label": "Chemical",
+                "start_idx": 22
+            },
+            {
+                "word": "cardiomyopathy",
+                "label": "DISEASE",
+                "start_idx": 26
+            },
+            {
+                "word": "cardiac disorders",
+                "label": "DISEASE",
+                "start_idx": 42
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "source": "BC5CDR",
+        "text": "We report on two fatal cases of accidental intrathecal vincristine instillation in a 5 - year old girl with recurrent acute lymphoblastic leucemia and a 57 - year old man with lymphoblastic lymphoma .",
+        "entities": [
+            {
+                "word": "vincristine",
+                "label": "Chemical",
+                "start_idx": 9
+            },
+            {
+                "word": "acute lymphoblastic leucemia",
+                "label": "DISEASE",
+                "start_idx": 20
+            },
+            {
+                "word": "lymphoblastic lymphoma",
+                "label": "DISEASE",
+                "start_idx": 31
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "source": "BC5CDR",
+        "text": "Many of these patients are taking pentoxifylline ( Trental ) , a methylxanthine derivative which may improve intermittent claudication .",
+        "entities": [
+            {
+                "word": "pentoxifylline",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "Trental",
+                "label": "Chemical",
+                "start_idx": 8
+            },
+            {
+                "word": "methylxanthine",
+                "label": "Chemical",
+                "start_idx": 12
+            },
+            {
+                "word": "intermittent claudication",
+                "label": "DISEASE",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "source": "BC5CDR",
+        "text": "4 .",
+        "entities": []
+    },
+    {
+        "id": 81,
+        "source": "BC5CDR",
+        "text": "Immunohistochemical studies with antibodies to neurofilament proteins on axonal damage in experimental focal lesions in rat .",
+        "entities": [
+            {
+                "word": "axonal damage",
+                "label": "DISEASE",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "source": "BC5CDR",
+        "text": "CONCLUSIONS : The combination of GEM and VNB is moderately active and well tolerated except in patients age > / = 75 years .",
+        "entities": [
+            {
+                "word": "GEM",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "VNB",
+                "label": "Chemical",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "source": "BC5CDR",
+        "text": "There seemed to be no direct correlation between the dose or duration used and the severity of bone marrow suppression .",
+        "entities": [
+            {
+                "word": "bone marrow suppression",
+                "label": "DISEASE",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "source": "BC5CDR",
+        "text": "These results elucidated ecstasy - related deficits , only some of which might be attributed to cannabis use .",
+        "entities": [
+            {
+                "word": "ecstasy",
+                "label": "Chemical",
+                "start_idx": 3
+            },
+            {
+                "word": "cannabis",
+                "label": "Chemical",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "source": "BC5CDR",
+        "text": "Three cases were related to cyclosporine , and 1 case was secondary to both cyclosporine and tacrolimus .",
+        "entities": [
+            {
+                "word": "cyclosporine",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "cyclosporine",
+                "label": "Chemical",
+                "start_idx": 14
+            },
+            {
+                "word": "tacrolimus",
+                "label": "Chemical",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "source": "BC5CDR",
+        "text": "Additionally , since membrane leakage is a final stage of cytotoxicity , the disruption of the structural characteristics of biomembranes by TAM may contribute to the multiple mechanisms of its anticancer action .",
+        "entities": [
+            {
+                "word": "TAM",
+                "label": "Chemical",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "source": "BC5CDR",
+        "text": "This work evaluates the antinociceptive and constipating effects of the combination of 3 . 2 mg / kg s . c . morphine with 177 . 8 mg / kg s . c . metamizol in acutely and chronically treated ( once a day for 12 days ) rats .",
+        "entities": [
+            {
+                "word": "constipating",
+                "label": "DISEASE",
+                "start_idx": 6
+            },
+            {
+                "word": "morphine",
+                "label": "Chemical",
+                "start_idx": 22
+            },
+            {
+                "word": "metamizol",
+                "label": "Chemical",
+                "start_idx": 34
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "source": "BC5CDR",
+        "text": "The marked vasodilator and negative inotropic effects of propofol are disadvantages in frail elderly patients .",
+        "entities": [
+            {
+                "word": "propofol",
+                "label": "Chemical",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "source": "BC5CDR",
+        "text": "We believe the results of those studies may have been affected by residual confounding .",
+        "entities": []
+    },
+    {
+        "id": 90,
+        "source": "BC5CDR",
+        "text": "We have recently shown that estrogen negatively modulates the hypotensive effect of clonidine ( mixed alpha2 - / I1 - receptor agonist ) in female rats and implicates the cardiovascular autonomic control in this interaction .",
+        "entities": [
+            {
+                "word": "estrogen",
+                "label": "Chemical",
+                "start_idx": 5
+            },
+            {
+                "word": "hypotensive",
+                "label": "DISEASE",
+                "start_idx": 9
+            },
+            {
+                "word": "clonidine",
+                "label": "Chemical",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "source": "BC5CDR",
+        "text": "Acute hepatitis attack after exposure to telithromycin .",
+        "entities": [
+            {
+                "word": "hepatitis",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "telithromycin",
+                "label": "Chemical",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "source": "BC5CDR",
+        "text": "Use of verapamil in combination with carbamazepine should either be avoided or prescribed only with appropriate adjustment of the carbamazepine dose ( usually reduction of the carbamazepine dose by one half ) .",
+        "entities": [
+            {
+                "word": "verapamil",
+                "label": "Chemical",
+                "start_idx": 2
+            },
+            {
+                "word": "carbamazepine",
+                "label": "Chemical",
+                "start_idx": 6
+            },
+            {
+                "word": "carbamazepine",
+                "label": "Chemical",
+                "start_idx": 19
+            },
+            {
+                "word": "carbamazepine",
+                "label": "Chemical",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "source": "BC5CDR",
+        "text": "MDMA polydrug users show process - specific central executive impairments coupled with impaired social and emotional judgement processes .",
+        "entities": [
+            {
+                "word": "MDMA",
+                "label": "Chemical",
+                "start_idx": 0
+            },
+            {
+                "word": "impaired social and emotional judgement processes",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "source": "BC5CDR",
+        "text": "Variations of individuals were assessed by Wilcoxon ' s test .",
+        "entities": []
+    },
+    {
+        "id": 95,
+        "source": "BC5CDR",
+        "text": "Following major intracranial surgery in a 35 - year - old man , sodium pentothal was intravenously infused to minimize cerebral ischaemia .",
+        "entities": [
+            {
+                "word": "sodium pentothal",
+                "label": "Chemical",
+                "start_idx": 13
+            },
+            {
+                "word": "cerebral ischaemia",
+                "label": "DISEASE",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "source": "BC5CDR",
+        "text": "After gastric surgery , rat stomachs were irrigated for 3 h with either simulated gastric juice or normal saline .",
+        "entities": []
+    },
+    {
+        "id": 97,
+        "source": "BC5CDR",
+        "text": "Isolated myelopathy or peripheral neuropathy , or these manifestations occurring together , were infrequent .",
+        "entities": [
+            {
+                "word": "myelopathy",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "peripheral neuropathy",
+                "label": "DISEASE",
+                "start_idx": 3
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "source": "BC5CDR",
+        "text": "These episodes reversed after the administration of diazepam 1 mg intravenously .",
+        "entities": [
+            {
+                "word": "diazepam",
+                "label": "Chemical",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "source": "BC5CDR",
+        "text": "Source of pain and primitive dysfunction in migraine : an identical site ?",
+        "entities": [
+            {
+                "word": "pain",
+                "label": "DISEASE",
+                "start_idx": 2
+            },
+            {
+                "word": "migraine",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "source": "BC5CDR",
+        "text": "Whether or not the neuronal transmission may be affected by cystitis was presently investigated .",
+        "entities": [
+            {
+                "word": "cystitis",
+                "label": "DISEASE",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "source": "NCBI Disease",
+        "text": "Duchenne / Becker muscular dystrophy : correlation of phenotype by electroretinography with sites of dystrophin mutations .",
+        "entities": [
+            {
+                "word": "Duchenne / Becker muscular dystrophy",
+                "label": "DISEASE",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "source": "NCBI Disease",
+        "text": "The heterogeneity of mutations , coupled with the large size of the gene , indicates that clinical application of BRCA1 mutation testing will be technically challenging . .",
+        "entities": []
+    },
+    {
+        "id": 103,
+        "source": "NCBI Disease",
+        "text": "The origin of one unusual mutation has been identified by analysis of DNA from four generations of family members .",
+        "entities": []
+    },
+    {
+        "id": 104,
+        "source": "NCBI Disease",
+        "text": "Ataxia - telangiectasia ( A - T ) is an autosomal recessive syndrome associated with a greatly increased incidence of malignant neoplasms in homozygous affected individuals .",
+        "entities": [
+            {
+                "word": "Ataxia - telangiectasia",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "A - T",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "autosomal recessive syndrome",
+                "label": "DISEASE",
+                "start_idx": 10
+            },
+            {
+                "word": "malignant neoplasms",
+                "label": "DISEASE",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "source": "NCBI Disease",
+        "text": "No germline mutations were detected .",
+        "entities": []
+    },
+    {
+        "id": 106,
+        "source": "NCBI Disease",
+        "text": "Of an expected 177 unknown mutations , we detected approximately 70 % , mostly protein truncating mutations ( that would have been detectable by protein truncation testing if RNA starting material had been available ) .",
+        "entities": []
+    },
+    {
+        "id": 107,
+        "source": "NCBI Disease",
+        "text": "The antibody reacted with the 80 kDa band protein in control fibroblasts , while no bands were detected in the fibroblasts from a patient with ALD ( # 163 ) , in which mRNA of the ALD gene was undetectable based on Northern blot analysis .",
+        "entities": [
+            {
+                "word": "ALD",
+                "label": "DISEASE",
+                "start_idx": 25
+            },
+            {
+                "word": "ALD",
+                "label": "DISEASE",
+                "start_idx": 36
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "source": "NCBI Disease",
+        "text": "In this case , PWS does not become evident as long as the deletion is passed through the matrilineal line .",
+        "entities": [
+            {
+                "word": "PWS",
+                "label": "DISEASE",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "source": "NCBI Disease",
+        "text": "Ankylosing spondylitis , psoriatic arthropathy and entero - arthropathy may be regarded as clinical sub - types of the syndrome . .",
+        "entities": [
+            {
+                "word": "Ankylosing spondylitis",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "psoriatic arthropathy",
+                "label": "DISEASE",
+                "start_idx": 3
+            },
+            {
+                "word": "entero - arthropathy",
+                "label": "DISEASE",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "source": "NCBI Disease",
+        "text": "Growth of Epstein - Barr virus - transformed lymphoblasts from this patient in selective medium has permitted isolation of spontaneous HPRT + revertants of this mutation .",
+        "entities": [
+            {
+                "word": "Epstein - Barr",
+                "label": "DISEASE",
+                "start_idx": 2
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "source": "NCBI Disease",
+        "text": "The propositus was an isolated case of Duchenne muscular dystrophy with marked dystrophin deficiency in muscle biopsy .",
+        "entities": [
+            {
+                "word": "Duchenne muscular dystrophy",
+                "label": "DISEASE",
+                "start_idx": 7
+            },
+            {
+                "word": "dystrophin deficiency",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "source": "NCBI Disease",
+        "text": "Atm ( y / y ) mice exhibit deficits in motor learning indicative of cerebellar dysfunction .",
+        "entities": [
+            {
+                "word": "cerebellar dysfunction",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "source": "NCBI Disease",
+        "text": "RESULTS Three patients with adult - onset cerebral ALD were identified as having large genomic rearrangements .",
+        "entities": [
+            {
+                "word": "cerebral ALD",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "source": "NCBI Disease",
+        "text": "A mutation common in non - Jewish Tay - Sachs disease : frequency and RNA studies .",
+        "entities": [
+            {
+                "word": "Tay - Sachs disease",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "source": "NCBI Disease",
+        "text": "We have utilized backcross analysis in mice to verify and define more precisely the location of the Pdeb locus 6 .",
+        "entities": []
+    },
+    {
+        "id": 116,
+        "source": "NCBI Disease",
+        "text": "Fifty - seven families gave positive lod scores ; five small families gave mildly negative lod scores .",
+        "entities": []
+    },
+    {
+        "id": 117,
+        "source": "NCBI Disease",
+        "text": "This is the first report of diagnosis of maternal UPD ( 14 ) based on clinical features .",
+        "entities": [
+            {
+                "word": "UPD",
+                "label": "DISEASE",
+                "start_idx": 9
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "source": "NCBI Disease",
+        "text": "The 854A - - > C transversion converted glu to ala in codon 285 .",
+        "entities": []
+    },
+    {
+        "id": 119,
+        "source": "NCBI Disease",
+        "text": "The second mutation introduces a missense mutation ( C282Y ) into the Hfe locus , but otherwise leaves the gene intact .",
+        "entities": []
+    },
+    {
+        "id": 120,
+        "source": "NCBI Disease",
+        "text": "This change , the substitution of a C for G in the first nucleotide of intron 12 is expected to result in defective splicing of the messenger RNA .",
+        "entities": []
+    },
+    {
+        "id": 121,
+        "source": "NCBI Disease",
+        "text": "83 at theta = 0 , with a peak lod score in multipoint linkage analysis of 2 .",
+        "entities": []
+    },
+    {
+        "id": 122,
+        "source": "NCBI Disease",
+        "text": "The age incidence curves for renal cell carcinoma and cerebellar haemangioblastoma in VHL disease were compatible with a single mutation model , whereas the age incidence curves for sporadic renal cell carcinoma and cerebellar haemangioblastoma suggested a two stage mutation process .",
+        "entities": [
+            {
+                "word": "renal cell carcinoma",
+                "label": "DISEASE",
+                "start_idx": 5
+            },
+            {
+                "word": "cerebellar haemangioblastoma",
+                "label": "DISEASE",
+                "start_idx": 9
+            },
+            {
+                "word": "VHL disease",
+                "label": "DISEASE",
+                "start_idx": 12
+            },
+            {
+                "word": "sporadic renal cell carcinoma",
+                "label": "DISEASE",
+                "start_idx": 28
+            },
+            {
+                "word": "cerebellar haemangioblastoma",
+                "label": "DISEASE",
+                "start_idx": 33
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "source": "NCBI Disease",
+        "text": "In addition to highlighting the effect of the normal repeat length upon AO in maternally inherited HD and in male patients , we show that the APOE epsilon2epsilon3 genotype is associated with significantly earlier AO in males than in females .",
+        "entities": [
+            {
+                "word": "HD",
+                "label": "DISEASE",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "source": "NCBI Disease",
+        "text": "Only 20 of 4000 ( 0 . 5 % ) patients had late - onset FMF .",
+        "entities": [
+            {
+                "word": "FMF",
+                "label": "DISEASE",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "source": "NCBI Disease",
+        "text": "To determine the extent of heterogeneity of G6PD , we have studied several different Indian populations by screening for G6PD deficiency , followed by molecular analysis of deficient alleles .",
+        "entities": [
+            {
+                "word": "G6PD deficiency",
+                "label": "DISEASE",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "source": "NCBI Disease",
+        "text": "We screened 31 human gastric cancers , 7 esophageal cancers , 85 bone and soft tissue tumors of various types , including 4 neurofibrosarcomas .",
+        "entities": [
+            {
+                "word": "gastric cancers",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "esophageal cancers",
+                "label": "DISEASE",
+                "start_idx": 8
+            },
+            {
+                "word": "bone and soft tissue tumors",
+                "label": "DISEASE",
+                "start_idx": 12
+            },
+            {
+                "word": "neurofibrosarcomas",
+                "label": "DISEASE",
+                "start_idx": 23
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "source": "NCBI Disease",
+        "text": "The phenotype is likely to be a contiguous gene syndrome involving genes which are paternally expressed only , located in the human 15q11 - q13 region .",
+        "entities": [
+            {
+                "word": "contiguous gene syndrome",
+                "label": "DISEASE",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "source": "NCBI Disease",
+        "text": "Small deletions in the type II collagen triple helix produce kniest dysplasia .",
+        "entities": [
+            {
+                "word": "kniest dysplasia",
+                "label": "DISEASE",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "source": "NCBI Disease",
+        "text": "Recently the FMF gene ( MEFV ) was cloned ; the protein product , pyrin / marenostrin , is thought to regulate inflammation in myeloid cells .",
+        "entities": [
+            {
+                "word": "FMF",
+                "label": "DISEASE",
+                "start_idx": 2
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "source": "NCBI Disease",
+        "text": "Heteroduplex analysis detected another 42 mutations at the A - T locus .",
+        "entities": [
+            {
+                "word": "A - T",
+                "label": "DISEASE",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "source": "NCBI Disease",
+        "text": "Four amino acid substitutions , Leu27Phe , Thr48Ile , Val75Met and Arg477Lys , were found in patients with congenital thrombocytopenia and no clinically evident immune defect indicating that the WASP gene is the site for mutations in X - linked thrombocytopenia as well as in WAS .",
+        "entities": [
+            {
+                "word": "congenital thrombocytopenia",
+                "label": "DISEASE",
+                "start_idx": 18
+            },
+            {
+                "word": "X - linked thrombocytopenia",
+                "label": "DISEASE",
+                "start_idx": 37
+            },
+            {
+                "word": "WAS",
+                "label": "DISEASE",
+                "start_idx": 45
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "source": "NCBI Disease",
+        "text": "Hypomyelination can thus be genetically separated from the PLP - dependent oligodendrocyte degeneration .",
+        "entities": [
+            {
+                "word": "Hypomyelination",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "oligodendrocyte degeneration",
+                "label": "DISEASE",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "source": "NCBI Disease",
+        "text": "The serum ferritin levels in the four other homozygous patients remained in the normal range .",
+        "entities": []
+    },
+    {
+        "id": 134,
+        "source": "NCBI Disease",
+        "text": "Families in which there is a single affected boy , who also has one or more healthy brothers ( n = 26 ) .",
+        "entities": []
+    },
+    {
+        "id": 135,
+        "source": "NCBI Disease",
+        "text": "The mutation causing myotonic dystrophy ( DM ) has been identified as a CTG expansion in the 3 - untranslated region ( 3 - UTR ) of the DM protein kinase gene ( DMPK ) , but the mechanism ( s ) of pathogenesis remain unknown .",
+        "entities": [
+            {
+                "word": "myotonic dystrophy",
+                "label": "DISEASE",
+                "start_idx": 3
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 6
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 28
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "source": "NCBI Disease",
+        "text": "We have identified a Duchenne muscular dystrophy ( DMD ) pedigree where the disease is associated with a molecular deletion within the DMD locus .",
+        "entities": [
+            {
+                "word": "Duchenne muscular dystrophy",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "DMD",
+                "label": "DISEASE",
+                "start_idx": 8
+            },
+            {
+                "word": "DMD",
+                "label": "DISEASE",
+                "start_idx": 22
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "source": "NCBI Disease",
+        "text": "We have found this individual to be homozygous for a single C - to - T nucleotide substitution at apoB codon 2252 , which produces a premature in - frame stop codon .",
+        "entities": []
+    },
+    {
+        "id": 138,
+        "source": "NCBI Disease",
+        "text": "Glucose - 6 - phosphate dehydrogenase variants and their frequency in Guangdong , China .",
+        "entities": []
+    },
+    {
+        "id": 139,
+        "source": "NCBI Disease",
+        "text": "In this study , we have collected data on 13 additional unrelated patients to identify the causative mutations and to determine the prevalence of the 11 - kb deletion .",
+        "entities": []
+    },
+    {
+        "id": 140,
+        "source": "NCBI Disease",
+        "text": "The Lowe oculocerebrorenal syndrome ( OCRL ) is characterized by congenital cataract , mental retardation , and defective renal tubular function .",
+        "entities": [
+            {
+                "word": "Lowe oculocerebrorenal syndrome",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "OCRL",
+                "label": "DISEASE",
+                "start_idx": 5
+            },
+            {
+                "word": "cataract",
+                "label": "DISEASE",
+                "start_idx": 11
+            },
+            {
+                "word": "mental retardation",
+                "label": "DISEASE",
+                "start_idx": 13
+            },
+            {
+                "word": "defective renal tubular function",
+                "label": "DISEASE",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "source": "NCBI Disease",
+        "text": "The patients plasma lipoproteins were shown on polyacrylamide gels and by antibody mapping to have a new truncated apoB variant , apoB - 50 , circulating along with her apoB - 48 .",
+        "entities": []
+    },
+    {
+        "id": 142,
+        "source": "NCBI Disease",
+        "text": "We have expressed the mature form of Yfh1p ( mYfh1p ) in Escherichia coli and have analyzed its function in vitro .",
+        "entities": []
+    },
+    {
+        "id": 143,
+        "source": "NCBI Disease",
+        "text": "We recently reported that mouse ( CD . 1 strain ) peritoneal cells in culture synthesise and secrete a single chain precursor , pro - C5 ( MW approximately 210 , 000 ) , of the two - chain ( alpha chain , 125 , 000 and beta chain 83 , 000 MW ) C5 protein6 .",
+        "entities": []
+    },
+    {
+        "id": 144,
+        "source": "NCBI Disease",
+        "text": "We performed two - point and multipoint limit of detection ( LOD ) score analyses using a high penetrance autosomal dominant model .",
+        "entities": []
+    },
+    {
+        "id": 145,
+        "source": "NCBI Disease",
+        "text": "After crossbreeding with female mice of the EIIa - cre strain , the floxed allele undergoes Cre - mediated recombination with high efficiency during early embryonic development .",
+        "entities": []
+    },
+    {
+        "id": 146,
+        "source": "NCBI Disease",
+        "text": "We speculate that emerin contributes to maintain the nuclear structure and stability , as well as nuclear functions , particularly in muscle tissues that have severe stress with rigorous contraction - relaxation movements and calcium flux . .",
+        "entities": []
+    },
+    {
+        "id": 147,
+        "source": "NCBI Disease",
+        "text": "The results of the studies on this family demonstrate the differences in the methylation patterns in the 2 conditions and the phenomenon of genomic imprinting , whereby genetic information is expressed differently dependent on the parent of origin . .",
+        "entities": []
+    },
+    {
+        "id": 148,
+        "source": "NCBI Disease",
+        "text": "Mefv is localized on mouse Chromosome ( Chr ) 16 , region A3 - B1 , extending a region of synteny with human Chr 16p13 .",
+        "entities": []
+    },
+    {
+        "id": 149,
+        "source": "NCBI Disease",
+        "text": "1 + / - 2 .",
+        "entities": []
+    },
+    {
+        "id": 150,
+        "source": "NCBI Disease",
+        "text": "Adrenoleukodystrophy ( ALD ) , the most frequent peroxisomal disorder , is a severe neurodegenerative disease associated with an impairment of very long chain fatty acids beta - oxidation .",
+        "entities": [
+            {
+                "word": "Adrenoleukodystrophy",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "ALD",
+                "label": "DISEASE",
+                "start_idx": 2
+            },
+            {
+                "word": "peroxisomal disorder",
+                "label": "DISEASE",
+                "start_idx": 8
+            },
+            {
+                "word": "neurodegenerative disease",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "impairment of very long chain fatty acids beta - oxidation",
+                "label": "DISEASE",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "source": "NCBI Disease",
+        "text": "Here we describe the combined results of more than 20 research laboratories with respect to the occurrence of deletions at the DXS164 locus in DNA samples isolated from patients with DMD and Becker muscular dystrophy ( BMD ) .",
+        "entities": [
+            {
+                "word": "DMD",
+                "label": "DISEASE",
+                "start_idx": 30
+            },
+            {
+                "word": "Becker muscular dystrophy",
+                "label": "DISEASE",
+                "start_idx": 32
+            },
+            {
+                "word": "BMD",
+                "label": "DISEASE",
+                "start_idx": 36
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "source": "NCBI Disease",
+        "text": "Since the deletion was located in the third exon of the gene , which presents no homology with other hydroxylases , we suggest that exon 3 is involved in the specificity of the enzyme for phenylalanine .",
+        "entities": []
+    },
+    {
+        "id": 153,
+        "source": "NCBI Disease",
+        "text": "Mutations in the candidate gene for Norrie disease .",
+        "entities": [
+            {
+                "word": "Norrie disease",
+                "label": "DISEASE",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "source": "NCBI Disease",
+        "text": "In familial cases , the deletions segregated with the disease .",
+        "entities": []
+    },
+    {
+        "id": 155,
+        "source": "NCBI Disease",
+        "text": "Hypotonia , chorioretinal dystrophy , and myopia were also identified .",
+        "entities": [
+            {
+                "word": "Hypotonia",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "chorioretinal dystrophy",
+                "label": "DISEASE",
+                "start_idx": 2
+            },
+            {
+                "word": "myopia",
+                "label": "DISEASE",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "source": "NCBI Disease",
+        "text": "The patient , H .",
+        "entities": []
+    },
+    {
+        "id": 157,
+        "source": "NCBI Disease",
+        "text": "Pendrin is closely related to a family of sulfate transport proteins that includes the rat sulfate - anion transporter ( encoded by Sat - 1 ; 29 % amino acid sequence identity ) , the human diastrophic dysplasia sulfate transporter ( encoded by DTD ; 32 % ) and the human sulfate transporter downregulated in adenoma ( encoded by DRA ; 45 % ) .",
+        "entities": [
+            {
+                "word": "diastrophic dysplasia",
+                "label": "DISEASE",
+                "start_idx": 36
+            },
+            {
+                "word": "adenoma",
+                "label": "DISEASE",
+                "start_idx": 55
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "source": "NCBI Disease",
+        "text": "The map is composed of overlapping YAC clones that were identified and ordered in relation to sequence tagged sites mapped to the Langer - Giedion chromosomal region on somatic cell hybrids .",
+        "entities": []
+    },
+    {
+        "id": 159,
+        "source": "NCBI Disease",
+        "text": "The R1 domain mutation prevents interaction of EGR2 with the NAB co - repressors and thereby increases transcriptional activity .",
+        "entities": []
+    },
+    {
+        "id": 160,
+        "source": "NCBI Disease",
+        "text": "A G - to - C transition at the second base of codon 413 in exon 12 of the gene results in the substitution of Pro413 for Arg413 in the mutant protein .",
+        "entities": []
+    },
+    {
+        "id": 161,
+        "source": "NCBI Disease",
+        "text": "These data show that intrinsically unstructured peptides such as the GTPase - binding domain of WASP can be induced into distinct structural and functional states depending on context . .",
+        "entities": []
+    },
+    {
+        "id": 162,
+        "source": "NCBI Disease",
+        "text": "62 delineate a small region of chromosome 5 within which the EF5 .",
+        "entities": []
+    },
+    {
+        "id": 163,
+        "source": "NCBI Disease",
+        "text": "The C282Y mutation causing hereditary hemochromatosis does not produce a null allele .",
+        "entities": [
+            {
+                "word": "hereditary hemochromatosis",
+                "label": "DISEASE",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "source": "NCBI Disease",
+        "text": "Mice that expressed expanded CUG repeats developed myotonia and myopathy , whereas mice expressing a nonexpanded repeat did not .",
+        "entities": [
+            {
+                "word": "myotonia",
+                "label": "DISEASE",
+                "start_idx": 7
+            },
+            {
+                "word": "myopathy",
+                "label": "DISEASE",
+                "start_idx": 9
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "source": "NCBI Disease",
+        "text": "The persistent complete allelic association of the DM mutation with all these polymorphisms provides further support to previous observations and suggests more strongly that the DM mutation occurred on the background of a particular haplotype in which the ( CTG ) n repeat became inherently unstable and therefore predisposed to amplification .",
+        "entities": [
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 7
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 25
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "source": "NCBI Disease",
+        "text": "This fact encourages the hypothesis that the described kindred segregates for a variant of Cohen syndrome and suggests a redefinition of its phenotype",
+        "entities": [
+            {
+                "word": "Cohen syndrome",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "source": "NCBI Disease",
+        "text": "38T - - > C ( L13P ) and c .",
+        "entities": []
+    },
+    {
+        "id": 168,
+        "source": "NCBI Disease",
+        "text": "A common human skin tumour is caused by activating mutations in beta - catenin .",
+        "entities": [
+            {
+                "word": "skin tumour",
+                "label": "DISEASE",
+                "start_idx": 3
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "source": "NCBI Disease",
+        "text": "Motor incoordination , immune deficiencies , and an increased risk of cancer are the characteristic features of the hereditary disease ataxia - telangiectasia ( A - T ) , which is caused by mutations in the ATM gene .",
+        "entities": [
+            {
+                "word": "Motor incoordination",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "immune deficiencies",
+                "label": "DISEASE",
+                "start_idx": 3
+            },
+            {
+                "word": "cancer",
+                "label": "DISEASE",
+                "start_idx": 11
+            },
+            {
+                "word": "hereditary disease",
+                "label": "DISEASE",
+                "start_idx": 18
+            },
+            {
+                "word": "ataxia - telangiectasia",
+                "label": "DISEASE",
+                "start_idx": 20
+            },
+            {
+                "word": "A - T",
+                "label": "DISEASE",
+                "start_idx": 24
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "source": "NCBI Disease",
+        "text": "In addition , the mice manifest several characteristics that are occasionally observed in human hypobetalipoproteinemia , including reduced plasma triglyceride concentrations , fasting chylomicronemia , and reduced high density lipoprotein cholesterol .",
+        "entities": [
+            {
+                "word": "hypobetalipoproteinemia",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "chylomicronemia",
+                "label": "DISEASE",
+                "start_idx": 23
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "source": "NCBI Disease",
+        "text": "The phenotype in a genetic compound heterozygote ( Int14 T and Int14 A ) was similar to that of Int14 A homozygotes ( no detectable CETP and markedly increased HDL - C ) , indicating that the Int14 T produces a null allele .",
+        "entities": []
+    },
+    {
+        "id": 172,
+        "source": "NCBI Disease",
+        "text": "Using two genomic probes extending into the 5 and 3 flanking regions , respectively , we have identified eight polymorphic restriction sites .",
+        "entities": []
+    },
+    {
+        "id": 173,
+        "source": "NCBI Disease",
+        "text": "In contrast , the intron 9 mutation apparently was introduced within the last century and probably is limited to a few Louisiana families . .",
+        "entities": []
+    },
+    {
+        "id": 174,
+        "source": "NCBI Disease",
+        "text": "Twenty - five first - degree relatives with ankylosing spondylitis were all B27 positive .",
+        "entities": [
+            {
+                "word": "ankylosing spondylitis",
+                "label": "DISEASE",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "source": "NCBI Disease",
+        "text": "PAH activity is present in the cellular extracts and the entire hydroxylation system is reconstituted in the hepatoma cells infected with the recombinant viruses .",
+        "entities": [
+            {
+                "word": "hepatoma",
+                "label": "DISEASE",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "source": "NCBI Disease",
+        "text": "The overall findings were that disease started to occur at age 30 years and that by age 50 years 48 % of the mutation - carrying women had experienced breast and / or ovarian cancer .",
+        "entities": [
+            {
+                "word": "breast and / or ovarian cancer",
+                "label": "DISEASE",
+                "start_idx": 29
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "source": "NCBI Disease",
+        "text": "The mutation introduces a termination codon within exon 8 of the dystrophin gene .",
+        "entities": []
+    },
+    {
+        "id": 178,
+        "source": "NCBI Disease",
+        "text": "11 ( 1 - LOD support interval . 04 - . 19 ) , compared with HLODs of 0 in the remaining 281 families .",
+        "entities": []
+    },
+    {
+        "id": 179,
+        "source": "NCBI Disease",
+        "text": "The spectrum of mutations presented here should help to improve the clinical management of retinoblastoma and to understand the molecular mechanisms leading to tumorigenesis . .",
+        "entities": [
+            {
+                "word": "retinoblastoma",
+                "label": "DISEASE",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "source": "NCBI Disease",
+        "text": "These data show that botrocetin and ristocetin cofactor activities of vWF can be dissociated by a point mutation and confirm that these mediators promote vWF binding to platelets by different mechanisms .",
+        "entities": []
+    },
+    {
+        "id": 181,
+        "source": "NCBI Disease",
+        "text": "Eighteen patients had no family history of the disease ; of these 11 were classified as having a severe phenotype , based on an early age at presentation or cancer development .",
+        "entities": [
+            {
+                "word": "cancer",
+                "label": "DISEASE",
+                "start_idx": 29
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "source": "NCBI Disease",
+        "text": "Analysis of the genetic and physical instability associated with the repeated sequences we have isolated from band 15q11 .",
+        "entities": []
+    },
+    {
+        "id": 183,
+        "source": "NCBI Disease",
+        "text": "We observed the 185delAG mutation in 0 .",
+        "entities": []
+    },
+    {
+        "id": 184,
+        "source": "NCBI Disease",
+        "text": "Abnormal amplification of a CTG repeat on chromosome 19 is the molecular basis of myotonic dystrophy ( DM ) .",
+        "entities": [
+            {
+                "word": "myotonic dystrophy",
+                "label": "DISEASE",
+                "start_idx": 14
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "source": "NCBI Disease",
+        "text": "Cis and trans effects of the myotonic dystrophy ( DM ) mutation in a cell culture model .",
+        "entities": [
+            {
+                "word": "myotonic dystrophy",
+                "label": "DISEASE",
+                "start_idx": 6
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 9
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "source": "NCBI Disease",
+        "text": "We now describe somatic mutations in the DNA of four tumours which also had loss of heterozygosity ( LOH ) at a BRCA1 intragenic marker .",
+        "entities": [
+            {
+                "word": "tumours",
+                "label": "DISEASE",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "source": "NCBI Disease",
+        "text": "The synteny to human chromosome 17 was confirmed by cohybridization with the mouse probe for the NF1 - gene .",
+        "entities": []
+    },
+    {
+        "id": 188,
+        "source": "NCBI Disease",
+        "text": "This heritable - deletion mouse model will be particularly useful for the identification of the etiological genes and mechanisms , phenotypic basis , and investigation of therapeutic approaches for PWS . .",
+        "entities": [
+            {
+                "word": "PWS",
+                "label": "DISEASE",
+                "start_idx": 29
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "source": "NCBI Disease",
+        "text": "Choroideremia : close linkage to DXYS1 and DXYS12 demonstrated by segregation analysis and historical - genealogical evidence .",
+        "entities": [
+            {
+                "word": "Choroideremia",
+                "label": "DISEASE",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "source": "NCBI Disease",
+        "text": "Choroideremia ( CHM ) is an X - linked progressive degeneration of the choroid and retina .",
+        "entities": [
+            {
+                "word": "Choroideremia",
+                "label": "DISEASE",
+                "start_idx": 0
+            },
+            {
+                "word": "CHM",
+                "label": "DISEASE",
+                "start_idx": 2
+            },
+            {
+                "word": "X - linked progressive degeneration of the choroid and retina",
+                "label": "DISEASE",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "source": "NCBI Disease",
+        "text": "The cost of screening per sample was calculated to be approximately US $ 70 for the manual technique used in this study , and may be reduced to approximately US $ 10 with the introduction of commercially available PCR robotics and fluorescent imaging .",
+        "entities": []
+    },
+    {
+        "id": 192,
+        "source": "NCBI Disease",
+        "text": "Complete deficiency of hypoxanthine - guanine phosphoribosyltransferase ( HPRT ) causes the Lesch - Nyhan syndrome .",
+        "entities": [
+            {
+                "word": "deficiency of hypoxanthine - guanine phosphoribosyltransferase",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "Lesch - Nyhan syndrome",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "source": "NCBI Disease",
+        "text": "A myotonic dystrophy ( DM ) family is described in which discordant DM phenotypes were found in the children of two affected sisters with similar CTG expansion and clinical manifestations .",
+        "entities": [
+            {
+                "word": "myotonic dystrophy",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "source": "NCBI Disease",
+        "text": "In myotonic dystrophy ( DM ) , the size of a CTG repeat in the DM kinase gene generally increases in successive generations with clinical evidence of anticipation .",
+        "entities": [
+            {
+                "word": "myotonic dystrophy",
+                "label": "DISEASE",
+                "start_idx": 1
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 4
+            },
+            {
+                "word": "DM",
+                "label": "DISEASE",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "source": "NCBI Disease",
+        "text": "We were unable to detect BRCA1 mutations in 4 of the 20 families , but only 1 of these was clearly linked to BRCA1 .",
+        "entities": []
+    },
+    {
+        "id": 196,
+        "source": "NCBI Disease",
+        "text": "In summary , our data suggest a role for some uncharacterized variants and rare forms of polymorphisms in determining ovarian cancer risk , and highlight the necessity to screen for missense alterations as well as truncating mutations in this population .",
+        "entities": [
+            {
+                "word": "ovarian cancer",
+                "label": "DISEASE",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "source": "NCBI Disease",
+        "text": "Thus , altered ion homeostasis within the lens may contribute to cataract formation .",
+        "entities": [
+            {
+                "word": "cataract",
+                "label": "DISEASE",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "source": "NCBI Disease",
+        "text": "The latter subjects had an additional mutation , at nucleotide 1311 , that did not produce a coding change .",
+        "entities": []
+    },
+    {
+        "id": 199,
+        "source": "NCBI Disease",
+        "text": "Further mapping of an ataxia - telangiectasia locus to the chromosome 11q23 region .",
+        "entities": [
+            {
+                "word": "ataxia - telangiectasia",
+                "label": "DISEASE",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "source": "NCBI Disease",
+        "text": "Cloning mutant forms of cDNA allows identification of specific mutations , provides insight into mutational mechanisms , and facilitates structure - function analysis of mutant proteins . .",
+        "entities": []
+    },
+    {
+        "id": 201,
+        "source": "JNLPBA",
+        "text": "One of these clones , pZVH14 , activated the HIV promoter construct containing a mutation in the NF kappa B site .",
+        "entities": [
+            {
+                "word": "pZVH14",
+                "label": "DNA",
+                "start_idx": 5
+            },
+            {
+                "word": "HIV promoter construct",
+                "label": "DNA",
+                "start_idx": 9
+            },
+            {
+                "word": "NF kappa B site",
+                "label": "DNA",
+                "start_idx": 17
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "source": "JNLPBA",
+        "text": "Several antiandrogens show agonistic properties for a mutated androgen receptor ( LNCaP cell variant ) ; trypsin digestion of antiandrogen-bound mutated receptor also resulted in a 29-kDa fragment .",
+        "entities": [
+            {
+                "word": "mutated androgen receptor",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "LNCaP cell variant",
+                "label": "cell_line",
+                "start_idx": 11
+            },
+            {
+                "word": "trypsin",
+                "label": "protein",
+                "start_idx": 16
+            },
+            {
+                "word": "antiandrogen-bound mutated receptor",
+                "label": "protein",
+                "start_idx": 19
+            },
+            {
+                "word": "29-kDa fragment",
+                "label": "protein",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 204,
+        "source": "JNLPBA",
+        "text": "It will further elaborate on the attempts to develop successful immunotherapy and drug therapy targeting Ras expressing tumors .",
+        "entities": [
+            {
+                "word": "Ras",
+                "label": "protein",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "source": "JNLPBA",
+        "text": "Few , if any , studies have been made on the impact of these compounds on the immune system .",
+        "entities": []
+    },
+    {
+        "id": 206,
+        "source": "JNLPBA",
+        "text": "We hypothesized that activation of the protein kinase A signaling pathway may inhibit NF-kappaB -mediated transcription by phosphorylating proteins , such as cAMP response element-binding protein ( CREB ) , which compete for limiting amounts of the coactivator CBP .",
+        "entities": [
+            {
+                "word": "protein kinase A",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "NF-kappaB",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "cAMP response element-binding protein",
+                "label": "protein",
+                "start_idx": 22
+            },
+            {
+                "word": "CREB",
+                "label": "protein",
+                "start_idx": 27
+            },
+            {
+                "word": "CBP",
+                "label": "protein",
+                "start_idx": 38
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 208,
+        "source": "JNLPBA",
+        "text": "Variants with exons 2 and 7 deleted were present in all specimens tested .",
+        "entities": [
+            {
+                "word": "exons 2 and 7",
+                "label": "DNA",
+                "start_idx": 2
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "source": "JNLPBA",
+        "text": "Production of IL-8 by hypoxic ECs occurred concomitantly with both increased levels of IL-8 mRNA , based on polymerase chain reaction analysis , and increased IL-8 transcription , based on nuclear run-on assays .",
+        "entities": [
+            {
+                "word": "IL-8",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "ECs",
+                "label": "cell_type",
+                "start_idx": 5
+            },
+            {
+                "word": "IL-8 mRNA",
+                "label": "RNA",
+                "start_idx": 13
+            },
+            {
+                "word": "IL-8",
+                "label": "protein",
+                "start_idx": 25
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "source": "JNLPBA",
+        "text": "NFATc overcame a blockade at reverse transcription and permitted active HIV-1 replication .",
+        "entities": [
+            {
+                "word": "NFATc",
+                "label": "protein",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "source": "JNLPBA",
+        "text": "In contrast , the adherence parameter has no effect on the IL-10 -induced modulation of some monocyte surface markers .",
+        "entities": [
+            {
+                "word": "IL-10",
+                "label": "protein",
+                "start_idx": 11
+            },
+            {
+                "word": "monocyte surface markers",
+                "label": "protein",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "source": "JNLPBA",
+        "text": "No positive effect of the duplicated CTG-motif could be detected .",
+        "entities": [
+            {
+                "word": "CTG-motif",
+                "label": "DNA",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "source": "JNLPBA",
+        "text": "Control peptides corresponding to the normal pml and RAR alpha proteins were not recognized .",
+        "entities": [
+            {
+                "word": "pml",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "RAR alpha proteins",
+                "label": "protein",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "source": "JNLPBA",
+        "text": "Interestingly , the deduced amino acid sequence was found to be related to fungal C8-C7 sterol isomerase , encoded by the ERG2 gene .",
+        "entities": [
+            {
+                "word": "fungal C8-C7 sterol isomerase",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "ERG2 gene",
+                "label": "DNA",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "source": "JNLPBA",
+        "text": "Prostaglandin E2 induction of binding activity to CRE and AP-2 elements in human T lymphocytes .",
+        "entities": [
+            {
+                "word": "CRE",
+                "label": "DNA",
+                "start_idx": 7
+            },
+            {
+                "word": "AP-2 elements",
+                "label": "DNA",
+                "start_idx": 9
+            },
+            {
+                "word": "human T lymphocytes",
+                "label": "cell_type",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "source": "JNLPBA",
+        "text": "In a mobility shift assay , only the NF-kappa B ( p50/p50 ) homodimer was observed in a complex formed with the kappa B sequence in unstimulated SP-B21 cells .",
+        "entities": [
+            {
+                "word": "NF-kappa B ( p50/p50 ) homodimer",
+                "label": "protein",
+                "start_idx": 8
+            },
+            {
+                "word": "kappa B sequence",
+                "label": "DNA",
+                "start_idx": 22
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "source": "JNLPBA",
+        "text": "These results suggest that homodimerization of the IL-4Ralpha chain is sufficient to transduce Jak1 -dependent intracellular signals that lead to IgE isotype switching .",
+        "entities": [
+            {
+                "word": "IL-4Ralpha chain",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "Jak1",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "IgE isotype",
+                "label": "protein",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "source": "JNLPBA",
+        "text": "Moreover , anti-TNF-alpha inhibited HIV-1 long terminal repeat ( LTR ) -driven transcription of a reporter gene in primary T cells in response to activation , either in the presence or the absence of HIV-1 Tat .",
+        "entities": [
+            {
+                "word": "anti-TNF-alpha",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "HIV-1 long terminal repeat",
+                "label": "DNA",
+                "start_idx": 4
+            },
+            {
+                "word": "LTR",
+                "label": "DNA",
+                "start_idx": 9
+            },
+            {
+                "word": "reporter gene",
+                "label": "DNA",
+                "start_idx": 15
+            },
+            {
+                "word": "primary T cells",
+                "label": "cell_type",
+                "start_idx": 18
+            },
+            {
+                "word": "HIV-1 Tat",
+                "label": "protein",
+                "start_idx": 34
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "source": "JNLPBA",
+        "text": "An element termed E1 located at -108 to -95 nt relative to the major transcription start site was found to be critical for the promoter activity .",
+        "entities": [
+            {
+                "word": "E1",
+                "label": "DNA",
+                "start_idx": 3
+            },
+            {
+                "word": "-108 to -95 nt",
+                "label": "DNA",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "source": "JNLPBA",
+        "text": "The L gene produces the erythroid ( R-PK ) or the hepatic ( L-PK ) isozymes by the alternative use of two promoters .",
+        "entities": [
+            {
+                "word": "L gene",
+                "label": "DNA",
+                "start_idx": 1
+            },
+            {
+                "word": "erythroid",
+                "label": "protein",
+                "start_idx": 5
+            },
+            {
+                "word": "R-PK",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "hepatic ( L-PK ) isozymes",
+                "label": "protein",
+                "start_idx": 11
+            },
+            {
+                "word": "promoters",
+                "label": "DNA",
+                "start_idx": 22
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "source": "JNLPBA",
+        "text": "Perhaps deoxycorticosterone or a hitherto unknown mineralocorticoid is responsible for the hypertension and altered MR -status .",
+        "entities": [
+            {
+                "word": "MR",
+                "label": "protein",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "source": "JNLPBA",
+        "text": "All mutants were tested for their ability to interfere with wild-type CIITA activity .",
+        "entities": [
+            {
+                "word": "CIITA",
+                "label": "protein",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "source": "JNLPBA",
+        "text": "In this study , we examined the molecular mechanism by which agents that elevate intracellular cAMP inhibit the expression of the tumor necrosis factor alpha ( TNFalpha ) , tissue factor , endothelial leukocyte adhesion molecule-1 , and vascular cell adhesion molecule-1 genes .",
+        "entities": [
+            {
+                "word": "tumor necrosis factor alpha",
+                "label": "protein",
+                "start_idx": 21
+            },
+            {
+                "word": "TNFalpha",
+                "label": "protein",
+                "start_idx": 26
+            },
+            {
+                "word": "tissue factor",
+                "label": "protein",
+                "start_idx": 29
+            },
+            {
+                "word": "endothelial leukocyte adhesion molecule-1",
+                "label": "protein",
+                "start_idx": 32
+            },
+            {
+                "word": "vascular cell adhesion molecule-1 genes",
+                "label": "DNA",
+                "start_idx": 38
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 225,
+        "source": "JNLPBA",
+        "text": "Activated platelets induce monocyte chemotactic protein-1 secretion and surface expression of intercellular adhesion molecule-1 on endothelial cells [ see comments ]",
+        "entities": [
+            {
+                "word": "Activated platelets",
+                "label": "cell_type",
+                "start_idx": 0
+            },
+            {
+                "word": "monocyte chemotactic protein-1",
+                "label": "protein",
+                "start_idx": 3
+            },
+            {
+                "word": "intercellular adhesion molecule-1",
+                "label": "cell_type",
+                "start_idx": 11
+            },
+            {
+                "word": "endothelial cells",
+                "label": "cell_type",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 227,
+        "source": "JNLPBA",
+        "text": "We investigated the trophic effect resulting from activation of such a receptor by using the reporter gene strategy .",
+        "entities": [
+            {
+                "word": "reporter gene",
+                "label": "DNA",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "source": "JNLPBA",
+        "text": "Aldosterone levels returned to normal nonpregnant values after delivery .",
+        "entities": []
+    },
+    {
+        "id": 229,
+        "source": "JNLPBA",
+        "text": "TNF and LPS stimulated vascular cell adhesion molecule ( VCAM ) -1 surface expression and adhesion of U-937 monocyte-like cells to HUVECs but not to HUAECs .",
+        "entities": [
+            {
+                "word": "TNF",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "vascular cell adhesion molecule",
+                "label": "protein",
+                "start_idx": 4
+            },
+            {
+                "word": "VCAM",
+                "label": "protein",
+                "start_idx": 9
+            },
+            {
+                "word": "U-937 monocyte-like cells",
+                "label": "cell_line",
+                "start_idx": 17
+            },
+            {
+                "word": "HUVECs",
+                "label": "cell_type",
+                "start_idx": 21
+            },
+            {
+                "word": "HUAECs",
+                "label": "cell_type",
+                "start_idx": 25
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 231,
+        "source": "JNLPBA",
+        "text": "We measured effects on the HIV-1 LTR in T cell lines that were stimulated with antibodies against CD45 and in those that lacked the expression of CD45 on their surfaces .",
+        "entities": [
+            {
+                "word": "HIV-1 LTR",
+                "label": "DNA",
+                "start_idx": 5
+            },
+            {
+                "word": "T cell lines",
+                "label": "cell_line",
+                "start_idx": 8
+            },
+            {
+                "word": "CD45",
+                "label": "protein",
+                "start_idx": 17
+            },
+            {
+                "word": "CD45",
+                "label": "protein",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 233,
+        "source": "JNLPBA",
+        "text": "The cyclin-dependent kinase ( cdk ) inhibitor p21 ( WAF1/CIP1 ) has a vitamin D3-responsive element ( VDRE ) in its promoter , and 1 , 25 ( OH ) 2D3 enhances the expression of p21 ( WAF1/CIP1 ) and induces differentiation of selected myeloid leukemic cell lines .",
+        "entities": [
+            {
+                "word": "cyclin-dependent kinase ( cdk ) inhibitor",
+                "label": "protein",
+                "start_idx": 1
+            },
+            {
+                "word": "p21 ( WAF1/CIP1 )",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "vitamin D3-responsive element",
+                "label": "DNA",
+                "start_idx": 13
+            },
+            {
+                "word": "VDRE",
+                "label": "DNA",
+                "start_idx": 17
+            },
+            {
+                "word": "promoter",
+                "label": "DNA",
+                "start_idx": 21
+            },
+            {
+                "word": "p21 ( WAF1/CIP1 )",
+                "label": "protein",
+                "start_idx": 35
+            },
+            {
+                "word": "myeloid leukemic cell lines",
+                "label": "cell_line",
+                "start_idx": 44
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "source": "JNLPBA",
+        "text": "To determine if TPCK and TLCK inhibited LPS induction of TF expression , freshly isolated human monocytes and monocytic THP-1 cells were pretreated with these inhibitors for 30 min before LPS stimulation .",
+        "entities": [
+            {
+                "word": "TF",
+                "label": "protein",
+                "start_idx": 10
+            },
+            {
+                "word": "human monocytes",
+                "label": "cell_type",
+                "start_idx": 15
+            },
+            {
+                "word": "monocytic THP-1 cells",
+                "label": "cell_line",
+                "start_idx": 18
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "source": "JNLPBA",
+        "text": "Early studies in murine T cell lines indicated that transcriptional transactivation functions encoded in the glucocorticoid receptor ( GR ) N-terminal domain are required for glucocorticoid-mediated apoptosis .",
+        "entities": [
+            {
+                "word": "T cell lines",
+                "label": "cell_line",
+                "start_idx": 4
+            },
+            {
+                "word": "glucocorticoid receptor ( GR ) N-terminal domain",
+                "label": "protein",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "source": "JNLPBA",
+        "text": "The -1053/+34 construct allowed promoter activity only in cells of hematopoietic origin , and tissue specificity was conserved in all other constructs tested .",
+        "entities": [
+            {
+                "word": "-1053/+34 construct",
+                "label": "DNA",
+                "start_idx": 1
+            },
+            {
+                "word": "hematopoietic origin",
+                "label": "cell_type",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "source": "JNLPBA",
+        "text": "Postoperatively , blood was taken as well in order to compare pre- and postoperative values .",
+        "entities": []
+    },
+    {
+        "id": 238,
+        "source": "JNLPBA",
+        "text": "AML1a expression was associated with enhanced sensitivity to megakaryocytic differentiation induced by phorbol ester .",
+        "entities": [
+            {
+                "word": "AML1a",
+                "label": "protein",
+                "start_idx": 0
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "source": "JNLPBA",
+        "text": "When CD45RA+ ( naive ) and CD45RO+ ( memory ) T lymphocytes were directly stimulated with H2O2 , NF-kappaB nuclear translocation was stronger in naive cells than in memory cells and it could be induced with lower doses .",
+        "entities": [
+            {
+                "word": "CD45RA+ ( naive )",
+                "label": "cell_type",
+                "start_idx": 1
+            },
+            {
+                "word": "CD45RO+ ( memory ) T lymphocytes",
+                "label": "cell_type",
+                "start_idx": 6
+            },
+            {
+                "word": "NF-kappaB",
+                "label": "protein",
+                "start_idx": 18
+            },
+            {
+                "word": "naive cells",
+                "label": "cell_type",
+                "start_idx": 24
+            },
+            {
+                "word": "memory cells",
+                "label": "cell_type",
+                "start_idx": 28
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "source": "JNLPBA",
+        "text": "In this regard , intracellular levels of c-fos appear to be influential .",
+        "entities": [
+            {
+                "word": "c-fos",
+                "label": "protein",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "source": "JNLPBA",
+        "text": "Quantitative thin-layer chromatography ( TLC ) analyses showed that HL60 and normal cells are able to generate estrone ( E1 ) from estradiol ( E2 ) .",
+        "entities": [
+            {
+                "word": "HL60",
+                "label": "cell_line",
+                "start_idx": 9
+            },
+            {
+                "word": "normal cells",
+                "label": "cell_type",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "source": "JNLPBA",
+        "text": "CD27 /CD70 interaction augments IgE secretion by promoting the differentiation of memory B cells into plasma cells .",
+        "entities": [
+            {
+                "word": "CD27",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "IgE",
+                "label": "protein",
+                "start_idx": 4
+            },
+            {
+                "word": "memory B cells",
+                "label": "cell_type",
+                "start_idx": 11
+            },
+            {
+                "word": "plasma cells",
+                "label": "cell_type",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 244,
+        "source": "JNLPBA",
+        "text": "All tissues and cells studied were homozygous for the wild-type gene , and were heterozygous as well as homozygous for the codon-10-variant type .",
+        "entities": [
+            {
+                "word": "wild-type gene",
+                "label": "DNA",
+                "start_idx": 9
+            },
+            {
+                "word": "codon-10-variant type",
+                "label": "DNA",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 246,
+        "source": "JNLPBA",
+        "text": "In addition to contributing to the understanding of DLCL pathogenesis , the identification of BCL-6 lesions may have relevant clinical implications .",
+        "entities": [
+            {
+                "word": "BCL-6",
+                "label": "protein",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "source": "JNLPBA",
+        "text": "We identified a stretch of 23 amino acids , rich in serine and threonine residues , which was responsible for most of the repression activity .",
+        "entities": []
+    },
+    {
+        "id": 248,
+        "source": "JNLPBA",
+        "text": "In contrast , STAT3 activation is induced in B-2 cells after antigen receptor engagement in a delayed fashion ( after 3 h ) .",
+        "entities": [
+            {
+                "word": "STAT3",
+                "label": "protein",
+                "start_idx": 3
+            },
+            {
+                "word": "B-2 cells",
+                "label": "cell_type",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "source": "JNLPBA",
+        "text": "These results are in a dose range where the viability of the cells remains very high .",
+        "entities": []
+    },
+    {
+        "id": 250,
+        "source": "JNLPBA",
+        "text": "In the human monocytic cell line THP-1 , either integrin -dependent cell adhesion to fibronectin or ligation of beta 1 integrins with antibodies causes a rapid and intense tyrosine phosphorylation of two sets of proteins of about 65-75 and 120-125 kDa .",
+        "entities": [
+            {
+                "word": "human monocytic cell line THP-1",
+                "label": "cell_line",
+                "start_idx": 2
+            },
+            {
+                "word": "integrin",
+                "label": "protein",
+                "start_idx": 9
+            },
+            {
+                "word": "fibronectin",
+                "label": "protein",
+                "start_idx": 14
+            },
+            {
+                "word": "antibodies",
+                "label": "protein",
+                "start_idx": 22
+            },
+            {
+                "word": "65-75 and 120-125 kDa",
+                "label": "protein",
+                "start_idx": 37
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "source": "JNLPBA",
+        "text": "GATA-1 protein and mRNA vary in a similar manner through the cell cycle , suggesting that the expression of the gene or the stability of its message is regulated .",
+        "entities": [
+            {
+                "word": "GATA-1",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "mRNA",
+                "label": "RNA",
+                "start_idx": 3
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "source": "JNLPBA",
+        "text": "The Sp1 transcription factor bound to three different regions in the CD14 promoter .",
+        "entities": [
+            {
+                "word": "Sp1",
+                "label": "protein",
+                "start_idx": 1
+            },
+            {
+                "word": "transcription factor",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "CD14 promoter",
+                "label": "DNA",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "source": "JNLPBA",
+        "text": "Various antioxidants , such as pyrrolidine dithiocarbamate , p-bromophenacyl-bromide and nordihydroguaiaretic acid could strongly reduce NF-kappaB translocation , demonstrating the importance of oxidative species in the transduction mechanism .",
+        "entities": [
+            {
+                "word": "NF-kappaB",
+                "label": "protein",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "source": "JNLPBA",
+        "text": "The C/EBP motif is bound by Ig/EBP-1 in pre-B cell and T cell extracts , but is replaced by nuclear factor-IL-6beta or a nuclear factor-IL-6beta-Ig/EBP-1 heterodimer in plasmacytoma cell extracts .",
+        "entities": [
+            {
+                "word": "C/EBP motif",
+                "label": "DNA",
+                "start_idx": 1
+            },
+            {
+                "word": "Ig/EBP-1",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "nuclear factor-IL-6beta",
+                "label": "protein",
+                "start_idx": 19
+            },
+            {
+                "word": "nuclear factor-IL-6beta-Ig/EBP-1 heterodimer",
+                "label": "protein",
+                "start_idx": 23
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "source": "JNLPBA",
+        "text": "Overexpression of UDG in Saos 2 cells was observed to delay growth late in G1 phase and transiently arrest these cells from progressing into the S phase .",
+        "entities": [
+            {
+                "word": "UDG",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "Saos 2 cells",
+                "label": "cell_line",
+                "start_idx": 4
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "source": "JNLPBA",
+        "text": "A dominant inhibitory ras mutant specifically blocked antigen receptor agonism , indicating that ras activity is required for antigen receptor signaling .",
+        "entities": [
+            {
+                "word": "dominant inhibitory ras mutant",
+                "label": "protein",
+                "start_idx": 1
+            },
+            {
+                "word": "ras",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "antigen receptor",
+                "label": "protein",
+                "start_idx": 18
+            }
+        ]
+    },
+    {
+        "id": 257,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 258,
+        "source": "JNLPBA",
+        "text": "Capacitance would simply involve expression of IL-12R beta 1 and beta 2 subunits , regulated by TCR , IL-4 and IFNs .",
+        "entities": [
+            {
+                "word": "IL-12R beta 1 and beta 2 subunits",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "IL-4",
+                "label": "protein",
+                "start_idx": 18
+            },
+            {
+                "word": "IFNs",
+                "label": "protein",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "source": "JNLPBA",
+        "text": "The second male patient had slight hypertension without hypokalemia .",
+        "entities": []
+    },
+    {
+        "id": 260,
+        "source": "JNLPBA",
+        "text": "This work aims at identifying the thymocyte subpopulation able to support human immunodeficiency virus ( HIV ) replication under the biological stimuli of the thymic microenvironment .",
+        "entities": []
+    },
+    {
+        "id": 261,
+        "source": "JNLPBA",
+        "text": "Isolation and characterization of gelatinase granules from human neutrophils .",
+        "entities": [
+            {
+                "word": "human neutrophils",
+                "label": "cell_type",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 262,
+        "source": "JNLPBA",
+        "text": "Activation of TGF-beta 2 transcription correlates with the loss of binding activity for an 80 kDA glial labile repressor protein , GLRP , to a responsive region within the TFG-beta 2 promoter .",
+        "entities": [
+            {
+                "word": "TGF-beta 2",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "80 kDA glial labile repressor protein",
+                "label": "protein",
+                "start_idx": 14
+            },
+            {
+                "word": "GLRP",
+                "label": "protein",
+                "start_idx": 21
+            },
+            {
+                "word": "TFG-beta 2 promoter",
+                "label": "DNA",
+                "start_idx": 29
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "source": "JNLPBA",
+        "text": "This segment functions as an IL-2-inducible enhancer and lies within a region that becomes DNase I hypersensitive in normal T cells in which IL-2R alpha expression has been induced .",
+        "entities": [
+            {
+                "word": "IL-2-inducible enhancer",
+                "label": "DNA",
+                "start_idx": 5
+            },
+            {
+                "word": "DNase I",
+                "label": "protein",
+                "start_idx": 14
+            },
+            {
+                "word": "T cells",
+                "label": "cell_type",
+                "start_idx": 19
+            },
+            {
+                "word": "IL-2R alpha",
+                "label": "protein",
+                "start_idx": 23
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "source": "JNLPBA",
+        "text": "Cloning and expression of the Epstein-Barr virus-encoded dUTPase : patients with acute , reactivated or chronic virus infection develop antibodies against the enzyme .",
+        "entities": [
+            {
+                "word": "Epstein-Barr virus-encoded dUTPase",
+                "label": "protein",
+                "start_idx": 5
+            },
+            {
+                "word": "antibodies",
+                "label": "protein",
+                "start_idx": 19
+            },
+            {
+                "word": "enzyme",
+                "label": "protein",
+                "start_idx": 22
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "source": "JNLPBA",
+        "text": "Electrophoretic mobility shift ( EMS ) analyses utilizing oligonucleotides homologous to each of the 21 bp repeat elements reacted with nuclear extracts derived from cell lines of lymphocytic , monocytic , neuronal , and glial cell origin have demonstrated differential binding of cellular factors to the three 21 bp repeats ( 1-4 ) .",
+        "entities": [
+            {
+                "word": "21 bp repeat elements",
+                "label": "DNA",
+                "start_idx": 14
+            },
+            {
+                "word": "cell lines",
+                "label": "cell_line",
+                "start_idx": 24
+            },
+            {
+                "word": "lymphocytic , monocytic , neuronal , and glial cell origin",
+                "label": "cell_type",
+                "start_idx": 27
+            },
+            {
+                "word": "cellular factors",
+                "label": "protein",
+                "start_idx": 42
+            },
+            {
+                "word": "21 bp repeats",
+                "label": "DNA",
+                "start_idx": 47
+            }
+        ]
+    },
+    {
+        "id": 266,
+        "source": "JNLPBA",
+        "text": "A specific p38 MAPk inhibitor ( SK & F 86002 ) blocked superoxide anion production in response to FMLP and reduced adhesion and chemotaxis in response to PAF or FMLP .",
+        "entities": [
+            {
+                "word": "p38 MAPk",
+                "label": "protein",
+                "start_idx": 2
+            },
+            {
+                "word": "FMLP",
+                "label": "protein",
+                "start_idx": 18
+            },
+            {
+                "word": "PAF",
+                "label": "protein",
+                "start_idx": 27
+            },
+            {
+                "word": "FMLP",
+                "label": "protein",
+                "start_idx": 29
+            }
+        ]
+    },
+    {
+        "id": 267,
+        "source": "JNLPBA",
+        "text": "2 , 3 , 7 , 8-tetrachlorodibenzo-p-dioxin ( TCDD ) inhibits murine and human B lymphocyte immunoglobulin production through an unknown mechanism .",
+        "entities": []
+    },
+    {
+        "id": 268,
+        "source": "JNLPBA",
+        "text": "Tissue specific regulation of gene expression by transcription factors is a fascinating new field in molecular immunology .",
+        "entities": [
+            {
+                "word": "transcription factors",
+                "label": "protein",
+                "start_idx": 7
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "source": "JNLPBA",
+        "text": "Two explanations for hyporesponsiveness of the human iNOS promoter to LPS +/- IFN-gamma were found : ( 1 ) multiple inactivating nucleotide substitutions in the human counterpart of the enhancer element that has been shown to regulate LPS/ IFN-gamma induced expression of the mouse iNOS gene ; and ( 2 ) and absence of one or more nuclear factors in human macrophages ( e.g. , an LPS-inducible nuclear factor-kappa B/Rel complex ) , that is ( are ) required for maximal expression of the gene .",
+        "entities": [
+            {
+                "word": "human iNOS promoter",
+                "label": "DNA",
+                "start_idx": 6
+            },
+            {
+                "word": "IFN-gamma",
+                "label": "protein",
+                "start_idx": 12
+            },
+            {
+                "word": "enhancer element",
+                "label": "DNA",
+                "start_idx": 29
+            },
+            {
+                "word": "IFN-gamma",
+                "label": "protein",
+                "start_idx": 38
+            },
+            {
+                "word": "mouse iNOS gene",
+                "label": "DNA",
+                "start_idx": 43
+            },
+            {
+                "word": "nuclear factors",
+                "label": "protein",
+                "start_idx": 57
+            },
+            {
+                "word": "human macrophages",
+                "label": "cell_type",
+                "start_idx": 60
+            },
+            {
+                "word": "LPS-inducible nuclear factor-kappa B/Rel complex",
+                "label": "protein",
+                "start_idx": 66
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "source": "JNLPBA",
+        "text": "To determine and compare protein/DNA interactions at the native IFN-gamma locus in T cells , we analyzed the human IFN-gamma promoter by ligation-mediated polymerase chain reaction ( LM-PCR ) techniques .",
+        "entities": [
+            {
+                "word": "IFN-gamma",
+                "label": "protein",
+                "start_idx": 9
+            },
+            {
+                "word": "T cells",
+                "label": "cell_type",
+                "start_idx": 12
+            },
+            {
+                "word": "human IFN-gamma promoter",
+                "label": "DNA",
+                "start_idx": 18
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 272,
+        "source": "JNLPBA",
+        "text": "In contrast , the 1.7-kb IRF- CAT construct was inducible by PRL during both G1 and S phase of the cell cycle .",
+        "entities": [
+            {
+                "word": "CAT",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "PRL",
+                "label": "protein",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "source": "JNLPBA",
+        "text": "We have demonstrated earlier that the crosslinkage of the CD3/TCR complex with the CD2 antigen results in the proliferation of normal human T cells .",
+        "entities": [
+            {
+                "word": "CD3/TCR complex",
+                "label": "protein",
+                "start_idx": 9
+            },
+            {
+                "word": "CD2 antigen",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "normal human T cells",
+                "label": "cell_type",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "source": "JNLPBA",
+        "text": "Comparison of tumor specimen from MM precursor lesions , primary tumors , and metastases revealed that CD40 surface expression is down-regulated during tumor progression .",
+        "entities": [
+            {
+                "word": "CD40",
+                "label": "protein",
+                "start_idx": 16
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "source": "JNLPBA",
+        "text": "In this manuscript we have investigated the molecular mechanisms by which T cell lines stimulated with phorbol 12-myristate 13-acetate ( PMA ) and phytohemagglutin ( PHA ) display significantly higher levels of NF-kappa B1 encoding transcripts than cells stimulated with tumor necrosis factor-alpha , despite the fact that both stimuli activate NF-kappa B .",
+        "entities": [
+            {
+                "word": "T cell lines",
+                "label": "cell_line",
+                "start_idx": 11
+            },
+            {
+                "word": "phytohemagglutin",
+                "label": "protein",
+                "start_idx": 23
+            },
+            {
+                "word": "PHA",
+                "label": "protein",
+                "start_idx": 25
+            },
+            {
+                "word": "NF-kappa B1",
+                "label": "protein",
+                "start_idx": 32
+            },
+            {
+                "word": "transcripts",
+                "label": "RNA",
+                "start_idx": 35
+            },
+            {
+                "word": "tumor necrosis factor-alpha",
+                "label": "protein",
+                "start_idx": 40
+            },
+            {
+                "word": "NF-kappa B",
+                "label": "protein",
+                "start_idx": 51
+            }
+        ]
+    },
+    {
+        "id": 276,
+        "source": "JNLPBA",
+        "text": "The RanQ69L preincubation leads to accumulation of CRM1 at the cytoplasmic periphery of the nuclear pore complex ( NPC ) in association with the p62 complex and Can/Nup214 .",
+        "entities": [
+            {
+                "word": "RanQ69L",
+                "label": "protein",
+                "start_idx": 1
+            },
+            {
+                "word": "CRM1",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "nuclear pore complex",
+                "label": "protein",
+                "start_idx": 14
+            },
+            {
+                "word": "NPC",
+                "label": "protein",
+                "start_idx": 18
+            },
+            {
+                "word": "p62 complex",
+                "label": "protein",
+                "start_idx": 24
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "source": "JNLPBA",
+        "text": "Our results suggest that CaMKIV may represent a physiologically relevant CREB kinase in T cells and that the enzyme is also required to ensure normal expansion of T cells in the thymus .",
+        "entities": [
+            {
+                "word": "CaMKIV",
+                "label": "protein",
+                "start_idx": 4
+            },
+            {
+                "word": "CREB kinase",
+                "label": "protein",
+                "start_idx": 10
+            },
+            {
+                "word": "T cells",
+                "label": "cell_type",
+                "start_idx": 13
+            },
+            {
+                "word": "T cells",
+                "label": "cell_type",
+                "start_idx": 27
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "source": "JNLPBA",
+        "text": "Despite the widespread use of glucocorticoids in the treatment of diseases characterized by inflammation , the molecular mechanism ( s ) by which these hormones exert this beneficial effect in patients with asthma remains to be elucidated .",
+        "entities": []
+    },
+    {
+        "id": 279,
+        "source": "JNLPBA",
+        "text": "The different patterns of p50 , p52 and RelB protein nuclear localization may provide insight into their different roles during the immune response in vivo .",
+        "entities": [
+            {
+                "word": "p50",
+                "label": "protein",
+                "start_idx": 4
+            },
+            {
+                "word": "p52",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "RelB",
+                "label": "protein",
+                "start_idx": 8
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "source": "JNLPBA",
+        "text": "EBV-encoded nuclear antigen ( EBNA ) -1 is expressed , whereas the immunogenic and proliferative EBNAs are not .",
+        "entities": [
+            {
+                "word": "EBV-encoded nuclear antigen ( EBNA ) -1",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "EBNAs",
+                "label": "protein",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "source": "JNLPBA",
+        "text": "The transcription factors active at the IL-2 promoter were differentially influenced : upon down-modulation of okadaic acid-sensitive phosphatases , transactivation by octamer , NF-kappa B , and NF of activated T cells proteins was abrogated , while transactivation by AP-1 proteins was even enhanced .",
+        "entities": [
+            {
+                "word": "transcription factors",
+                "label": "protein",
+                "start_idx": 1
+            },
+            {
+                "word": "IL-2 promoter",
+                "label": "DNA",
+                "start_idx": 6
+            },
+            {
+                "word": "okadaic acid-sensitive phosphatases",
+                "label": "protein",
+                "start_idx": 15
+            },
+            {
+                "word": "NF-kappa B",
+                "label": "protein",
+                "start_idx": 23
+            },
+            {
+                "word": "NF of activated T cells proteins",
+                "label": "protein",
+                "start_idx": 27
+            },
+            {
+                "word": "AP-1 proteins was even enhanced .",
+                "label": "protein",
+                "start_idx": 39
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "source": "JNLPBA",
+        "text": "By comparing the expression of genes controlling apoptosis , including those encoding several members of the BCL-2 family of proteins , the known relative resistance of EBV-immortalized B-cell lines to apoptosis induced by low serum was found to correlate with expression of both BCL-2 and A20 .",
+        "entities": [
+            {
+                "word": "BCL-2 family",
+                "label": "protein",
+                "start_idx": 16
+            },
+            {
+                "word": "EBV-immortalized B-cell lines",
+                "label": "cell_line",
+                "start_idx": 26
+            },
+            {
+                "word": "BCL-2",
+                "label": "protein",
+                "start_idx": 43
+            },
+            {
+                "word": "A20",
+                "label": "protein",
+                "start_idx": 45
+            }
+        ]
+    },
+    {
+        "id": 283,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 284,
+        "source": "JNLPBA",
+        "text": "The generation of cell-mediated immunity against many infectious pathogens involves the production of interleukin-12 ( IL-12 ) , a key signal of the innate immune system .",
+        "entities": [
+            {
+                "word": "interleukin-12",
+                "label": "protein",
+                "start_idx": 13
+            },
+            {
+                "word": "IL-12",
+                "label": "protein",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 285,
+        "source": "JNLPBA",
+        "text": "Selected transfected clones produced low levels of IFN A ( IFNA ) constitutively , and their abilities to express interleukin-2 and interleukin-2 receptor upon stimulation with phytohemagglutinin and phorbol myristate acetate were retained .",
+        "entities": [
+            {
+                "word": "transfected clones",
+                "label": "cell_line",
+                "start_idx": 1
+            },
+            {
+                "word": "IFN A",
+                "label": "protein",
+                "start_idx": 7
+            },
+            {
+                "word": "IFNA",
+                "label": "protein",
+                "start_idx": 10
+            },
+            {
+                "word": "interleukin-2",
+                "label": "protein",
+                "start_idx": 19
+            },
+            {
+                "word": "interleukin-2 receptor",
+                "label": "protein",
+                "start_idx": 21
+            },
+            {
+                "word": "phytohemagglutinin",
+                "label": "protein",
+                "start_idx": 26
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "source": "JNLPBA",
+        "text": "PEBP2 alpha B is the murine counterpart of human AML1 , which is located at the breakpoints of the 8 ; 21 and 3 ; 21 chromosome translocations associated with acute myeloid leukemia .",
+        "entities": [
+            {
+                "word": "PEBP2 alpha B",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "murine counterpart",
+                "label": "protein",
+                "start_idx": 5
+            },
+            {
+                "word": "human AML1",
+                "label": "protein",
+                "start_idx": 8
+            },
+            {
+                "word": "8 ; 21 and 3 ; 21 chromosome translocations",
+                "label": "DNA",
+                "start_idx": 19
+            }
+        ]
+    },
+    {
+        "id": 287,
+        "source": "JNLPBA",
+        "text": "RESULTS : Both all-trans and 9-cis RA inhibited virus replication in HIV-1 IIIB-infected monocytoid cells , in the presence and absence of the co-stimulatory agent phorbol myristate acetate ( PMA ) .",
+        "entities": [
+            {
+                "word": "HIV-1 IIIB-infected monocytoid cells",
+                "label": "cell_line",
+                "start_idx": 11
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "source": "JNLPBA",
+        "text": "-DOCSTART-",
+        "entities": []
+    },
+    {
+        "id": 289,
+        "source": "JNLPBA",
+        "text": "cDNA microarrays and a clustering algorithm were used to identify patterns of gene expression in human mammary epithelial cells growing in culture and in primary human breast tumors .",
+        "entities": [
+            {
+                "word": "cDNA microarrays",
+                "label": "DNA",
+                "start_idx": 0
+            },
+            {
+                "word": "human mammary epithelial cells",
+                "label": "cell_type",
+                "start_idx": 15
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "source": "JNLPBA",
+        "text": "Despite the dual specificity of HTLV-1 Tax for IkappaBalpha and IkappaBbeta at the protein level , Tax selectively stimulates NF-kappaB -directed transcription of the IkappaBalpha gene .",
+        "entities": [
+            {
+                "word": "Tax",
+                "label": "protein",
+                "start_idx": 6
+            },
+            {
+                "word": "IkappaBalpha",
+                "label": "protein",
+                "start_idx": 8
+            },
+            {
+                "word": "IkappaBbeta",
+                "label": "protein",
+                "start_idx": 10
+            },
+            {
+                "word": "Tax",
+                "label": "protein",
+                "start_idx": 16
+            },
+            {
+                "word": "NF-kappaB",
+                "label": "protein",
+                "start_idx": 19
+            },
+            {
+                "word": "IkappaBalpha gene",
+                "label": "DNA",
+                "start_idx": 24
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "source": "JNLPBA",
+        "text": "EBNA3C is a potent repressor of transcription when bound to DNA as a fusion with the DNA binding domain ( DBD ) of GALA .",
+        "entities": [
+            {
+                "word": "EBNA3C",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "DNA binding domain",
+                "label": "protein",
+                "start_idx": 16
+            },
+            {
+                "word": "DBD",
+                "label": "protein",
+                "start_idx": 20
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "source": "JNLPBA",
+        "text": "Hemoglobin concentration and gamma-globin and erythroid delta-aminolevulinate synthase mRNA levels were significantly higher in M-TAT/EPO cells than in M-TAT/GM-CSF cells .",
+        "entities": [
+            {
+                "word": "Hemoglobin",
+                "label": "protein",
+                "start_idx": 0
+            },
+            {
+                "word": "gamma-globin",
+                "label": "protein",
+                "start_idx": 3
+            },
+            {
+                "word": "erythroid delta-aminolevulinate synthase mRNA",
+                "label": "RNA",
+                "start_idx": 5
+            },
+            {
+                "word": "M-TAT/EPO cells",
+                "label": "cell_line",
+                "start_idx": 14
+            },
+            {
+                "word": "M-TAT/GM-CSF cells",
+                "label": "cell_line",
+                "start_idx": 18
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "source": "JNLPBA",
+        "text": "On the other hand , only one of the apparently nonfunctional sequence motifs was bound with factors in vivo .",
+        "entities": [
+            {
+                "word": "nonfunctional sequence motifs",
+                "label": "DNA",
+                "start_idx": 10
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "source": "JNLPBA",
+        "text": "c-Jun and GST-pi expression in human plasma cells .",
+        "entities": [
+            {
+                "word": "human plasma cells",
+                "label": "cell_type",
+                "start_idx": 5
+            }
+        ]
+    },
+    {
+        "id": 295,
+        "source": "JNLPBA",
+        "text": "Currently available data indicate that erythroid and megakaryocytic differentiation pathways are closely related to each other , and there may exist progenitor cells common to those two lineages may exist .",
+        "entities": [
+            {
+                "word": "progenitor cells",
+                "label": "cell_type",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "source": "JNLPBA",
+        "text": "Further Northern analyses indicated that there was no significant change in 17beta-HSD IV or DNA-PK ( CS ) mRNA levels following treatment with 1 , 25 ( OH ) 2D3 , although expression of both genes varied with changes in cell proliferation .",
+        "entities": [
+            {
+                "word": "17beta-HSD IV",
+                "label": "protein",
+                "start_idx": 11
+            },
+            {
+                "word": "DNA-PK ( CS ) mRNA",
+                "label": "RNA",
+                "start_idx": 14
+            }
+        ]
+    },
+    {
+        "id": 297,
+        "source": "JNLPBA",
+        "text": "Characterization of the CD48 gene demonstrates a positive element that is specific to Epstein-Barr virus-immortalized B-cell lines and contains an essential NF-kappa B site .",
+        "entities": [
+            {
+                "word": "CD48 gene",
+                "label": "DNA",
+                "start_idx": 3
+            },
+            {
+                "word": "Epstein-Barr virus-immortalized B-cell lines",
+                "label": "cell_type",
+                "start_idx": 13
+            },
+            {
+                "word": "NF-kappa B site",
+                "label": "DNA",
+                "start_idx": 21
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "source": "JNLPBA",
+        "text": "The mechanism and function of the expressed genes during lymphocyte differentiation and in disorders is discussed .",
+        "entities": [
+            {
+                "word": "expressed genes",
+                "label": "DNA",
+                "start_idx": 6
+            }
+        ]
+    },
+    {
+        "id": 299,
+        "source": "JNLPBA",
+        "text": "From AML1 gene , two representative forms of proteins , AML1a and AML1b , are produced by an alternative splicing .",
+        "entities": [
+            {
+                "word": "AML1 gene",
+                "label": "DNA",
+                "start_idx": 1
+            },
+            {
+                "word": "AML1a",
+                "label": "protein",
+                "start_idx": 10
+            },
+            {
+                "word": "AML1b",
+                "label": "protein",
+                "start_idx": 12
+            }
+        ]
+    },
+    {
+        "id": 300,
+        "source": "JNLPBA",
+        "text": "The induction of the AP-1 transcription factor has been ascribed to the early events leading to T cell differentiation and activation .",
+        "entities": [
+            {
+                "word": "AP-1 transcription factor",
+                "label": "protein",
+                "start_idx": 4
+            }
+        ]
+    }
+]
