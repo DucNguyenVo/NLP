@@ -1,0 +1,11 @@
+{
+  "precision": 0.4921135646687697,
+  "recall": 0.6227544910179641,
+  "f1": 0.5497797356828193,
+  "tp": 312,
+  "fp": 322,
+  "fn": 189,
+  "eval_mode": "llm_vs_ground_truth_jaccard_entity",
+  "ground_truth": "data/processed/ground_truth_300.json",
+  "predictions": "data/silver_labels/few_shot_train_multilabel.json"
+}

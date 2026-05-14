@@ -6,21 +6,15 @@
         "entities": [
             {
                 "word": "7H6",
-                "label": "PROTEIN",
-                "start": 30,
-                "end": 33
+                "label": "PROTEIN"
             },
             {
                 "word": "ZO - 1",
-                "label": "PROTEIN",
-                "start": 37,
-                "end": 43
+                "label": "PROTEIN"
             },
             {
                 "word": "hepatocytes",
-                "label": "CELL_TYPE",
-                "start": 69,
-                "end": 80
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -30,16 +24,12 @@
         "text": "Furthermore , it was found that the magnitude of attentional modulation in secondary hyperalgesia is very similar to that of capsaicin - untreated , control condition .",
         "entities": [
             {
-                "word": "secondary hyperalgesia",
-                "label": "DISEASE",
-                "start": 44,
-                "end": 66
+                "word": "hyperalgesia",
+                "label": "DISEASE"
             },
             {
                 "word": "capsaicin",
-                "label": "CHEMICAL",
-                "start": 91,
-                "end": 100
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -56,15 +46,11 @@
         "entities": [
             {
                 "word": "Dbh",
-                "label": "GENE",
-                "start": 4,
-                "end": 7
+                "label": "GENE"
             },
             {
                 "word": "cocaine",
-                "label": "CHEMICAL",
-                "start": 97,
-                "end": 104
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -75,21 +61,15 @@
         "entities": [
             {
                 "word": "WR242511",
-                "label": "CHEMICAL",
-                "start": 26,
-                "end": 34
+                "label": "CHEMICAL"
             },
             {
                 "word": "methemoglobinemia",
-                "label": "DISEASE",
-                "start": 57,
-                "end": 74
+                "label": "DISEASE"
             },
             {
                 "word": "MHb",
-                "label": "CHEMICAL",
-                "start": 133,
-                "end": 136
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -100,9 +80,7 @@
         "entities": [
             {
                 "word": "Verapamil",
-                "label": "CHEMICAL",
-                "start": 0,
-                "end": 9
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -113,9 +91,7 @@
         "entities": [
             {
                 "word": "arrhythmia",
-                "label": "DISEASE",
-                "start": 17,
-                "end": 27
+                "label": "DISEASE"
             }
         ]
     },
@@ -126,15 +102,11 @@
         "entities": [
             {
                 "word": "Grape seed extract",
-                "label": "CHEMICAL",
-                "start": 0,
-                "end": 18
+                "label": "CHEMICAL"
             },
             {
                 "word": "proanthocyanidins",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 56
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -145,39 +117,19 @@
         "entities": [
             {
                 "word": "risperidone",
-                "label": "CHEMICAL",
-                "start": 23,
-                "end": 34
+                "label": "CHEMICAL"
             },
             {
                 "word": "D2 receptor",
-                "label": "PROTEIN",
-                "start": 74,
-                "end": 85
+                "label": "PROTEIN"
             },
             {
-                "word": "123I ] IBZM",
-                "label": "CHEMICAL",
-                "start": 136,
-                "end": 146
-            },
-            {
-                "word": "D2",
-                "label": "PROTEIN",
-                "start": 172,
-                "end": 174
-            },
-            {
-                "word": "risperidone",
-                "label": "CHEMICAL",
-                "start": 223,
-                "end": 234
+                "word": "[ 123I ] IBZM",
+                "label": "CHEMICAL"
             },
             {
                 "word": "haloperidol",
-                "label": "CHEMICAL",
-                "start": 249,
-                "end": 260
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -193,28 +145,20 @@
         "text": "CONCLUSIONS : Direct inhibition of cardiac HCN pacemaker channels contributes to the bradycardic effects of clonidine gene - targeted mice in vivo , and thus , clonidine - like drugs represent novel structures for future HCN channel inhibitors .",
         "entities": [
             {
-                "word": "HCN",
-                "label": "GENE",
-                "start": 30,
-                "end": 33
+                "word": "HCN pacemaker channels",
+                "label": "PROTEIN"
             },
             {
                 "word": "clonidine",
-                "label": "CHEMICAL",
-                "start": 82,
-                "end": 91
+                "label": "CHEMICAL"
             },
             {
                 "word": "clonidine",
-                "label": "CHEMICAL",
-                "start": 139,
-                "end": 148
+                "label": "CHEMICAL"
             },
             {
-                "word": "HCN",
-                "label": "GENE",
-                "start": 182,
-                "end": 185
+                "word": "HCN channel",
+                "label": "PROTEIN"
             }
         ]
     },
@@ -225,45 +169,27 @@
         "entities": [
             {
                 "word": "nicotine",
-                "label": "CHEMICAL",
-                "start": 21,
-                "end": 29
+                "label": "CHEMICAL"
             },
             {
-                "word": "nicotinic",
-                "label": "CHEMICAL",
-                "start": 57,
-                "end": 66
+                "word": "nicotinic antagonist",
+                "label": "PROTEIN"
             },
             {
                 "word": "mecamylamine",
-                "label": "CHEMICAL",
-                "start": 68,
-                "end": 80
+                "label": "CHEMICAL"
             },
             {
-                "word": "nicotinic",
-                "label": "CHEMICAL",
-                "start": 103,
-                "end": 112
+                "word": "nicotinic blocker",
+                "label": "PROTEIN"
             },
             {
                 "word": "hexamethonium",
-                "label": "CHEMICAL",
-                "start": 114,
-                "end": 127
+                "label": "CHEMICAL"
             },
             {
-                "word": "nicotinic",
-                "label": "CHEMICAL",
-                "start": 172,
-                "end": 181
-            },
-            {
-                "word": "receptors",
-                "label": "PROTEIN",
-                "start": 182,
-                "end": 191
+                "word": "nicotinic receptors",
+                "label": "PROTEIN"
             }
         ]
     },
@@ -274,9 +200,7 @@
         "entities": [
             {
                 "word": "calcitonin",
-                "label": "CHEMICAL",
-                "start": 27,
-                "end": 37
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -287,15 +211,15 @@
         "entities": [
             {
                 "word": "nitrendipine",
-                "label": "CHEMICAL",
-                "start": 19,
-                "end": 31
+                "label": "CHEMICAL"
             },
             {
                 "word": "albuminuria",
-                "label": "DISEASE",
-                "start": 50,
-                "end": 61
+                "label": "DISEASE"
+            },
+            {
+                "word": "hypertensive",
+                "label": "DISEASE"
             }
         ]
     },
@@ -306,9 +230,7 @@
         "entities": [
             {
                 "word": "epinephrine",
-                "label": "CHEMICAL",
-                "start": 131,
-                "end": 142
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -319,15 +241,11 @@
         "entities": [
             {
                 "word": "vinorelbine",
-                "label": "CHEMICAL",
-                "start": 19,
-                "end": 30
+                "label": "CHEMICAL"
             },
             {
-                "word": "esophageal carcinoma",
-                "label": "DISEASE",
-                "start": 54,
-                "end": 74
+                "word": "squamous cell esophageal carcinoma",
+                "label": "DISEASE"
             }
         ]
     },
@@ -338,27 +256,23 @@
         "entities": [
             {
                 "word": "pericarditis",
-                "label": "DISEASE",
-                "start": 42,
-                "end": 54
+                "label": "DISEASE"
             },
             {
-                "word": "MPO",
-                "label": "PROTEIN",
-                "start": 60,
-                "end": 63
+                "word": "anti - MPO",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "pANCA",
+                "label": "PROTEIN"
             },
             {
                 "word": "vasculitis",
-                "label": "DISEASE",
-                "start": 82,
-                "end": 92
+                "label": "DISEASE"
             },
             {
                 "word": "propylthio - uracil",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 124
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -369,39 +283,27 @@
         "entities": [
             {
                 "word": "vitamin D3",
-                "label": "CHEMICAL",
-                "start": 33,
-                "end": 43
+                "label": "CHEMICAL"
             },
             {
                 "word": "vitamin D3",
-                "label": "CHEMICAL",
-                "start": 121,
-                "end": 131
+                "label": "CHEMICAL"
             },
             {
                 "word": "milk fever",
-                "label": "DISEASE",
-                "start": 152,
-                "end": 162
+                "label": "DISEASE"
             },
             {
                 "word": "milk fever",
-                "label": "DISEASE",
-                "start": 184,
-                "end": 194
+                "label": "DISEASE"
             },
             {
                 "word": "vitamin D3",
-                "label": "CHEMICAL",
-                "start": 204,
-                "end": 214
+                "label": "CHEMICAL"
             },
             {
                 "word": "milk fever",
-                "label": "DISEASE",
-                "start": 256,
-                "end": 266
+                "label": "DISEASE"
             }
         ]
     },
@@ -418,33 +320,23 @@
         "entities": [
             {
                 "word": "thrombosis",
-                "label": "DISEASE",
-                "start": 53,
-                "end": 63
+                "label": "DISEASE"
             },
             {
                 "word": "HIT",
-                "label": "DISEASE",
-                "start": 98,
-                "end": 101
+                "label": "DISEASE"
             },
             {
                 "word": "thrombosis",
-                "label": "DISEASE",
-                "start": 137,
-                "end": 147
+                "label": "DISEASE"
             },
             {
                 "word": "HIT",
-                "label": "DISEASE",
-                "start": 187,
-                "end": 190
+                "label": "DISEASE"
             },
             {
                 "word": "thrombosis",
-                "label": "DISEASE",
-                "start": 222,
-                "end": 232
+                "label": "DISEASE"
             }
         ]
     },
@@ -455,9 +347,11 @@
         "entities": [
             {
                 "word": "disulfiram",
-                "label": "CHEMICAL",
-                "start": 44,
-                "end": 54
+                "label": "CHEMICAL"
+            },
+            {
+                "word": "ALCOHOL STOP TAB",
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -468,21 +362,11 @@
         "entities": [
             {
                 "word": "cefonicid",
-                "label": "CHEMICAL",
-                "start": 25,
-                "end": 34
+                "label": "CHEMICAL"
             },
             {
                 "word": "cefazedone",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 49
-            },
-            {
-                "word": "cephalosporin",
-                "label": "CHEMICAL",
-                "start": 82,
-                "end": 95
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -493,15 +377,7 @@
         "entities": [
             {
                 "word": "indocyanine green",
-                "label": "CHEMICAL",
-                "start": 51,
-                "end": 68
-            },
-            {
-                "word": "indocyanine green",
-                "label": "CHEMICAL",
-                "start": 164,
-                "end": 181
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -518,21 +394,15 @@
         "entities": [
             {
                 "word": "ipratropium bromide",
-                "label": "CHEMICAL",
-                "start": 46,
-                "end": 64
+                "label": "CHEMICAL"
             },
             {
                 "word": "theophylline",
-                "label": "CHEMICAL",
-                "start": 96,
-                "end": 108
+                "label": "CHEMICAL"
             },
             {
                 "word": "chronic obstructive pulmonary disease",
-                "label": "DISEASE",
-                "start": 245,
-                "end": 282
+                "label": "DISEASE"
             }
         ]
     },
@@ -543,27 +413,15 @@
         "entities": [
             {
                 "word": "amiodarone",
-                "label": "CHEMICAL",
-                "start": 61,
-                "end": 71
+                "label": "CHEMICAL"
             },
             {
                 "word": "amiodarone pneumonitis",
-                "label": "DISEASE",
-                "start": 61,
-                "end": 83
-            },
-            {
-                "word": "amiodarone",
-                "label": "CHEMICAL",
-                "start": 107,
-                "end": 117
+                "label": "DISEASE"
             },
             {
                 "word": "steroid",
-                "label": "CHEMICAL",
-                "start": 141,
-                "end": 148
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -574,21 +432,15 @@
         "entities": [
             {
                 "word": "Microangiopathic hemolytic anemia",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 33
+                "label": "DISEASE"
             },
             {
                 "word": "FK506",
-                "label": "CHEMICAL",
-                "start": 47,
-                "end": 52
+                "label": "CHEMICAL"
             },
             {
                 "word": "tacrolimus",
-                "label": "CHEMICAL",
-                "start": 55,
-                "end": 65
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -599,9 +451,7 @@
         "entities": [
             {
                 "word": "5 - fluorouracil",
-                "label": "CHEMICAL",
-                "start": 17,
-                "end": 33
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -612,15 +462,11 @@
         "entities": [
             {
                 "word": "tacrolimus",
-                "label": "CHEMICAL",
-                "start": 45,
-                "end": 55
+                "label": "CHEMICAL"
             },
             {
                 "word": "neurotoxicity",
-                "label": "DISEASE",
-                "start": 65,
-                "end": 78
+                "label": "DISEASE"
             }
         ]
     },
@@ -631,9 +477,7 @@
         "entities": [
             {
                 "word": "pyridoxal",
-                "label": "CHEMICAL",
-                "start": 16,
-                "end": 25
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -656,9 +500,7 @@
         "entities": [
             {
                 "word": "Myoglobinuria",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 13
+                "label": "DISEASE"
             }
         ]
     },
@@ -669,15 +511,11 @@
         "entities": [
             {
                 "word": "lumbusacral radiculopathy",
-                "label": "DISEASE",
-                "start": 37,
-                "end": 62
+                "label": "DISEASE"
             },
             {
                 "word": "steroid",
-                "label": "CHEMICAL",
-                "start": 89,
-                "end": 96
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -685,7 +523,12 @@
         "id": 35,
         "source": "BC5CDR",
         "text": "Pain recall after one week was similarly precise ( magnitude : p < 0 . 01 , duration : p < 0 . 05 ) .",
-        "entities": []
+        "entities": [
+            {
+                "word": "Pain",
+                "label": "DISEASE"
+            }
+        ]
     },
     {
         "id": 36,
@@ -694,21 +537,15 @@
         "entities": [
             {
                 "word": "bisphosphonates",
-                "label": "CHEMICAL",
-                "start": 48,
-                "end": 63
+                "label": "CHEMICAL"
             },
             {
                 "word": "proteinuria",
-                "label": "DISEASE",
-                "start": 78,
-                "end": 89
+                "label": "DISEASE"
             },
             {
                 "word": "acute renal failure",
-                "label": "DISEASE",
-                "start": 94,
-                "end": 113
+                "label": "DISEASE"
             }
         ]
     },
@@ -719,21 +556,15 @@
         "entities": [
             {
                 "word": "dipyridamole",
-                "label": "CHEMICAL",
-                "start": 38,
-                "end": 50
+                "label": "CHEMICAL"
             },
             {
                 "word": "pentoxifylline",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 119
+                "label": "CHEMICAL"
             },
             {
                 "word": "theophylline",
-                "label": "CHEMICAL",
-                "start": 147,
-                "end": 159
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -744,21 +575,15 @@
         "entities": [
             {
                 "word": "levodopa",
-                "label": "CHEMICAL",
-                "start": 36,
-                "end": 44
+                "label": "CHEMICAL"
             },
             {
                 "word": "carbidopa",
-                "label": "CHEMICAL",
-                "start": 169,
-                "end": 178
+                "label": "CHEMICAL"
             },
             {
                 "word": "levodopa",
-                "label": "CHEMICAL",
-                "start": 181,
-                "end": 189
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -769,33 +594,27 @@
         "entities": [
             {
                 "word": "dopamine beta - hydroxylase",
-                "label": "PROTEIN",
-                "start": 29,
-                "end": 55
+                "label": "PROTEIN"
             },
             {
                 "word": "Dbh",
-                "label": "GENE",
-                "start": 68,
-                "end": 71
+                "label": "GENE"
             },
             {
                 "word": "norepinephrine",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 119
+                "label": "CHEMICAL"
             },
             {
                 "word": "NE",
-                "label": "CHEMICAL",
-                "start": 122,
-                "end": 124
+                "label": "CHEMICAL"
             },
             {
                 "word": "cocaine",
-                "label": "CHEMICAL",
-                "start": 218,
-                "end": 225
+                "label": "CHEMICAL"
+            },
+            {
+                "word": "anxiety",
+                "label": "DISEASE"
             }
         ]
     },
@@ -805,10 +624,12 @@
         "text": "This study supports the role of lipid peroxidation in mediating the proteinuric injury in PAN nephropathy .",
         "entities": [
             {
+                "word": "proteinuric",
+                "label": "DISEASE"
+            },
+            {
                 "word": "PAN nephropathy",
-                "label": "DISEASE",
-                "start": 74,
-                "end": 89
+                "label": "DISEASE"
             }
         ]
     },
@@ -820,26 +641,26 @@
             {
                 "word": "clotiazepam",
                 "label": "CHEMICAL",
-                "start": 21,
-                "end": 32
+                "start": 26,
+                "end": 37
             },
             {
                 "word": "acute hepatitis",
                 "label": "DISEASE",
-                "start": 44,
-                "end": 59
+                "start": 51,
+                "end": 66
             },
             {
                 "word": "clotiazepam",
                 "label": "CHEMICAL",
-                "start": 105,
-                "end": 116
+                "start": 113,
+                "end": 124
             },
             {
                 "word": "benzodiazepines",
                 "label": "CHEMICAL",
-                "start": 125,
-                "end": 140
+                "start": 134,
+                "end": 149
             }
         ]
     },
@@ -851,20 +672,20 @@
             {
                 "word": "bruising",
                 "label": "DISEASE",
-                "start": 62,
-                "end": 70
+                "start": 78,
+                "end": 86
             },
             {
                 "word": "pain",
                 "label": "DISEASE",
-                "start": 75,
-                "end": 79
+                "start": 91,
+                "end": 95
             },
             {
                 "word": "heparin",
                 "label": "CHEMICAL",
-                "start": 127,
-                "end": 134
+                "start": 138,
+                "end": 145
             }
         ]
     },
@@ -882,8 +703,14 @@
             {
                 "word": "lithium",
                 "label": "CHEMICAL",
-                "start": 17,
-                "end": 24
+                "start": 18,
+                "end": 25
+            },
+            {
+                "word": "Li",
+                "label": "CHEMICAL",
+                "start": 89,
+                "end": 91
             }
         ]
     },
@@ -895,8 +722,20 @@
             {
                 "word": "mood switches",
                 "label": "DISEASE",
-                "start": 17,
-                "end": 30
+                "start": 18,
+                "end": 31
+            },
+            {
+                "word": "anticonvulsant",
+                "label": "CHEMICAL",
+                "start": 79,
+                "end": 93
+            },
+            {
+                "word": "mood stabilizer",
+                "label": "CHEMICAL",
+                "start": 126,
+                "end": 141
             }
         ]
     },
@@ -908,14 +747,14 @@
             {
                 "word": "cyclophosphamide",
                 "label": "CHEMICAL",
-                "start": 57,
-                "end": 73
+                "start": 62,
+                "end": 78
             },
             {
                 "word": "cystitis",
                 "label": "DISEASE",
-                "start": 84,
-                "end": 92
+                "start": 87,
+                "end": 95
             }
         ]
     },
@@ -927,8 +766,14 @@
             {
                 "word": "Daucus carota",
                 "label": "CHEMICAL",
-                "start": 30,
-                "end": 43
+                "start": 26,
+                "end": 39
+            },
+            {
+                "word": "DCE",
+                "label": "CHEMICAL",
+                "start": 47,
+                "end": 50
             }
         ]
     },
@@ -940,14 +785,14 @@
             {
                 "word": "ritonavir",
                 "label": "CHEMICAL",
-                "start": 35,
-                "end": 44
+                "start": 36,
+                "end": 45
             },
             {
                 "word": "LDL",
                 "label": "CHEMICAL",
-                "start": 78,
-                "end": 81
+                "start": 87,
+                "end": 90
             }
         ]
     },
@@ -959,8 +804,8 @@
             {
                 "word": "GR 55562",
                 "label": "CHEMICAL",
-                "start": 58,
-                "end": 66
+                "start": 67,
+                "end": 75
             }
         ]
     },
@@ -972,8 +817,8 @@
             {
                 "word": "seizure",
                 "label": "DISEASE",
-                "start": 63,
-                "end": 70
+                "start": 68,
+                "end": 75
             }
         ]
     },
@@ -983,10 +828,8 @@
         "text": "No other risk factors for CNS toxicity were identified .",
         "entities": [
             {
-                "word": "CNS",
-                "label": "DISEASE",
-                "start": 21,
-                "end": 24
+                "word": "CNS toxicity",
+                "label": "DISEASE"
             }
         ]
     },
@@ -997,15 +840,11 @@
         "entities": [
             {
                 "word": "acetaminophen",
-                "label": "CHEMICAL",
-                "start": 36,
-                "end": 49
+                "label": "CHEMICAL"
             },
             {
                 "word": "ESRD",
-                "label": "DISEASE",
-                "start": 74,
-                "end": 78
+                "label": "DISEASE"
             }
         ]
     },
@@ -1016,39 +855,27 @@
         "entities": [
             {
                 "word": "RS",
-                "label": "DISEASE",
-                "start": 44,
-                "end": 46
+                "label": "DISEASE"
             },
             {
                 "word": "risperidone",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 116
+                "label": "CHEMICAL"
             },
             {
                 "word": "serotonin",
-                "label": "CHEMICAL",
-                "start": 122,
-                "end": 131
+                "label": "PROTEIN"
             },
             {
                 "word": "dopamine",
-                "label": "CHEMICAL",
-                "start": 134,
-                "end": 142
+                "label": "PROTEIN"
             },
             {
                 "word": "serotonin",
-                "label": "CHEMICAL",
-                "start": 194,
-                "end": 203
+                "label": "PROTEIN"
             },
             {
                 "word": "RS",
-                "label": "DISEASE",
-                "start": 236,
-                "end": 238
+                "label": "DISEASE"
             }
         ]
     },
@@ -1059,21 +886,15 @@
         "entities": [
             {
                 "word": "Cardiovascular complications",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 28
+                "label": "DISEASE"
             },
             {
                 "word": "terbutaline",
-                "label": "CHEMICAL",
-                "start": 42,
-                "end": 53
+                "label": "CHEMICAL"
             },
             {
                 "word": "preterm labor",
-                "label": "DISEASE",
-                "start": 68,
-                "end": 81
+                "label": "DISEASE"
             }
         ]
     },
@@ -1084,15 +905,11 @@
         "entities": [
             {
                 "word": "Proteinuria",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 11
+                "label": "DISEASE"
             },
             {
                 "word": "sirolimus",
-                "label": "CHEMICAL",
-                "start": 36,
-                "end": 45
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1103,27 +920,15 @@
         "entities": [
             {
                 "word": "dexamethasone",
-                "label": "CHEMICAL",
-                "start": 30,
-                "end": 43
-            },
-            {
-                "word": "rats",
-                "label": "CELL_TYPE",
-                "start": 47,
-                "end": 51
+                "label": "CHEMICAL"
             },
             {
                 "word": "glomerulosclerosis",
-                "label": "DISEASE",
-                "start": 94,
-                "end": 112
+                "label": "DISEASE"
             },
             {
                 "word": "hypertension",
-                "label": "DISEASE",
-                "start": 118,
-                "end": 130
+                "label": "DISEASE"
             }
         ]
     },
@@ -1134,9 +939,7 @@
         "entities": [
             {
                 "word": "statins",
-                "label": "CHEMICAL",
-                "start": 30,
-                "end": 37
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1147,9 +950,7 @@
         "entities": [
             {
                 "word": "SRL",
-                "label": "CHEMICAL",
-                "start": 26,
-                "end": 29
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1160,21 +961,11 @@
         "entities": [
             {
                 "word": "isoproterenol",
-                "label": "CHEMICAL",
-                "start": 33,
-                "end": 46
+                "label": "CHEMICAL"
             },
             {
                 "word": "myocardial infarction",
-                "label": "DISEASE",
-                "start": 57,
-                "end": 78
-            },
-            {
-                "word": "female albino rats",
-                "label": "CELL_TYPE",
-                "start": 96,
-                "end": 114
+                "label": "DISEASE"
             }
         ]
     },
@@ -1185,9 +976,7 @@
         "entities": [
             {
                 "word": "co - trimoxazole",
-                "label": "CHEMICAL",
-                "start": 98,
-                "end": 114
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1204,9 +993,7 @@
         "entities": [
             {
                 "word": "SRL",
-                "label": "CHEMICAL",
-                "start": 22,
-                "end": 25
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1217,15 +1004,11 @@
         "entities": [
             {
                 "word": "carboplatin",
-                "label": "CHEMICAL",
-                "start": 12,
-                "end": 23
+                "label": "CHEMICAL"
             },
             {
                 "word": "cisplatin",
-                "label": "CHEMICAL",
-                "start": 57,
-                "end": 66
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1236,15 +1019,11 @@
         "entities": [
             {
                 "word": "Orthostatic hypotension",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 23
+                "label": "DISEASE"
             },
             {
                 "word": "selegiline",
-                "label": "CHEMICAL",
-                "start": 62,
-                "end": 72
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1261,21 +1040,15 @@
         "entities": [
             {
                 "word": "Warfarin",
-                "label": "CHEMICAL",
-                "start": 0,
-                "end": 8
+                "label": "CHEMICAL"
             },
             {
                 "word": "iliopsoas hemorrhage",
-                "label": "DISEASE",
-                "start": 18,
-                "end": 38
+                "label": "DISEASE"
             },
             {
                 "word": "femoral nerve palsy",
-                "label": "DISEASE",
-                "start": 58,
-                "end": 77
+                "label": "DISEASE"
             }
         ]
     },
@@ -1286,21 +1059,15 @@
         "entities": [
             {
                 "word": "FK 506",
-                "label": "CHEMICAL",
-                "start": 23,
-                "end": 29
+                "label": "CHEMICAL"
             },
             {
                 "word": "hypertension",
-                "label": "DISEASE",
-                "start": 54,
-                "end": 66
+                "label": "DISEASE"
             },
             {
                 "word": "nephrotoxicity",
-                "label": "DISEASE",
-                "start": 71,
-                "end": 85
+                "label": "DISEASE"
             }
         ]
     },
@@ -1311,21 +1078,11 @@
         "entities": [
             {
                 "word": "CGRP",
-                "label": "PROTEIN",
-                "start": 7,
-                "end": 11
+                "label": "PROTEIN"
             },
             {
                 "word": "migraine",
-                "label": "DISEASE",
-                "start": 62,
-                "end": 70
-            },
-            {
-                "word": "migraine",
-                "label": "DISEASE",
-                "start": 125,
-                "end": 133
+                "label": "DISEASE"
             }
         ]
     },
@@ -1342,15 +1099,11 @@
         "entities": [
             {
                 "word": "end - stage renal disease",
-                "label": "DISEASE",
-                "start": 69,
-                "end": 94
+                "label": "DISEASE"
             },
             {
                 "word": "ESRD",
-                "label": "DISEASE",
-                "start": 97,
-                "end": 101
+                "label": "DISEASE"
             }
         ]
     },
@@ -1362,14 +1115,20 @@
             {
                 "word": "isoproterenol",
                 "label": "CHEMICAL",
-                "start": 35,
-                "end": 48
+                "start": 36,
+                "end": 49
             },
             {
                 "word": "bromocriptine",
                 "label": "CHEMICAL",
-                "start": 54,
-                "end": 67
+                "start": 53,
+                "end": 66
+            },
+            {
+                "word": "tachycardia",
+                "label": "DISEASE",
+                "start": 75,
+                "end": 86
             }
         ]
     },
@@ -1381,8 +1140,8 @@
             {
                 "word": "optic atrophy",
                 "label": "DISEASE",
-                "start": 61,
-                "end": 74
+                "start": 62,
+                "end": 75
             }
         ]
     },
@@ -1394,14 +1153,14 @@
             {
                 "word": "biventricular dysfunction",
                 "label": "DISEASE",
-                "start": 21,
-                "end": 46
+                "start": 23,
+                "end": 48
             },
             {
                 "word": "hypotension",
                 "label": "DISEASE",
-                "start": 91,
-                "end": 102
+                "start": 89,
+                "end": 100
             }
         ]
     },
@@ -1412,27 +1171,27 @@
         "entities": [
             {
                 "word": "N - methyl - D - aspartate",
-                "label": "CHEMICAL",
-                "start": 44,
-                "end": 70
+                "label": "PROTEIN",
+                "start": 37,
+                "end": 62
             },
             {
                 "word": "NMDA",
-                "label": "CHEMICAL",
-                "start": 74,
-                "end": 78
+                "label": "PROTEIN",
+                "start": 65,
+                "end": 69
             },
             {
                 "word": "ketamine",
                 "label": "CHEMICAL",
-                "start": 98,
-                "end": 106
+                "start": 88,
+                "end": 96
             },
             {
                 "word": "neuropathic pain",
                 "label": "DISEASE",
-                "start": 169,
-                "end": 185
+                "start": 178,
+                "end": 194
             }
         ]
     },
@@ -1444,20 +1203,20 @@
             {
                 "word": "phenylephrine",
                 "label": "CHEMICAL",
-                "start": 96,
-                "end": 109
+                "start": 91,
+                "end": 104
             },
             {
                 "word": "hypotensive",
                 "label": "DISEASE",
-                "start": 118,
-                "end": 129
+                "start": 113,
+                "end": 124
             },
             {
                 "word": "tachycardia",
                 "label": "DISEASE",
-                "start": 145,
-                "end": 156
+                "start": 137,
+                "end": 148
             }
         ]
     },
@@ -1482,14 +1241,14 @@
             {
                 "word": "cTnI",
                 "label": "PROTEIN",
-                "start": 33,
-                "end": 37
+                "start": 34,
+                "end": 38
             },
             {
                 "word": "cTnT",
                 "label": "PROTEIN",
-                "start": 42,
-                "end": 46
+                "start": 43,
+                "end": 47
             },
             {
                 "word": "myocardial damage",
@@ -1500,14 +1259,14 @@
             {
                 "word": "doxorubicin",
                 "label": "CHEMICAL",
-                "start": 107,
-                "end": 118
+                "start": 109,
+                "end": 120
             },
             {
                 "word": "DOX",
                 "label": "CHEMICAL",
-                "start": 121,
-                "end": 124
+                "start": 123,
+                "end": 126
             },
             {
                 "word": "cardiomyopathy",
@@ -1518,20 +1277,20 @@
             {
                 "word": "cTnI",
                 "label": "PROTEIN",
-                "start": 185,
-                "end": 189
+                "start": 182,
+                "end": 186
             },
             {
                 "word": "cTnT",
                 "label": "PROTEIN",
-                "start": 194,
-                "end": 198
+                "start": 191,
+                "end": 195
             },
             {
                 "word": "cardiac disorders",
                 "label": "DISEASE",
-                "start": 222,
-                "end": 239
+                "start": 218,
+                "end": 235
             }
         ]
     },
@@ -1543,20 +1302,20 @@
             {
                 "word": "vincristine",
                 "label": "CHEMICAL",
-                "start": 49,
-                "end": 60
+                "start": 45,
+                "end": 56
             },
             {
                 "word": "acute lymphoblastic leucemia",
                 "label": "DISEASE",
-                "start": 98,
-                "end": 126
+                "start": 94,
+                "end": 122
             },
             {
                 "word": "lymphoblastic lymphoma",
                 "label": "DISEASE",
-                "start": 158,
-                "end": 180
+                "start": 151,
+                "end": 173
             }
         ]
     },
@@ -1568,26 +1327,20 @@
             {
                 "word": "pentoxifylline",
                 "label": "CHEMICAL",
-                "start": 26,
-                "end": 40
+                "start": 27,
+                "end": 41
             },
             {
                 "word": "Trental",
                 "label": "CHEMICAL",
-                "start": 43,
-                "end": 50
-            },
-            {
-                "word": "methylxanthine",
-                "label": "CHEMICAL",
-                "start": 57,
-                "end": 71
+                "start": 44,
+                "end": 51
             },
             {
                 "word": "intermittent claudication",
                 "label": "DISEASE",
-                "start": 103,
-                "end": 128
+                "start": 97,
+                "end": 122
             }
         ]
     },
@@ -1604,9 +1357,7 @@
         "entities": [
             {
                 "word": "neurofilament proteins",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 58
+                "label": "PROTEIN"
             }
         ]
     },
@@ -1617,15 +1368,11 @@
         "entities": [
             {
                 "word": "GEM",
-                "label": "CHEMICAL",
-                "start": 31,
-                "end": 34
+                "label": "CHEMICAL"
             },
             {
                 "word": "VNB",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 42
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1636,9 +1383,7 @@
         "entities": [
             {
                 "word": "bone marrow suppression",
-                "label": "DISEASE",
-                "start": 78,
-                "end": 101
+                "label": "DISEASE"
             }
         ]
     },
@@ -1649,15 +1394,11 @@
         "entities": [
             {
                 "word": "ecstasy",
-                "label": "CHEMICAL",
-                "start": 27,
-                "end": 34
+                "label": "CHEMICAL"
             },
             {
                 "word": "cannabis",
-                "label": "CHEMICAL",
-                "start": 82,
-                "end": 90
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1668,21 +1409,11 @@
         "entities": [
             {
                 "word": "cyclosporine",
-                "label": "CHEMICAL",
-                "start": 24,
-                "end": 36
-            },
-            {
-                "word": "cyclosporine",
-                "label": "CHEMICAL",
-                "start": 73,
-                "end": 85
+                "label": "CHEMICAL"
             },
             {
                 "word": "tacrolimus",
-                "label": "CHEMICAL",
-                "start": 90,
-                "end": 100
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1693,9 +1424,7 @@
         "entities": [
             {
                 "word": "TAM",
-                "label": "CHEMICAL",
-                "start": 125,
-                "end": 128
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1706,15 +1435,11 @@
         "entities": [
             {
                 "word": "morphine",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 113
+                "label": "CHEMICAL"
             },
             {
                 "word": "metamizol",
-                "label": "CHEMICAL",
-                "start": 138,
-                "end": 147
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1725,9 +1450,7 @@
         "entities": [
             {
                 "word": "propofol",
-                "label": "CHEMICAL",
-                "start": 35,
-                "end": 43
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1744,21 +1467,15 @@
         "entities": [
             {
                 "word": "estrogen",
-                "label": "CHEMICAL",
-                "start": 28,
-                "end": 36
+                "label": "CHEMICAL"
             },
             {
                 "word": "clonidine",
-                "label": "CHEMICAL",
-                "start": 78,
-                "end": 87
+                "label": "CHEMICAL"
             },
             {
                 "word": "alpha2 - / I1 - receptor",
-                "label": "PROTEIN",
-                "start": 96,
-                "end": 118
+                "label": "PROTEIN"
             }
         ]
     },
@@ -1769,15 +1486,11 @@
         "entities": [
             {
                 "word": "Acute hepatitis",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 15
+                "label": "DISEASE"
             },
             {
                 "word": "telithromycin",
-                "label": "CHEMICAL",
-                "start": 36,
-                "end": 49
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1788,27 +1501,19 @@
         "entities": [
             {
                 "word": "verapamil",
-                "label": "CHEMICAL",
-                "start": 7,
-                "end": 16
+                "label": "CHEMICAL"
             },
             {
                 "word": "carbamazepine",
-                "label": "CHEMICAL",
-                "start": 35,
-                "end": 48
+                "label": "CHEMICAL"
             },
             {
                 "word": "carbamazepine",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 118
+                "label": "CHEMICAL"
             },
             {
                 "word": "carbamazepine",
-                "label": "CHEMICAL",
-                "start": 147,
-                "end": 160
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1819,9 +1524,7 @@
         "entities": [
             {
                 "word": "MDMA",
-                "label": "CHEMICAL",
-                "start": 0,
-                "end": 4
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1838,15 +1541,11 @@
         "entities": [
             {
                 "word": "sodium pentothal",
-                "label": "CHEMICAL",
-                "start": 56,
-                "end": 72
+                "label": "CHEMICAL"
             },
             {
                 "word": "cerebral ischaemia",
-                "label": "DISEASE",
-                "start": 106,
-                "end": 124
+                "label": "DISEASE"
             }
         ]
     },
@@ -1856,10 +1555,8 @@
         "text": "After gastric surgery , rat stomachs were irrigated for 3 h with either simulated gastric juice or normal saline .",
         "entities": [
             {
-                "word": "normal saline",
-                "label": "CHEMICAL",
-                "start": 98,
-                "end": 111
+                "word": "saline",
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1870,15 +1567,11 @@
         "entities": [
             {
                 "word": "myelopathy",
-                "label": "DISEASE",
-                "start": 9,
-                "end": 19
+                "label": "DISEASE"
             },
             {
                 "word": "peripheral neuropathy",
-                "label": "DISEASE",
-                "start": 23,
-                "end": 44
+                "label": "DISEASE"
             }
         ]
     },
@@ -1889,9 +1582,7 @@
         "entities": [
             {
                 "word": "diazepam",
-                "label": "CHEMICAL",
-                "start": 37,
-                "end": 45
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -1902,15 +1593,11 @@
         "entities": [
             {
                 "word": "pain",
-                "label": "DISEASE",
-                "start": 10,
-                "end": 14
+                "label": "DISEASE"
             },
             {
                 "word": "migraine",
-                "label": "DISEASE",
-                "start": 39,
-                "end": 47
+                "label": "DISEASE"
             }
         ]
     },
@@ -1921,9 +1608,7 @@
         "entities": [
             {
                 "word": "cystitis",
-                "label": "DISEASE",
-                "start": 61,
-                "end": 69
+                "label": "DISEASE"
             }
         ]
     },
@@ -1934,21 +1619,15 @@
         "entities": [
             {
                 "word": "Duchenne",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 8
+                "label": "DISEASE"
             },
             {
                 "word": "Becker muscular dystrophy",
-                "label": "DISEASE",
-                "start": 11,
-                "end": 36
+                "label": "DISEASE"
             },
             {
                 "word": "dystrophin",
-                "label": "PROTEIN",
-                "start": 74,
-                "end": 84
+                "label": "PROTEIN"
             }
         ]
     },
@@ -1959,9 +1638,7 @@
         "entities": [
             {
                 "word": "BRCA1",
-                "label": "GENE",
-                "start": 72,
-                "end": 77
+                "label": "GENE"
             }
         ]
     },
@@ -1972,9 +1649,7 @@
         "entities": [
             {
                 "word": "DNA",
-                "label": "DNA_RNA",
-                "start": 57,
-                "end": 60
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -1985,15 +1660,15 @@
         "entities": [
             {
                 "word": "Ataxia - telangiectasia",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 22
+                "label": "DISEASE"
+            },
+            {
+                "word": "A - T",
+                "label": "DISEASE"
             },
             {
                 "word": "malignant neoplasms",
-                "label": "DISEASE",
-                "start": 97,
-                "end": 116
+                "label": "DISEASE"
             }
         ]
     },
@@ -2009,22 +1684,8 @@
         "text": "Of an expected 177 unknown mutations , we detected approximately 70 % , mostly protein truncating mutations ( that would have been detectable by protein truncation testing if RNA starting material had been available ) .",
         "entities": [
             {
-                "word": "protein",
-                "label": "PROTEIN",
-                "start": 80,
-                "end": 87
-            },
-            {
-                "word": "protein",
-                "label": "PROTEIN",
-                "start": 139,
-                "end": 146
-            },
-            {
                 "word": "RNA",
-                "label": "DNA_RNA",
-                "start": 182,
-                "end": 185
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -2034,40 +1695,24 @@
         "text": "The antibody reacted with the 80 kDa band protein in control fibroblasts , while no bands were detected in the fibroblasts from a patient with ALD ( # 163 ) , in which mRNA of the ALD gene was undetectable based on Northern blot analysis .",
         "entities": [
             {
-                "word": "protein",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 43
+                "word": "80 kDa band protein",
+                "label": "PROTEIN"
             },
             {
                 "word": "fibroblasts",
-                "label": "CELL_TYPE",
-                "start": 56,
-                "end": 67
-            },
-            {
-                "word": "fibroblasts",
-                "label": "CELL_TYPE",
-                "start": 103,
-                "end": 114
+                "label": "CELL_TYPE"
             },
             {
                 "word": "ALD",
-                "label": "DISEASE",
-                "start": 133,
-                "end": 136
+                "label": "DISEASE"
             },
             {
                 "word": "mRNA",
-                "label": "DNA_RNA",
-                "start": 150,
-                "end": 154
+                "label": "DNA_RNA"
             },
             {
                 "word": "ALD",
-                "label": "GENE",
-                "start": 162,
-                "end": 165
+                "label": "GENE"
             }
         ]
     },
@@ -2078,9 +1723,7 @@
         "entities": [
             {
                 "word": "PWS",
-                "label": "DISEASE",
-                "start": 12,
-                "end": 15
+                "label": "DISEASE"
             }
         ]
     },
@@ -2091,21 +1734,15 @@
         "entities": [
             {
                 "word": "Ankylosing spondylitis",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 22
+                "label": "DISEASE"
             },
             {
                 "word": "psoriatic arthropathy",
-                "label": "DISEASE",
-                "start": 25,
-                "end": 46
+                "label": "DISEASE"
             },
             {
                 "word": "entero - arthropathy",
-                "label": "DISEASE",
-                "start": 51,
-                "end": 71
+                "label": "DISEASE"
             }
         ]
     },
@@ -2116,21 +1753,15 @@
         "entities": [
             {
                 "word": "Epstein - Barr virus",
-                "label": "CHEMICAL",
-                "start": 10,
-                "end": 30
+                "label": "CHEMICAL"
             },
             {
                 "word": "lymphoblasts",
-                "label": "CELL_TYPE",
-                "start": 43,
-                "end": 55
+                "label": "CELL_TYPE"
             },
             {
                 "word": "HPRT",
-                "label": "PROTEIN",
-                "start": 108,
-                "end": 112
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2141,15 +1772,11 @@
         "entities": [
             {
                 "word": "Duchenne muscular dystrophy",
-                "label": "DISEASE",
-                "start": 32,
-                "end": 59
+                "label": "DISEASE"
             },
             {
                 "word": "dystrophin",
-                "label": "PROTEIN",
-                "start": 74,
-                "end": 84
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2160,15 +1787,11 @@
         "entities": [
             {
                 "word": "Atm",
-                "label": "GENE",
-                "start": 0,
-                "end": 3
+                "label": "GENE"
             },
             {
                 "word": "cerebellar dysfunction",
-                "label": "DISEASE",
-                "start": 72,
-                "end": 94
+                "label": "DISEASE"
             }
         ]
     },
@@ -2179,9 +1802,7 @@
         "entities": [
             {
                 "word": "cerebral ALD",
-                "label": "DISEASE",
-                "start": 36,
-                "end": 48
+                "label": "DISEASE"
             }
         ]
     },
@@ -2192,15 +1813,11 @@
         "entities": [
             {
                 "word": "Tay - Sachs disease",
-                "label": "DISEASE",
-                "start": 35,
-                "end": 54
+                "label": "DISEASE"
             },
             {
                 "word": "RNA",
-                "label": "DNA_RNA",
-                "start": 73,
-                "end": 76
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -2211,9 +1828,7 @@
         "entities": [
             {
                 "word": "Pdeb",
-                "label": "GENE",
-                "start": 74,
-                "end": 78
+                "label": "GENE"
             }
         ]
     },
@@ -2230,9 +1845,7 @@
         "entities": [
             {
                 "word": "maternal UPD ( 14 )",
-                "label": "DISEASE",
-                "start": 38,
-                "end": 56
+                "label": "DISEASE"
             }
         ]
     },
@@ -2240,20 +1853,7 @@
         "id": 118,
         "source": "NCBI Disease",
         "text": "The 854A - - > C transversion converted glu to ala in codon 285 .",
-        "entities": [
-            {
-                "word": "glu",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 42
-            },
-            {
-                "word": "ala",
-                "label": "CHEMICAL",
-                "start": 46,
-                "end": 49
-            }
-        ]
+        "entities": []
     },
     {
         "id": 119,
@@ -2262,9 +1862,7 @@
         "entities": [
             {
                 "word": "Hfe",
-                "label": "GENE",
-                "start": 62,
-                "end": 65
+                "label": "GENE"
             }
         ]
     },
@@ -2275,9 +1873,7 @@
         "entities": [
             {
                 "word": "messenger RNA",
-                "label": "DNA_RNA",
-                "start": 102,
-                "end": 115
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -2294,33 +1890,23 @@
         "entities": [
             {
                 "word": "renal cell carcinoma",
-                "label": "DISEASE",
-                "start": 29,
-                "end": 49
+                "label": "DISEASE"
             },
             {
                 "word": "cerebellar haemangioblastoma",
-                "label": "DISEASE",
-                "start": 54,
-                "end": 82
+                "label": "DISEASE"
             },
             {
                 "word": "VHL disease",
-                "label": "DISEASE",
-                "start": 86,
-                "end": 97
+                "label": "DISEASE"
             },
             {
-                "word": "renal cell carcinoma",
-                "label": "DISEASE",
-                "start": 178,
-                "end": 198
+                "word": "sporadic renal cell carcinoma",
+                "label": "DISEASE"
             },
             {
                 "word": "cerebellar haemangioblastoma",
-                "label": "DISEASE",
-                "start": 203,
-                "end": 231
+                "label": "DISEASE"
             }
         ]
     },
@@ -2331,15 +1917,11 @@
         "entities": [
             {
                 "word": "HD",
-                "label": "DISEASE",
-                "start": 91,
-                "end": 93
+                "label": "DISEASE"
             },
             {
                 "word": "APOE",
-                "label": "GENE",
-                "start": 122,
-                "end": 126
+                "label": "GENE"
             }
         ]
     },
@@ -2350,9 +1932,7 @@
         "entities": [
             {
                 "word": "FMF",
-                "label": "DISEASE",
-                "start": 44,
-                "end": 47
+                "label": "DISEASE"
             }
         ]
     },
@@ -2363,15 +1943,11 @@
         "entities": [
             {
                 "word": "G6PD",
-                "label": "GENE",
-                "start": 36,
-                "end": 40
+                "label": "GENE"
             },
             {
-                "word": "G6PD",
-                "label": "GENE",
-                "start": 82,
-                "end": 86
+                "word": "G6PD deficiency",
+                "label": "DISEASE"
             }
         ]
     },
@@ -2382,27 +1958,19 @@
         "entities": [
             {
                 "word": "gastric cancers",
-                "label": "DISEASE",
-                "start": 23,
-                "end": 38
+                "label": "DISEASE"
             },
             {
                 "word": "esophageal cancers",
-                "label": "DISEASE",
-                "start": 45,
-                "end": 63
+                "label": "DISEASE"
             },
             {
                 "word": "bone and soft tissue tumors",
-                "label": "DISEASE",
-                "start": 70,
-                "end": 97
+                "label": "DISEASE"
             },
             {
                 "word": "neurofibrosarcomas",
-                "label": "DISEASE",
-                "start": 129,
-                "end": 147
+                "label": "DISEASE"
             }
         ]
     },
@@ -2419,15 +1987,11 @@
         "entities": [
             {
                 "word": "type II collagen",
-                "label": "PROTEIN",
-                "start": 22,
-                "end": 38
+                "label": "PROTEIN"
             },
             {
                 "word": "kniest dysplasia",
-                "label": "DISEASE",
-                "start": 56,
-                "end": 72
+                "label": "DISEASE"
             }
         ]
     },
@@ -2438,33 +2002,23 @@
         "entities": [
             {
                 "word": "FMF gene",
-                "label": "GENE",
-                "start": 14,
-                "end": 22
+                "label": "GENE"
             },
             {
                 "word": "MEFV",
-                "label": "GENE",
-                "start": 25,
-                "end": 29
+                "label": "GENE"
             },
             {
                 "word": "pyrin",
-                "label": "PROTEIN",
-                "start": 55,
-                "end": 60
+                "label": "PROTEIN"
             },
             {
                 "word": "marenostrin",
-                "label": "PROTEIN",
-                "start": 62,
-                "end": 73
+                "label": "PROTEIN"
             },
             {
                 "word": "myeloid cells",
-                "label": "CELL_TYPE",
-                "start": 105,
-                "end": 118
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -2474,10 +2028,8 @@
         "text": "Heteroduplex analysis detected another 42 mutations at the A - T locus .",
         "entities": [
             {
-                "word": "A - T locus",
-                "label": "GENE",
-                "start": 39,
-                "end": 50
+                "word": "A - T",
+                "label": "DISEASE"
             }
         ]
     },
@@ -2488,27 +2040,19 @@
         "entities": [
             {
                 "word": "congenital thrombocytopenia",
-                "label": "DISEASE",
-                "start": 57,
-                "end": 83
+                "label": "DISEASE"
             },
             {
                 "word": "WASP",
-                "label": "GENE",
-                "start": 135,
-                "end": 139
+                "label": "GENE"
             },
             {
                 "word": "X - linked thrombocytopenia",
-                "label": "DISEASE",
-                "start": 184,
-                "end": 210
+                "label": "DISEASE"
             },
             {
                 "word": "WAS",
-                "label": "DISEASE",
-                "start": 224,
-                "end": 227
+                "label": "DISEASE"
             }
         ]
     },
@@ -2519,15 +2063,15 @@
         "entities": [
             {
                 "word": "Hypomyelination",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 15
+                "label": "DISEASE"
             },
             {
                 "word": "PLP",
-                "label": "PROTEIN",
-                "start": 44,
-                "end": 47
+                "label": "PROTEIN"
+            },
+            {
+                "word": "oligodendrocyte",
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -2538,9 +2082,7 @@
         "entities": [
             {
                 "word": "ferritin",
-                "label": "PROTEIN",
-                "start": 10,
-                "end": 18
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2557,33 +2099,19 @@
         "entities": [
             {
                 "word": "myotonic dystrophy",
-                "label": "DISEASE",
-                "start": 22,
-                "end": 40
+                "label": "DISEASE"
             },
             {
                 "word": "DM",
-                "label": "DISEASE",
-                "start": 42,
-                "end": 44
+                "label": "DISEASE"
             },
             {
-                "word": "CTG",
-                "label": "DNA_RNA",
-                "start": 74,
-                "end": 77
-            },
-            {
-                "word": "DM protein kinase gene",
-                "label": "GENE",
-                "start": 127,
-                "end": 149
+                "word": "DM protein kinase",
+                "label": "PROTEIN"
             },
             {
                 "word": "DMPK",
-                "label": "GENE",
-                "start": 151,
-                "end": 155
+                "label": "GENE"
             }
         ]
     },
@@ -2594,21 +2122,15 @@
         "entities": [
             {
                 "word": "Duchenne muscular dystrophy",
-                "label": "DISEASE",
-                "start": 12,
-                "end": 39
+                "label": "DISEASE"
             },
             {
                 "word": "DMD",
-                "label": "DISEASE",
-                "start": 41,
-                "end": 44
+                "label": "DISEASE"
             },
             {
                 "word": "DMD",
-                "label": "GENE",
-                "start": 113,
-                "end": 116
+                "label": "GENE"
             }
         ]
     },
@@ -2619,9 +2141,7 @@
         "entities": [
             {
                 "word": "apoB",
-                "label": "PROTEIN",
-                "start": 91,
-                "end": 95
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2632,9 +2152,7 @@
         "entities": [
             {
                 "word": "Glucose - 6 - phosphate dehydrogenase",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 37
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2651,27 +2169,19 @@
         "entities": [
             {
                 "word": "Lowe oculocerebrorenal syndrome",
-                "label": "DISEASE",
-                "start": 4,
-                "end": 35
+                "label": "DISEASE"
             },
             {
                 "word": "OCRL",
-                "label": "GENE",
-                "start": 37,
-                "end": 41
+                "label": "DISEASE"
             },
             {
                 "word": "congenital cataract",
-                "label": "DISEASE",
-                "start": 62,
-                "end": 81
+                "label": "DISEASE"
             },
             {
                 "word": "mental retardation",
-                "label": "DISEASE",
-                "start": 83,
-                "end": 101
+                "label": "DISEASE"
             }
         ]
     },
@@ -2681,22 +2191,20 @@
         "text": "The patients plasma lipoproteins were shown on polyacrylamide gels and by antibody mapping to have a new truncated apoB variant , apoB - 50 , circulating along with her apoB - 48 .",
         "entities": [
             {
+                "word": "lipoproteins",
+                "label": "PROTEIN"
+            },
+            {
                 "word": "apoB",
-                "label": "PROTEIN",
-                "start": 69,
-                "end": 73
+                "label": "PROTEIN"
             },
             {
                 "word": "apoB - 50",
-                "label": "PROTEIN",
-                "start": 85,
-                "end": 94
+                "label": "PROTEIN"
             },
             {
                 "word": "apoB - 48",
-                "label": "PROTEIN",
-                "start": 121,
-                "end": 129
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2707,21 +2215,15 @@
         "entities": [
             {
                 "word": "Yfh1p",
-                "label": "PROTEIN",
-                "start": 27,
-                "end": 32
+                "label": "PROTEIN"
             },
             {
                 "word": "mYfh1p",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 42
+                "label": "PROTEIN"
             },
             {
                 "word": "Escherichia coli",
-                "label": "CELL_TYPE",
-                "start": 47,
-                "end": 63
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -2732,21 +2234,15 @@
         "entities": [
             {
                 "word": "peritoneal cells",
-                "label": "CELL_TYPE",
-                "start": 36,
-                "end": 52
+                "label": "CELL_TYPE"
             },
             {
                 "word": "pro - C5",
-                "label": "PROTEIN",
-                "start": 91,
-                "end": 98
+                "label": "PROTEIN"
             },
             {
                 "word": "C5",
-                "label": "PROTEIN",
-                "start": 167,
-                "end": 169
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2762,16 +2258,8 @@
         "text": "After crossbreeding with female mice of the EIIa - cre strain , the floxed allele undergoes Cre - mediated recombination with high efficiency during early embryonic development .",
         "entities": [
             {
-                "word": "EIIa - cre",
-                "label": "GENE",
-                "start": 37,
-                "end": 47
-            },
-            {
                 "word": "Cre",
-                "label": "PROTEIN",
-                "start": 82,
-                "end": 85
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2782,15 +2270,7 @@
         "entities": [
             {
                 "word": "emerin",
-                "label": "PROTEIN",
-                "start": 21,
-                "end": 27
-            },
-            {
-                "word": "calcium",
-                "label": "CHEMICAL",
-                "start": 179,
-                "end": 186
+                "label": "PROTEIN"
             }
         ]
     },
@@ -2807,9 +2287,7 @@
         "entities": [
             {
                 "word": "Mefv",
-                "label": "GENE",
-                "start": 0,
-                "end": 4
+                "label": "GENE"
             }
         ]
     },
@@ -2826,21 +2304,11 @@
         "entities": [
             {
                 "word": "Adrenoleukodystrophy",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 20
+                "label": "DISEASE"
             },
             {
                 "word": "ALD",
-                "label": "DISEASE",
-                "start": 23,
-                "end": 26
-            },
-            {
-                "word": "very long chain fatty acids",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 132
+                "label": "DISEASE"
             }
         ]
     },
@@ -2851,27 +2319,19 @@
         "entities": [
             {
                 "word": "DXS164",
-                "label": "DNA_RNA",
-                "start": 57,
-                "end": 63
+                "label": "DNA_RNA"
             },
             {
                 "word": "DMD",
-                "label": "DISEASE",
-                "start": 105,
-                "end": 108
+                "label": "DISEASE"
             },
             {
                 "word": "Becker muscular dystrophy",
-                "label": "DISEASE",
-                "start": 113,
-                "end": 138
+                "label": "DISEASE"
             },
             {
                 "word": "BMD",
-                "label": "DISEASE",
-                "start": 142,
-                "end": 145
+                "label": "DISEASE"
             }
         ]
     },
@@ -2882,21 +2342,11 @@
         "entities": [
             {
                 "word": "hydroxylases",
-                "label": "PROTEIN",
-                "start": 94,
-                "end": 106
-            },
-            {
-                "word": "enzyme",
-                "label": "PROTEIN",
-                "start": 164,
-                "end": 170
+                "label": "PROTEIN"
             },
             {
                 "word": "phenylalanine",
-                "label": "CHEMICAL",
-                "start": 176,
-                "end": 189
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -2907,9 +2357,7 @@
         "entities": [
             {
                 "word": "Norrie disease",
-                "label": "DISEASE",
-                "start": 30,
-                "end": 44
+                "label": "DISEASE"
             }
         ]
     },
@@ -2920,9 +2368,7 @@
         "entities": [
             {
                 "word": "disease",
-                "label": "DISEASE",
-                "start": 39,
-                "end": 46
+                "label": "DISEASE"
             }
         ]
     },
@@ -2933,21 +2379,15 @@
         "entities": [
             {
                 "word": "Hypotonia",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 9
+                "label": "DISEASE"
             },
             {
                 "word": "chorioretinal dystrophy",
-                "label": "DISEASE",
-                "start": 11,
-                "end": 34
+                "label": "DISEASE"
             },
             {
                 "word": "myopia",
-                "label": "DISEASE",
-                "start": 40,
-                "end": 46
+                "label": "DISEASE"
             }
         ]
     },
@@ -2964,51 +2404,35 @@
         "entities": [
             {
                 "word": "Pendrin",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 7
+                "label": "PROTEIN"
             },
             {
                 "word": "sulfate transport proteins",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 61
+                "label": "PROTEIN"
             },
             {
                 "word": "rat sulfate - anion transporter",
-                "label": "PROTEIN",
-                "start": 82,
-                "end": 113
+                "label": "PROTEIN"
             },
             {
                 "word": "Sat - 1",
-                "label": "GENE",
-                "start": 125,
-                "end": 132
+                "label": "GENE"
             },
             {
                 "word": "human diastrophic dysplasia sulfate transporter",
-                "label": "PROTEIN",
-                "start": 161,
-                "end": 208
+                "label": "PROTEIN"
             },
             {
                 "word": "DTD",
-                "label": "GENE",
-                "start": 220,
-                "end": 223
+                "label": "GENE"
             },
             {
                 "word": "human sulfate transporter downregulated in adenoma",
-                "label": "PROTEIN",
-                "start": 240,
-                "end": 290
+                "label": "PROTEIN"
             },
             {
                 "word": "DRA",
-                "label": "GENE",
-                "start": 302,
-                "end": 305
+                "label": "GENE"
             }
         ]
     },
@@ -3018,16 +2442,12 @@
         "text": "The map is composed of overlapping YAC clones that were identified and ordered in relation to sequence tagged sites mapped to the Langer - Giedion chromosomal region on somatic cell hybrids .",
         "entities": [
             {
-                "word": "YAC",
-                "label": "DNA_RNA",
-                "start": 25,
-                "end": 28
+                "word": "YAC clones",
+                "label": "DNA_RNA"
             },
             {
                 "word": "sequence tagged sites",
-                "label": "DNA_RNA",
-                "start": 78,
-                "end": 99
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3037,16 +2457,16 @@
         "text": "The R1 domain mutation prevents interaction of EGR2 with the NAB co - repressors and thereby increases transcriptional activity .",
         "entities": [
             {
+                "word": "R1 domain",
+                "label": "PROTEIN"
+            },
+            {
                 "word": "EGR2",
-                "label": "PROTEIN",
-                "start": 47,
-                "end": 51
+                "label": "PROTEIN"
             },
             {
                 "word": "NAB",
-                "label": "PROTEIN",
-                "start": 59,
-                "end": 62
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3057,21 +2477,11 @@
         "entities": [
             {
                 "word": "Pro413",
-                "label": "PROTEIN",
-                "start": 104,
-                "end": 110
+                "label": "CHEMICAL"
             },
             {
                 "word": "Arg413",
-                "label": "PROTEIN",
-                "start": 115,
-                "end": 121
-            },
-            {
-                "word": "mutant protein",
-                "label": "PROTEIN",
-                "start": 129,
-                "end": 143
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -3082,15 +2492,11 @@
         "entities": [
             {
                 "word": "GTPase",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 42
+                "label": "PROTEIN"
             },
             {
                 "word": "WASP",
-                "label": "PROTEIN",
-                "start": 62,
-                "end": 66
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3101,9 +2507,7 @@
         "entities": [
             {
                 "word": "chromosome 5",
-                "label": "DNA_RNA",
-                "start": 30,
-                "end": 42
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3113,16 +2517,12 @@
         "text": "The C282Y mutation causing hereditary hemochromatosis does not produce a null allele .",
         "entities": [
             {
-                "word": "C282Y mutation",
-                "label": "GENE",
-                "start": 4,
-                "end": 18
+                "word": "C282Y",
+                "label": "DNA_RNA"
             },
             {
                 "word": "hereditary hemochromatosis",
-                "label": "DISEASE",
-                "start": 28,
-                "end": 54
+                "label": "DISEASE"
             }
         ]
     },
@@ -3133,21 +2533,15 @@
         "entities": [
             {
                 "word": "CUG",
-                "label": "DNA_RNA",
-                "start": 21,
-                "end": 24
+                "label": "DNA_RNA"
             },
             {
                 "word": "myotonia",
-                "label": "DISEASE",
-                "start": 43,
-                "end": 51
+                "label": "DISEASE"
             },
             {
                 "word": "myopathy",
-                "label": "DISEASE",
-                "start": 56,
-                "end": 64
+                "label": "DISEASE"
             }
         ]
     },
@@ -3157,22 +2551,12 @@
         "text": "The persistent complete allelic association of the DM mutation with all these polymorphisms provides further support to previous observations and suggests more strongly that the DM mutation occurred on the background of a particular haplotype in which the ( CTG ) n repeat became inherently unstable and therefore predisposed to amplification .",
         "entities": [
             {
-                "word": "DM mutation",
-                "label": "GENE",
-                "start": 44,
-                "end": 55
-            },
-            {
-                "word": "DM mutation",
-                "label": "GENE",
-                "start": 139,
-                "end": 150
+                "word": "DM",
+                "label": "DISEASE"
             },
             {
                 "word": "CTG",
-                "label": "DNA_RNA",
-                "start": 223,
-                "end": 226
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3183,9 +2567,7 @@
         "entities": [
             {
                 "word": "Cohen syndrome",
-                "label": "DISEASE",
-                "start": 62,
-                "end": 76
+                "label": "DISEASE"
             }
         ]
     },
@@ -3193,7 +2575,16 @@
         "id": 167,
         "source": "NCBI Disease",
         "text": "38T - - > C ( L13P ) and c .",
-        "entities": []
+        "entities": [
+            {
+                "word": "38T - - > C",
+                "label": "DNA_RNA"
+            },
+            {
+                "word": "L13P",
+                "label": "PROTEIN"
+            }
+        ]
     },
     {
         "id": 168,
@@ -3202,9 +2593,7 @@
         "entities": [
             {
                 "word": "beta - catenin",
-                "label": "PROTEIN",
-                "start": 51,
-                "end": 64
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3215,21 +2604,15 @@
         "entities": [
             {
                 "word": "ataxia - telangiectasia",
-                "label": "DISEASE",
-                "start": 87,
-                "end": 110
+                "label": "DISEASE"
             },
             {
                 "word": "A - T",
-                "label": "DISEASE",
-                "start": 113,
-                "end": 118
+                "label": "DISEASE"
             },
             {
                 "word": "ATM",
-                "label": "GENE",
-                "start": 145,
-                "end": 148
+                "label": "GENE"
             }
         ]
     },
@@ -3240,9 +2623,7 @@
         "entities": [
             {
                 "word": "hypobetalipoproteinemia",
-                "label": "DISEASE",
-                "start": 64,
-                "end": 87
+                "label": "DISEASE"
             }
         ]
     },
@@ -3253,15 +2634,11 @@
         "entities": [
             {
                 "word": "CETP",
-                "label": "PROTEIN",
-                "start": 62,
-                "end": 66
+                "label": "PROTEIN"
             },
             {
                 "word": "HDL - C",
-                "label": "CHEMICAL",
-                "start": 87,
-                "end": 94
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -3284,15 +2661,11 @@
         "entities": [
             {
                 "word": "ankylosing spondylitis",
-                "label": "DISEASE",
-                "start": 36,
-                "end": 58
+                "label": "DISEASE"
             },
             {
                 "word": "B27",
-                "label": "PROTEIN",
-                "start": 66,
-                "end": 69
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3303,15 +2676,11 @@
         "entities": [
             {
                 "word": "PAH",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 3
+                "label": "PROTEIN"
             },
             {
                 "word": "hepatoma cells",
-                "label": "CELL_TYPE",
-                "start": 89,
-                "end": 103
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -3322,15 +2691,11 @@
         "entities": [
             {
                 "word": "breast",
-                "label": "DISEASE",
-                "start": 106,
-                "end": 112
+                "label": "DISEASE"
             },
             {
                 "word": "ovarian cancer",
-                "label": "DISEASE",
-                "start": 124,
-                "end": 138
+                "label": "DISEASE"
             }
         ]
     },
@@ -3341,9 +2706,7 @@
         "entities": [
             {
                 "word": "dystrophin",
-                "label": "GENE",
-                "start": 57,
-                "end": 67
+                "label": "GENE"
             }
         ]
     },
@@ -3360,9 +2723,7 @@
         "entities": [
             {
                 "word": "retinoblastoma",
-                "label": "DISEASE",
-                "start": 63,
-                "end": 77
+                "label": "DISEASE"
             }
         ]
     },
@@ -3373,33 +2734,19 @@
         "entities": [
             {
                 "word": "botrocetin",
-                "label": "PROTEIN",
-                "start": 16,
-                "end": 26
+                "label": "CHEMICAL"
             },
             {
                 "word": "ristocetin",
-                "label": "PROTEIN",
-                "start": 31,
-                "end": 41
+                "label": "CHEMICAL"
             },
             {
                 "word": "vWF",
-                "label": "PROTEIN",
-                "start": 63,
-                "end": 66
-            },
-            {
-                "word": "vWF",
-                "label": "PROTEIN",
-                "start": 139,
-                "end": 142
+                "label": "PROTEIN"
             },
             {
                 "word": "platelets",
-                "label": "CELL_TYPE",
-                "start": 151,
-                "end": 160
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -3410,9 +2757,7 @@
         "entities": [
             {
                 "word": "cancer",
-                "label": "DISEASE",
-                "start": 139,
-                "end": 145
+                "label": "DISEASE"
             }
         ]
     },
@@ -3429,9 +2774,7 @@
         "entities": [
             {
                 "word": "185delAG",
-                "label": "DNA_RNA",
-                "start": 16,
-                "end": 24
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3442,21 +2785,15 @@
         "entities": [
             {
                 "word": "CTG",
-                "label": "DNA_RNA",
-                "start": 25,
-                "end": 28
+                "label": "DNA_RNA"
             },
             {
                 "word": "myotonic dystrophy",
-                "label": "DISEASE",
-                "start": 74,
-                "end": 92
+                "label": "DISEASE"
             },
             {
                 "word": "DM",
-                "label": "DISEASE",
-                "start": 95,
-                "end": 97
+                "label": "DISEASE"
             }
         ]
     },
@@ -3467,15 +2804,11 @@
         "entities": [
             {
                 "word": "myotonic dystrophy",
-                "label": "DISEASE",
-                "start": 26,
-                "end": 44
+                "label": "DISEASE"
             },
             {
                 "word": "DM",
-                "label": "DISEASE",
-                "start": 47,
-                "end": 49
+                "label": "DISEASE"
             }
         ]
     },
@@ -3486,15 +2819,11 @@
         "entities": [
             {
                 "word": "DNA",
-                "label": "DNA_RNA",
-                "start": 35,
-                "end": 38
+                "label": "DNA_RNA"
             },
             {
                 "word": "BRCA1",
-                "label": "GENE",
-                "start": 105,
-                "end": 110
+                "label": "GENE"
             }
         ]
     },
@@ -3505,9 +2834,7 @@
         "entities": [
             {
                 "word": "NF1",
-                "label": "GENE",
-                "start": 89,
-                "end": 92
+                "label": "GENE"
             }
         ]
     },
@@ -3518,9 +2845,7 @@
         "entities": [
             {
                 "word": "PWS",
-                "label": "DISEASE",
-                "start": 204,
-                "end": 207
+                "label": "DISEASE"
             }
         ]
     },
@@ -3531,9 +2856,7 @@
         "entities": [
             {
                 "word": "Choroideremia",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 13
+                "label": "DISEASE"
             }
         ]
     },
@@ -3544,15 +2867,11 @@
         "entities": [
             {
                 "word": "Choroideremia",
-                "label": "DISEASE",
-                "start": 0,
-                "end": 13
+                "label": "DISEASE"
             },
             {
                 "word": "CHM",
-                "label": "DISEASE",
-                "start": 15,
-                "end": 18
+                "label": "DISEASE"
             }
         ]
     },
@@ -3563,9 +2882,7 @@
         "entities": [
             {
                 "word": "PCR",
-                "label": "DNA_RNA",
-                "start": 164,
-                "end": 167
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3576,21 +2893,15 @@
         "entities": [
             {
                 "word": "hypoxanthine - guanine phosphoribosyltransferase",
-                "label": "PROTEIN",
-                "start": 23,
-                "end": 70
+                "label": "PROTEIN"
             },
             {
                 "word": "HPRT",
-                "label": "PROTEIN",
-                "start": 73,
-                "end": 77
+                "label": "PROTEIN"
             },
             {
                 "word": "Lesch - Nyhan syndrome",
-                "label": "DISEASE",
-                "start": 91,
-                "end": 113
+                "label": "DISEASE"
             }
         ]
     },
@@ -3601,27 +2912,15 @@
         "entities": [
             {
                 "word": "myotonic dystrophy",
-                "label": "DISEASE",
-                "start": 2,
-                "end": 20
+                "label": "DISEASE"
             },
             {
                 "word": "DM",
-                "label": "DISEASE",
-                "start": 22,
-                "end": 24
-            },
-            {
-                "word": "DM",
-                "label": "DISEASE",
-                "start": 78,
-                "end": 80
+                "label": "DISEASE"
             },
             {
                 "word": "CTG",
-                "label": "DNA_RNA",
-                "start": 145,
-                "end": 148
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3632,27 +2931,19 @@
         "entities": [
             {
                 "word": "myotonic dystrophy",
-                "label": "DISEASE",
-                "start": 3,
-                "end": 21
+                "label": "DISEASE"
             },
             {
                 "word": "DM",
-                "label": "DISEASE",
-                "start": 23,
-                "end": 25
+                "label": "DISEASE"
             },
             {
                 "word": "CTG",
-                "label": "DNA_RNA",
-                "start": 47,
-                "end": 50
+                "label": "DNA_RNA"
             },
             {
                 "word": "DM kinase gene",
-                "label": "GENE",
-                "start": 68,
-                "end": 82
+                "label": "GENE"
             }
         ]
     },
@@ -3663,15 +2954,7 @@
         "entities": [
             {
                 "word": "BRCA1",
-                "label": "GENE",
-                "start": 26,
-                "end": 31
-            },
-            {
-                "word": "BRCA1",
-                "label": "GENE",
-                "start": 82,
-                "end": 87
+                "label": "GENE"
             }
         ]
     },
@@ -3682,9 +2965,7 @@
         "entities": [
             {
                 "word": "ovarian cancer",
-                "label": "DISEASE",
-                "start": 104,
-                "end": 118
+                "label": "DISEASE"
             }
         ]
     },
@@ -3695,9 +2976,7 @@
         "entities": [
             {
                 "word": "cataract",
-                "label": "DISEASE",
-                "start": 61,
-                "end": 69
+                "label": "DISEASE"
             }
         ]
     },
@@ -3714,9 +2993,7 @@
         "entities": [
             {
                 "word": "ataxia - telangiectasia",
-                "label": "DISEASE",
-                "start": 20,
-                "end": 43
+                "label": "DISEASE"
             }
         ]
     },
@@ -3727,9 +3004,7 @@
         "entities": [
             {
                 "word": "cDNA",
-                "label": "DNA_RNA",
-                "start": 27,
-                "end": 31
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3739,16 +3014,16 @@
         "text": "One of these clones , pZVH14 , activated the HIV promoter construct containing a mutation in the NF kappa B site .",
         "entities": [
             {
+                "word": "pZVH14",
+                "label": "DNA_RNA"
+            },
+            {
                 "word": "HIV",
-                "label": "DNA_RNA",
-                "start": 35,
-                "end": 38
+                "label": "DISEASE"
             },
             {
                 "word": "NF kappa B",
-                "label": "PROTEIN",
-                "start": 74,
-                "end": 84
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3759,33 +3034,19 @@
         "entities": [
             {
                 "word": "antiandrogens",
-                "label": "CHEMICAL",
-                "start": 8,
-                "end": 21
+                "label": "CHEMICAL"
             },
             {
                 "word": "androgen receptor",
-                "label": "PROTEIN",
-                "start": 57,
-                "end": 74
+                "label": "PROTEIN"
             },
             {
                 "word": "LNCaP",
-                "label": "CELL_TYPE",
-                "start": 77,
-                "end": 82
+                "label": "CELL_TYPE"
             },
             {
                 "word": "trypsin",
-                "label": "PROTEIN",
-                "start": 95,
-                "end": 102
-            },
-            {
-                "word": "antiandrogen",
-                "label": "CHEMICAL",
-                "start": 116,
-                "end": 128
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3802,9 +3063,7 @@
         "entities": [
             {
                 "word": "Ras",
-                "label": "PROTEIN",
-                "start": 72,
-                "end": 75
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3821,33 +3080,23 @@
         "entities": [
             {
                 "word": "protein kinase A",
-                "label": "PROTEIN",
-                "start": 33,
-                "end": 49
+                "label": "PROTEIN"
             },
             {
                 "word": "NF-kappaB",
-                "label": "PROTEIN",
-                "start": 76,
-                "end": 85
+                "label": "PROTEIN"
             },
             {
                 "word": "cAMP response element-binding protein",
-                "label": "PROTEIN",
-                "start": 142,
-                "end": 178
+                "label": "PROTEIN"
             },
             {
                 "word": "CREB",
-                "label": "PROTEIN",
-                "start": 181,
-                "end": 185
+                "label": "PROTEIN"
             },
             {
                 "word": "CBP",
-                "label": "PROTEIN",
-                "start": 231,
-                "end": 234
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3870,27 +3119,15 @@
         "entities": [
             {
                 "word": "IL-8",
-                "label": "PROTEIN",
-                "start": 14,
-                "end": 18
+                "label": "PROTEIN"
             },
             {
                 "word": "ECs",
-                "label": "CELL_TYPE",
-                "start": 28,
-                "end": 31
+                "label": "CELL_TYPE"
             },
             {
                 "word": "IL-8 mRNA",
-                "label": "DNA_RNA",
-                "start": 74,
-                "end": 83
-            },
-            {
-                "word": "IL-8",
-                "label": "PROTEIN",
-                "start": 127,
-                "end": 131
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3901,15 +3138,11 @@
         "entities": [
             {
                 "word": "NFATc",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 5
+                "label": "PROTEIN"
             },
             {
                 "word": "HIV-1",
-                "label": "DNA_RNA",
-                "start": 57,
-                "end": 62
+                "label": "DISEASE"
             }
         ]
     },
@@ -3920,15 +3153,11 @@
         "entities": [
             {
                 "word": "IL-10",
-                "label": "PROTEIN",
-                "start": 37,
-                "end": 42
+                "label": "PROTEIN"
             },
             {
                 "word": "monocyte",
-                "label": "CELL_TYPE",
-                "start": 69,
-                "end": 77
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -3939,9 +3168,7 @@
         "entities": [
             {
                 "word": "CTG-motif",
-                "label": "DNA_RNA",
-                "start": 35,
-                "end": 44
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -3952,15 +3179,11 @@
         "entities": [
             {
                 "word": "pml",
-                "label": "PROTEIN",
-                "start": 37,
-                "end": 40
+                "label": "PROTEIN"
             },
             {
                 "word": "RAR alpha",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 54
+                "label": "PROTEIN"
             }
         ]
     },
@@ -3971,15 +3194,11 @@
         "entities": [
             {
                 "word": "C8-C7 sterol isomerase",
-                "label": "PROTEIN",
-                "start": 68,
-                "end": 90
+                "label": "PROTEIN"
             },
             {
                 "word": "ERG2",
-                "label": "GENE",
-                "start": 105,
-                "end": 109
+                "label": "GENE"
             }
         ]
     },
@@ -3990,27 +3209,19 @@
         "entities": [
             {
                 "word": "Prostaglandin E2",
-                "label": "CHEMICAL",
-                "start": 0,
-                "end": 16
+                "label": "CHEMICAL"
             },
             {
                 "word": "CRE",
-                "label": "DNA_RNA",
-                "start": 44,
-                "end": 47
+                "label": "DNA_RNA"
             },
             {
                 "word": "AP-2",
-                "label": "PROTEIN",
-                "start": 52,
-                "end": 56
+                "label": "PROTEIN"
             },
             {
                 "word": "T lymphocytes",
-                "label": "CELL_TYPE",
-                "start": 71,
-                "end": 84
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -4021,27 +3232,15 @@
         "entities": [
             {
                 "word": "NF-kappa B",
-                "label": "PROTEIN",
-                "start": 32,
-                "end": 42
+                "label": "PROTEIN"
             },
             {
-                "word": "p50/p50",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 52
+                "word": "p50",
+                "label": "PROTEIN"
             },
             {
                 "word": "kappa B",
-                "label": "DNA_RNA",
-                "start": 82,
-                "end": 89
-            },
-            {
-                "word": "SP-B21",
-                "label": "CELL_TYPE",
-                "start": 107,
-                "end": 113
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -4052,15 +3251,11 @@
         "entities": [
             {
                 "word": "IL-4Ralpha",
-                "label": "PROTEIN",
-                "start": 42,
-                "end": 52
+                "label": "PROTEIN"
             },
             {
                 "word": "Jak1",
-                "label": "PROTEIN",
-                "start": 78,
-                "end": 82
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4071,33 +3266,23 @@
         "entities": [
             {
                 "word": "anti-TNF-alpha",
-                "label": "PROTEIN",
-                "start": 11,
-                "end": 25
+                "label": "PROTEIN"
             },
             {
                 "word": "HIV-1",
-                "label": "DNA_RNA",
-                "start": 35,
-                "end": 40
+                "label": "DNA_RNA"
             },
             {
                 "word": "LTR",
-                "label": "DNA_RNA",
-                "start": 61,
-                "end": 64
+                "label": "DNA_RNA"
             },
             {
                 "word": "T cells",
-                "label": "CELL_TYPE",
-                "start": 103,
-                "end": 110
+                "label": "CELL_TYPE"
             },
             {
-                "word": "HIV-1 Tat",
-                "label": "PROTEIN",
-                "start": 149,
-                "end": 158
+                "word": "Tat",
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4108,9 +3293,7 @@
         "entities": [
             {
                 "word": "E1",
-                "label": "DNA_RNA",
-                "start": 17,
-                "end": 19
+                "label": "DNA_RNA"
             }
         ]
     },
@@ -4121,21 +3304,15 @@
         "entities": [
             {
                 "word": "L gene",
-                "label": "GENE",
-                "start": 4,
-                "end": 10
+                "label": "GENE"
             },
             {
                 "word": "R-PK",
-                "label": "PROTEIN",
-                "start": 29,
-                "end": 33
+                "label": "PROTEIN"
             },
             {
                 "word": "L-PK",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 49
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4153,20 +3330,14 @@
             {
                 "word": "mineralocorticoid",
                 "label": "CHEMICAL",
-                "start": 47,
-                "end": 64
+                "start": 44,
+                "end": 61
             },
             {
                 "word": "hypertension",
                 "label": "DISEASE",
-                "start": 83,
-                "end": 95
-            },
-            {
-                "word": "MR",
-                "label": "PROTEIN",
-                "start": 113,
-                "end": 115
+                "start": 87,
+                "end": 99
             }
         ]
     },
@@ -4178,8 +3349,8 @@
             {
                 "word": "CIITA",
                 "label": "PROTEIN",
-                "start": 57,
-                "end": 62
+                "start": 49,
+                "end": 54
             }
         ]
     },
@@ -4191,44 +3362,38 @@
             {
                 "word": "cAMP",
                 "label": "CHEMICAL",
-                "start": 74,
-                "end": 78
+                "start": 68,
+                "end": 72
             },
             {
                 "word": "tumor necrosis factor alpha",
                 "label": "PROTEIN",
-                "start": 117,
-                "end": 144
+                "start": 105,
+                "end": 132
             },
             {
                 "word": "TNFalpha",
                 "label": "PROTEIN",
-                "start": 147,
-                "end": 155
+                "start": 135,
+                "end": 143
             },
             {
                 "word": "tissue factor",
                 "label": "PROTEIN",
-                "start": 159,
-                "end": 172
+                "start": 147,
+                "end": 160
             },
             {
                 "word": "endothelial leukocyte adhesion molecule-1",
                 "label": "PROTEIN",
-                "start": 176,
-                "end": 217
+                "start": 163,
+                "end": 204
             },
             {
                 "word": "vascular cell adhesion molecule-1",
                 "label": "PROTEIN",
-                "start": 224,
-                "end": 257
-            },
-            {
-                "word": "genes",
-                "label": "DNA_RNA",
-                "start": 258,
-                "end": 263
+                "start": 211,
+                "end": 244
             }
         ]
     },
@@ -4236,12 +3401,6 @@
         "id": 224,
         "source": "JNLPBA",
         "text": "-DOCSTART-",
-        "entities": []
-    },
-    {
-        "id": 225,
-        "source": "JNLPBA",
-        "text": "Activated platelets induce monocyte chemotactic protein-1 secretion and surface expression of intercellular adhesion molecule-1 on endothelial cells [ see comments ]",
         "entities": [
             {
                 "word": "platelets",
@@ -4252,8 +3411,8 @@
             {
                 "word": "monocyte chemotactic protein-1",
                 "label": "PROTEIN",
-                "start": 27,
-                "end": 57
+                "start": 28,
+                "end": 58
             },
             {
                 "word": "intercellular adhesion molecule-1",
@@ -4270,28 +3429,9 @@
         ]
     },
     {
-        "id": 226,
+        "id": 225,
         "source": "JNLPBA",
-        "text": "-DOCSTART-",
-        "entities": []
-    },
-    {
-        "id": 227,
-        "source": "JNLPBA",
-        "text": "We investigated the trophic effect resulting from activation of such a receptor by using the reporter gene strategy .",
-        "entities": [
-            {
-                "word": "reporter gene",
-                "label": "DNA_RNA",
-                "start": 78,
-                "end": 91
-            }
-        ]
-    },
-    {
-        "id": 228,
-        "source": "JNLPBA",
-        "text": "Aldosterone levels returned to normal nonpregnant values after delivery .",
+        "text": "Activated platelets induce monocyte chemotactic protein-1 secretion and surface expression of intercellular adhesion molecule-1 on endothelial cells [ see comments ]",
         "entities": [
             {
                 "word": "Aldosterone",
@@ -4302,9 +3442,9 @@
         ]
     },
     {
-        "id": 229,
+        "id": 226,
         "source": "JNLPBA",
-        "text": "TNF and LPS stimulated vascular cell adhesion molecule ( VCAM ) -1 surface expression and adhesion of U-937 monocyte-like cells to HUVECs but not to HUAECs .",
+        "text": "-DOCSTART-",
         "entities": [
             {
                 "word": "TNF",
@@ -4321,14 +3461,14 @@
             {
                 "word": "vascular cell adhesion molecule",
                 "label": "PROTEIN",
-                "start": 20,
-                "end": 51
+                "start": 22,
+                "end": 53
             },
             {
                 "word": "VCAM",
                 "label": "PROTEIN",
-                "start": 54,
-                "end": 58
+                "start": 56,
+                "end": 60
             },
             {
                 "word": "U-937",
@@ -4351,16 +3491,10 @@
             {
                 "word": "HUAECs",
                 "label": "CELL_TYPE",
-                "start": 143,
-                "end": 149
+                "start": 145,
+                "end": 151
             }
         ]
-    },
-    {
-        "id": 230,
-        "source": "JNLPBA",
-        "text": "-DOCSTART-",
-        "entities": []
     },
     {
         "id": 231,
@@ -4369,27 +3503,19 @@
         "entities": [
             {
                 "word": "HIV-1 LTR",
-                "label": "DNA_RNA",
-                "start": 20,
-                "end": 29
+                "label": "DNA_RNA"
             },
             {
                 "word": "T cell",
-                "label": "CELL_TYPE",
-                "start": 33,
-                "end": 39
+                "label": "CELL_TYPE"
             },
             {
                 "word": "CD45",
-                "label": "PROTEIN",
-                "start": 74,
-                "end": 78
+                "label": "PROTEIN"
             },
             {
                 "word": "CD45",
-                "label": "PROTEIN",
-                "start": 118,
-                "end": 122
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4397,68 +3523,7 @@
         "id": 232,
         "source": "JNLPBA",
         "text": "-DOCSTART-",
-        "entities": [
-            {
-                "word": "cyclin-dependent kinase",
-                "label": "PROTEIN",
-                "start": 4,
-                "end": 27
-            },
-            {
-                "word": "cdk",
-                "label": "PROTEIN",
-                "start": 31,
-                "end": 34
-            },
-            {
-                "word": "p21",
-                "label": "PROTEIN",
-                "start": 47,
-                "end": 50
-            },
-            {
-                "word": "WAF1/CIP1",
-                "label": "PROTEIN",
-                "start": 53,
-                "end": 62
-            },
-            {
-                "word": "vitamin D3-responsive element",
-                "label": "DNA_RNA",
-                "start": 70,
-                "end": 99
-            },
-            {
-                "word": "VDRE",
-                "label": "DNA_RNA",
-                "start": 103,
-                "end": 107
-            },
-            {
-                "word": "1 , 25 ( OH ) 2D3",
-                "label": "CHEMICAL",
-                "start": 124,
-                "end": 140
-            },
-            {
-                "word": "p21",
-                "label": "PROTEIN",
-                "start": 162,
-                "end": 165
-            },
-            {
-                "word": "WAF1/CIP1",
-                "label": "PROTEIN",
-                "start": 167,
-                "end": 176
-            },
-            {
-                "word": "myeloid leukemic cell",
-                "label": "CELL_TYPE",
-                "start": 211,
-                "end": 232
-            }
-        ]
+        "entities": []
     },
     {
         "id": 233,
@@ -4466,46 +3531,44 @@
         "text": "The cyclin-dependent kinase ( cdk ) inhibitor p21 ( WAF1/CIP1 ) has a vitamin D3-responsive element ( VDRE ) in its promoter , and 1 , 25 ( OH ) 2D3 enhances the expression of p21 ( WAF1/CIP1 ) and induces differentiation of selected myeloid leukemic cell lines .",
         "entities": [
             {
-                "word": "TPCK",
-                "label": "CHEMICAL",
-                "start": 15,
-                "end": 19
+                "word": "cyclin-dependent kinase",
+                "label": "PROTEIN"
             },
             {
-                "word": "TLCK",
-                "label": "CHEMICAL",
-                "start": 24,
-                "end": 28
+                "word": "cdk",
+                "label": "PROTEIN"
             },
             {
-                "word": "LPS",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 42
+                "word": "p21",
+                "label": "PROTEIN"
             },
             {
-                "word": "TF",
-                "label": "PROTEIN",
-                "start": 54,
-                "end": 56
+                "word": "WAF1/CIP1",
+                "label": "PROTEIN"
             },
             {
-                "word": "human monocytes",
-                "label": "CELL_TYPE",
-                "start": 77,
-                "end": 92
+                "word": "vitamin D3",
+                "label": "CHEMICAL"
             },
             {
-                "word": "monocytic THP-1 cells",
-                "label": "CELL_TYPE",
-                "start": 97,
-                "end": 118
+                "word": "VDRE",
+                "label": "DNA_RNA"
             },
             {
-                "word": "LPS",
-                "label": "CHEMICAL",
-                "start": 152,
-                "end": 155
+                "word": "1 , 25 ( OH ) 2D3",
+                "label": "CHEMICAL"
+            },
+            {
+                "word": "p21",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "WAF1/CIP1",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "myeloid leukemic cell",
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -4515,22 +3578,32 @@
         "text": "To determine if TPCK and TLCK inhibited LPS induction of TF expression , freshly isolated human monocytes and monocytic THP-1 cells were pretreated with these inhibitors for 30 min before LPS stimulation .",
         "entities": [
             {
-                "word": "murine T cell",
-                "label": "CELL_TYPE",
-                "start": 17,
-                "end": 30
+                "word": "TPCK",
+                "label": "CHEMICAL"
             },
             {
-                "word": "glucocorticoid receptor",
-                "label": "PROTEIN",
-                "start": 96,
-                "end": 119
+                "word": "TLCK",
+                "label": "CHEMICAL"
             },
             {
-                "word": "GR",
-                "label": "PROTEIN",
-                "start": 122,
-                "end": 124
+                "word": "LPS",
+                "label": "CHEMICAL"
+            },
+            {
+                "word": "TF",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "monocytes",
+                "label": "CELL_TYPE"
+            },
+            {
+                "word": "THP-1",
+                "label": "CELL_TYPE"
+            },
+            {
+                "word": "LPS",
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -4540,16 +3613,16 @@
         "text": "Early studies in murine T cell lines indicated that transcriptional transactivation functions encoded in the glucocorticoid receptor ( GR ) N-terminal domain are required for glucocorticoid-mediated apoptosis .",
         "entities": [
             {
-                "word": "AML1a",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 5
+                "word": "T cell",
+                "label": "CELL_TYPE"
             },
             {
-                "word": "phorbol ester",
-                "label": "CHEMICAL",
-                "start": 76,
-                "end": 89
+                "word": "glucocorticoid receptor",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "GR",
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4557,49 +3630,64 @@
         "id": 236,
         "source": "JNLPBA",
         "text": "The -1053/+34 construct allowed promoter activity only in cells of hematopoietic origin , and tissue specificity was conserved in all other constructs tested .",
-        "entities": [
-            {
-                "word": "CD45RA+",
-                "label": "PROTEIN",
-                "start": 8,
-                "end": 15
-            },
-            {
-                "word": "CD45RO+",
-                "label": "PROTEIN",
-                "start": 29,
-                "end": 36
-            },
-            {
-                "word": "T lymphocytes",
-                "label": "CELL_TYPE",
-                "start": 40,
-                "end": 53
-            },
-            {
-                "word": "H2O2",
-                "label": "CHEMICAL",
-                "start": 73,
-                "end": 77
-            },
-            {
-                "word": "NF-kappaB",
-                "label": "PROTEIN",
-                "start": 81,
-                "end": 90
-            }
-        ]
+        "entities": []
     },
     {
         "id": 237,
         "source": "JNLPBA",
         "text": "Postoperatively , blood was taken as well in order to compare pre- and postoperative values .",
+        "entities": []
+    },
+    {
+        "id": 238,
+        "source": "JNLPBA",
+        "text": "AML1a expression was associated with enhanced sensitivity to megakaryocytic differentiation induced by phorbol ester .",
+        "entities": [
+            {
+                "word": "AML1a",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "phorbol ester",
+                "label": "CHEMICAL"
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "source": "JNLPBA",
+        "text": "When CD45RA+ ( naive ) and CD45RO+ ( memory ) T lymphocytes were directly stimulated with H2O2 , NF-kappaB nuclear translocation was stronger in naive cells than in memory cells and it could be induced with lower doses .",
+        "entities": [
+            {
+                "word": "CD45RA+",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "CD45RO+",
+                "label": "PROTEIN"
+            },
+            {
+                "word": "T lymphocytes",
+                "label": "CELL_TYPE"
+            },
+            {
+                "word": "H2O2",
+                "label": "CHEMICAL"
+            },
+            {
+                "word": "NF-kappaB",
+                "label": "PROTEIN"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "source": "JNLPBA",
+        "text": "In this regard , intracellular levels of c-fos appear to be influential .",
         "entities": [
             {
                 "word": "c-fos",
-                "label": "PROTEIN",
-                "start": 35,
-                "end": 40
+                "label": "PROTEIN"
             }
         ]
     },
@@ -4611,32 +3699,38 @@
             {
                 "word": "HL60",
                 "label": "CELL_TYPE",
-                "start": 39,
-                "end": 43
+                "start": 44,
+                "end": 48
+            },
+            {
+                "word": "normal cells",
+                "label": "CELL_TYPE",
+                "start": 53,
+                "end": 65
             },
             {
                 "word": "estrone",
                 "label": "CHEMICAL",
-                "start": 81,
-                "end": 88
+                "start": 87,
+                "end": 94
             },
             {
                 "word": "E1",
                 "label": "CHEMICAL",
-                "start": 91,
-                "end": 93
+                "start": 97,
+                "end": 99
             },
             {
                 "word": "estradiol",
                 "label": "CHEMICAL",
-                "start": 102,
-                "end": 111
+                "start": 107,
+                "end": 116
             },
             {
                 "word": "E2",
                 "label": "CHEMICAL",
-                "start": 114,
-                "end": 116
+                "start": 119,
+                "end": 121
             }
         ]
     },
@@ -4660,20 +3754,20 @@
             {
                 "word": "IgE",
                 "label": "PROTEIN",
-                "start": 29,
-                "end": 32
+                "start": 28,
+                "end": 31
             },
             {
                 "word": "memory B cells",
                 "label": "CELL_TYPE",
-                "start": 74,
-                "end": 88
+                "start": 78,
+                "end": 92
             },
             {
                 "word": "plasma cells",
                 "label": "CELL_TYPE",
-                "start": 94,
-                "end": 106
+                "start": 96,
+                "end": 108
             }
         ]
     },
@@ -4689,16 +3783,10 @@
         "text": "All tissues and cells studied were homozygous for the wild-type gene , and were heterozygous as well as homozygous for the codon-10-variant type .",
         "entities": [
             {
-                "word": "DLCL",
-                "label": "DISEASE",
-                "start": 38,
-                "end": 42
-            },
-            {
-                "word": "BCL-6",
+                "word": "gene",
                 "label": "GENE",
-                "start": 72,
-                "end": 77
+                "start": 47,
+                "end": 51
             }
         ]
     },
@@ -4706,20 +3794,7 @@
         "id": 245,
         "source": "JNLPBA",
         "text": "-DOCSTART-",
-        "entities": [
-            {
-                "word": "serine",
-                "label": "CHEMICAL",
-                "start": 39,
-                "end": 45
-            },
-            {
-                "word": "threonine",
-                "label": "CHEMICAL",
-                "start": 50,
-                "end": 59
-            }
-        ]
+        "entities": []
     },
     {
         "id": 246,
@@ -4727,16 +3802,16 @@
         "text": "In addition to contributing to the understanding of DLCL pathogenesis , the identification of BCL-6 lesions may have relevant clinical implications .",
         "entities": [
             {
-                "word": "STAT3",
-                "label": "PROTEIN",
-                "start": 14,
-                "end": 19
+                "word": "DLCL",
+                "label": "DISEASE",
+                "start": 39,
+                "end": 43
             },
             {
-                "word": "B-2 cells",
-                "label": "CELL_TYPE",
-                "start": 39,
-                "end": 48
+                "word": "BCL-6",
+                "label": "GENE",
+                "start": 74,
+                "end": 79
             }
         ]
     },
@@ -4744,7 +3819,20 @@
         "id": 247,
         "source": "JNLPBA",
         "text": "We identified a stretch of 23 amino acids , rich in serine and threonine residues , which was responsible for most of the repression activity .",
-        "entities": []
+        "entities": [
+            {
+                "word": "serine",
+                "label": "CHEMICAL",
+                "start": 56,
+                "end": 62
+            },
+            {
+                "word": "threonine",
+                "label": "CHEMICAL",
+                "start": 67,
+                "end": 76
+            }
+        ]
     },
     {
         "id": 248,
@@ -4752,28 +3840,53 @@
         "text": "In contrast , STAT3 activation is induced in B-2 cells after antigen receptor engagement in a delayed fashion ( after 3 h ) .",
         "entities": [
             {
+                "word": "STAT3",
+                "label": "PROTEIN",
+                "start": 13,
+                "end": 18
+            },
+            {
+                "word": "B-2 cells",
+                "label": "CELL_TYPE",
+                "start": 36,
+                "end": 45
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "source": "JNLPBA",
+        "text": "These results are in a dose range where the viability of the cells remains very high .",
+        "entities": []
+    },
+    {
+        "id": 250,
+        "source": "JNLPBA",
+        "text": "In the human monocytic cell line THP-1 , either integrin -dependent cell adhesion to fibronectin or ligation of beta 1 integrins with antibodies causes a rapid and intense tyrosine phosphorylation of two sets of proteins of about 65-75 and 120-125 kDa .",
+        "entities": [
+            {
                 "word": "THP-1",
                 "label": "CELL_TYPE",
-                "start": 27,
-                "end": 32
+                "start": 32,
+                "end": 37
             },
             {
                 "word": "integrin",
                 "label": "PROTEIN",
-                "start": 38,
-                "end": 46
+                "start": 44,
+                "end": 52
             },
             {
                 "word": "fibronectin",
                 "label": "PROTEIN",
-                "start": 75,
-                "end": 86
+                "start": 81,
+                "end": 92
             },
             {
                 "word": "beta 1 integrins",
                 "label": "PROTEIN",
-                "start": 100,
-                "end": 116
+                "start": 107,
+                "end": 123
             }
         ]
     },
@@ -4789,16 +3902,16 @@
                 "end": 6
             },
             {
-                "word": "mRNA",
+                "word": "GATA-1",
                 "label": "DNA_RNA",
-                "start": 15,
-                "end": 19
+                "start": 16,
+                "end": 22
             },
             {
                 "word": "gene",
                 "label": "DNA_RNA",
-                "start": 78,
-                "end": 82
+                "start": 98,
+                "end": 102
             }
         ]
     },
@@ -4816,8 +3929,8 @@
             {
                 "word": "CD14",
                 "label": "DNA_RNA",
-                "start": 47,
-                "end": 51
+                "start": 49,
+                "end": 53
             }
         ]
     },
@@ -4827,28 +3940,34 @@
         "text": "Various antioxidants , such as pyrrolidine dithiocarbamate , p-bromophenacyl-bromide and nordihydroguaiaretic acid could strongly reduce NF-kappaB translocation , demonstrating the importance of oxidative species in the transduction mechanism .",
         "entities": [
             {
+                "word": "antioxidants",
+                "label": "CHEMICAL",
+                "start": 8,
+                "end": 20
+            },
+            {
                 "word": "pyrrolidine dithiocarbamate",
                 "label": "CHEMICAL",
-                "start": 26,
-                "end": 53
+                "start": 28,
+                "end": 55
             },
             {
                 "word": "p-bromophenacyl-bromide",
                 "label": "CHEMICAL",
-                "start": 55,
-                "end": 78
+                "start": 57,
+                "end": 80
             },
             {
                 "word": "nordihydroguaiaretic acid",
                 "label": "CHEMICAL",
-                "start": 83,
-                "end": 108
+                "start": 85,
+                "end": 110
             },
             {
                 "word": "NF-kappaB",
                 "label": "PROTEIN",
-                "start": 128,
-                "end": 137
+                "start": 127,
+                "end": 136
             }
         ]
     },
@@ -4866,26 +3985,26 @@
             {
                 "word": "Ig/EBP-1",
                 "label": "PROTEIN",
-                "start": 25,
-                "end": 33
+                "start": 23,
+                "end": 31
             },
             {
                 "word": "pre-B cell",
                 "label": "CELL_TYPE",
-                "start": 37,
-                "end": 47
+                "start": 35,
+                "end": 45
             },
             {
                 "word": "T cell",
                 "label": "CELL_TYPE",
-                "start": 52,
-                "end": 58
+                "start": 50,
+                "end": 56
             },
             {
                 "word": "nuclear factor-IL-6beta",
                 "label": "PROTEIN",
-                "start": 85,
-                "end": 108
+                "start": 83,
+                "end": 106
             },
             {
                 "word": "nuclear factor-IL-6beta-Ig/EBP-1",
@@ -4894,10 +4013,10 @@
                 "end": 144
             },
             {
-                "word": "plasmacytoma cell",
+                "word": "plasmacytoma",
                 "label": "CELL_TYPE",
-                "start": 156,
-                "end": 173
+                "start": 154,
+                "end": 166
             }
         ]
     },
@@ -4930,12 +4049,6 @@
                 "label": "PROTEIN",
                 "start": 24,
                 "end": 27
-            },
-            {
-                "word": "ras",
-                "label": "PROTEIN",
-                "start": 91,
-                "end": 94
             }
         ]
     },
@@ -4943,7 +4056,32 @@
         "id": 257,
         "source": "JNLPBA",
         "text": "-DOCSTART-",
-        "entities": []
+        "entities": [
+            {
+                "word": "IL-12R beta 1",
+                "label": "PROTEIN",
+                "start": 37,
+                "end": 50
+            },
+            {
+                "word": "beta 2",
+                "label": "PROTEIN",
+                "start": 55,
+                "end": 61
+            },
+            {
+                "word": "IL-4",
+                "label": "PROTEIN",
+                "start": 84,
+                "end": 88
+            },
+            {
+                "word": "IFNs",
+                "label": "PROTEIN",
+                "start": 93,
+                "end": 97
+            }
+        ]
     },
     {
         "id": 258,
@@ -4951,28 +4089,16 @@
         "text": "Capacitance would simply involve expression of IL-12R beta 1 and beta 2 subunits , regulated by TCR , IL-4 and IFNs .",
         "entities": [
             {
-                "word": "IL-12R beta 1",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 49
+                "word": "hypertension",
+                "label": "DISEASE",
+                "start": 32,
+                "end": 44
             },
             {
-                "word": "beta 2",
-                "label": "PROTEIN",
-                "start": 54,
-                "end": 60
-            },
-            {
-                "word": "IL-4",
-                "label": "PROTEIN",
-                "start": 81,
-                "end": 85
-            },
-            {
-                "word": "IFNs",
-                "label": "PROTEIN",
-                "start": 90,
-                "end": 94
+                "word": "hypokalemia",
+                "label": "DISEASE",
+                "start": 53,
+                "end": 64
             }
         ]
     },
@@ -4980,25 +4106,6 @@
         "id": 259,
         "source": "JNLPBA",
         "text": "The second male patient had slight hypertension without hypokalemia .",
-        "entities": [
-            {
-                "word": "hypertension",
-                "label": "DISEASE",
-                "start": 30,
-                "end": 42
-            },
-            {
-                "word": "hypokalemia",
-                "label": "DISEASE",
-                "start": 51,
-                "end": 62
-            }
-        ]
-    },
-    {
-        "id": 260,
-        "source": "JNLPBA",
-        "text": "This work aims at identifying the thymocyte subpopulation able to support human immunodeficiency virus ( HIV ) replication under the biological stimuli of the thymic microenvironment .",
         "entities": [
             {
                 "word": "thymocyte",
@@ -5028,14 +4135,14 @@
             {
                 "word": "gelatinase",
                 "label": "PROTEIN",
-                "start": 26,
-                "end": 36
+                "start": 33,
+                "end": 43
             },
             {
                 "word": "neutrophils",
                 "label": "CELL_TYPE",
-                "start": 53,
-                "end": 64
+                "start": 62,
+                "end": 73
             }
         ]
     },
@@ -5053,20 +4160,20 @@
             {
                 "word": "TGF-beta 2",
                 "label": "DNA_RNA",
-                "start": 128,
-                "end": 138
-            },
-            {
-                "word": "glial labile repressor protein",
-                "label": "PROTEIN",
-                "start": 72,
-                "end": 102
+                "start": 161,
+                "end": 171
             },
             {
                 "word": "GLRP",
                 "label": "PROTEIN",
-                "start": 105,
-                "end": 109
+                "start": 113,
+                "end": 117
+            },
+            {
+                "word": "80 kDA glial labile repressor protein",
+                "label": "PROTEIN",
+                "start": 74,
+                "end": 111
             }
         ]
     },
@@ -5078,20 +4185,20 @@
             {
                 "word": "IL-2",
                 "label": "PROTEIN",
-                "start": 26,
-                "end": 30
-            },
-            {
-                "word": "T cells",
-                "label": "CELL_TYPE",
-                "start": 102,
-                "end": 109
+                "start": 25,
+                "end": 29
             },
             {
                 "word": "IL-2R alpha",
                 "label": "PROTEIN",
-                "start": 121,
-                "end": 132
+                "start": 125,
+                "end": 136
+            },
+            {
+                "word": "T cells",
+                "label": "CELL_TYPE",
+                "start": 105,
+                "end": 112
             }
         ]
     },
@@ -5102,9 +4209,9 @@
         "entities": [
             {
                 "word": "Epstein-Barr virus",
-                "label": "DISEASE",
-                "start": 20,
-                "end": 38
+                "label": "CHEMICAL",
+                "start": 21,
+                "end": 39
             },
             {
                 "word": "dUTPase",
@@ -5122,26 +4229,26 @@
             {
                 "word": "lymphocytic",
                 "label": "CELL_TYPE",
-                "start": 129,
-                "end": 140
+                "start": 158,
+                "end": 169
             },
             {
                 "word": "monocytic",
                 "label": "CELL_TYPE",
-                "start": 142,
-                "end": 151
+                "start": 171,
+                "end": 180
             },
             {
                 "word": "neuronal",
                 "label": "CELL_TYPE",
-                "start": 153,
-                "end": 161
+                "start": 182,
+                "end": 190
             },
             {
                 "word": "glial",
                 "label": "CELL_TYPE",
-                "start": 168,
-                "end": 173
+                "start": 196,
+                "end": 201
             }
         ]
     },
@@ -5153,20 +4260,20 @@
             {
                 "word": "p38 MAPk",
                 "label": "PROTEIN",
-                "start": 13,
-                "end": 21
+                "start": 14,
+                "end": 22
             },
             {
                 "word": "SK & F 86002",
                 "label": "CHEMICAL",
-                "start": 33,
-                "end": 45
+                "start": 32,
+                "end": 44
             },
             {
                 "word": "superoxide anion",
                 "label": "CHEMICAL",
-                "start": 57,
-                "end": 73
+                "start": 56,
+                "end": 72
             },
             {
                 "word": "FMLP",
@@ -5177,14 +4284,14 @@
             {
                 "word": "PAF",
                 "label": "CHEMICAL",
-                "start": 135,
-                "end": 138
+                "start": 142,
+                "end": 145
             },
             {
                 "word": "FMLP",
                 "label": "CHEMICAL",
-                "start": 142,
-                "end": 146
+                "start": 149,
+                "end": 153
             }
         ]
     },
@@ -5197,25 +4304,25 @@
                 "word": "2 , 3 , 7 , 8-tetrachlorodibenzo-p-dioxin",
                 "label": "CHEMICAL",
                 "start": 0,
-                "end": 43
+                "end": 42
             },
             {
                 "word": "TCDD",
                 "label": "CHEMICAL",
-                "start": 46,
-                "end": 50
+                "start": 44,
+                "end": 48
             },
             {
                 "word": "B lymphocyte",
                 "label": "CELL_TYPE",
-                "start": 78,
-                "end": 90
+                "start": 74,
+                "end": 86
             },
             {
                 "word": "immunoglobulin",
                 "label": "PROTEIN",
-                "start": 91,
-                "end": 105
+                "start": 87,
+                "end": 101
             }
         ]
     },
@@ -5227,8 +4334,8 @@
             {
                 "word": "transcription factors",
                 "label": "PROTEIN",
-                "start": 37,
-                "end": 58
+                "start": 34,
+                "end": 55
             }
         ]
     },
@@ -5239,57 +4346,51 @@
         "entities": [
             {
                 "word": "iNOS",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 49
+                "label": "GENE",
+                "start": 41,
+                "end": 45
             },
             {
                 "word": "LPS",
                 "label": "CHEMICAL",
-                "start": 58,
-                "end": 61
+                "start": 53,
+                "end": 56
             },
             {
                 "word": "IFN-gamma",
                 "label": "PROTEIN",
-                "start": 65,
-                "end": 74
+                "start": 59,
+                "end": 68
             },
             {
                 "word": "LPS",
                 "label": "CHEMICAL",
-                "start": 176,
-                "end": 179
+                "start": 218,
+                "end": 221
             },
             {
                 "word": "IFN-gamma",
                 "label": "PROTEIN",
-                "start": 181,
-                "end": 190
+                "start": 224,
+                "end": 233
             },
             {
                 "word": "iNOS",
+                "label": "GENE",
+                "start": 254,
+                "end": 258
+            },
+            {
+                "word": "nuclear factor-kappa B/Rel",
                 "label": "PROTEIN",
-                "start": 213,
-                "end": 217
+                "start": 314,
+                "end": 339
             },
             {
                 "word": "macrophages",
                 "label": "CELL_TYPE",
-                "start": 266,
-                "end": 277
-            },
-            {
-                "word": "nuclear factor-kappa B",
-                "label": "PROTEIN",
-                "start": 287,
-                "end": 309
-            },
-            {
-                "word": "Rel",
-                "label": "PROTEIN",
-                "start": 310,
-                "end": 313
+                "start": 296,
+                "end": 307
             }
         ]
     },
@@ -5301,20 +4402,20 @@
             {
                 "word": "IFN-gamma",
                 "label": "PROTEIN",
-                "start": 47,
-                "end": 56
+                "start": 49,
+                "end": 58
             },
             {
                 "word": "T cells",
                 "label": "CELL_TYPE",
-                "start": 63,
-                "end": 70
+                "start": 62,
+                "end": 69
             },
             {
                 "word": "IFN-gamma",
                 "label": "PROTEIN",
-                "start": 96,
-                "end": 105
+                "start": 91,
+                "end": 100
             }
         ]
     },
@@ -5325,15 +4426,11 @@
         "entities": [
             {
                 "word": "IRF",
-                "label": "GENE",
-                "start": 16,
-                "end": 19
+                "label": "GENE"
             },
             {
                 "word": "PRL",
-                "label": "PROTEIN",
-                "start": 41,
-                "end": 44
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5343,28 +4440,16 @@
         "text": "In contrast , the 1.7-kb IRF- CAT construct was inducible by PRL during both G1 and S phase of the cell cycle .",
         "entities": [
             {
-                "word": "CD3",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 39
+                "word": "CD3/TCR complex",
+                "label": "PROTEIN"
             },
             {
-                "word": "TCR",
-                "label": "PROTEIN",
-                "start": 40,
-                "end": 43
-            },
-            {
-                "word": "CD2",
-                "label": "PROTEIN",
-                "start": 56,
-                "end": 59
+                "word": "CD2 antigen",
+                "label": "PROTEIN"
             },
             {
                 "word": "T cells",
-                "label": "CELL_TYPE",
-                "start": 103,
-                "end": 110
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -5375,15 +4460,11 @@
         "entities": [
             {
                 "word": "MM",
-                "label": "DISEASE",
-                "start": 29,
-                "end": 31
+                "label": "DISEASE"
             },
             {
                 "word": "CD40",
-                "label": "PROTEIN",
-                "start": 81,
-                "end": 85
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5394,51 +4475,35 @@
         "entities": [
             {
                 "word": "T cell",
-                "label": "CELL_TYPE",
-                "start": 41,
-                "end": 47
+                "label": "CELL_TYPE"
             },
             {
                 "word": "phorbol 12-myristate 13-acetate",
-                "label": "CHEMICAL",
-                "start": 62,
-                "end": 93
+                "label": "CHEMICAL"
             },
             {
                 "word": "PMA",
-                "label": "CHEMICAL",
-                "start": 96,
-                "end": 99
+                "label": "CHEMICAL"
             },
             {
                 "word": "phytohemagglutin",
-                "label": "CHEMICAL",
-                "start": 105,
-                "end": 121
+                "label": "CHEMICAL"
             },
             {
                 "word": "PHA",
-                "label": "CHEMICAL",
-                "start": 124,
-                "end": 127
+                "label": "CHEMICAL"
             },
             {
                 "word": "NF-kappa B1",
-                "label": "GENE",
-                "start": 165,
-                "end": 176
+                "label": "GENE"
             },
             {
                 "word": "tumor necrosis factor-alpha",
-                "label": "CHEMICAL",
-                "start": 218,
-                "end": 245
+                "label": "PROTEIN"
             },
             {
                 "word": "NF-kappa B",
-                "label": "PROTEIN",
-                "start": 272,
-                "end": 282
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5449,27 +4514,19 @@
         "entities": [
             {
                 "word": "RanQ69L",
-                "label": "PROTEIN",
-                "start": 4,
-                "end": 11
+                "label": "PROTEIN"
             },
             {
                 "word": "CRM1",
-                "label": "PROTEIN",
-                "start": 36,
-                "end": 40
+                "label": "PROTEIN"
             },
             {
-                "word": "p62",
-                "label": "PROTEIN",
-                "start": 110,
-                "end": 113
+                "word": "p62 complex",
+                "label": "PROTEIN"
             },
             {
                 "word": "Can/Nup214",
-                "label": "PROTEIN",
-                "start": 129,
-                "end": 139
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5480,27 +4537,15 @@
         "entities": [
             {
                 "word": "CaMKIV",
-                "label": "PROTEIN",
-                "start": 19,
-                "end": 25
+                "label": "PROTEIN"
             },
             {
                 "word": "CREB",
-                "label": "PROTEIN",
-                "start": 54,
-                "end": 58
+                "label": "PROTEIN"
             },
             {
                 "word": "T cells",
-                "label": "CELL_TYPE",
-                "start": 74,
-                "end": 81
-            },
-            {
-                "word": "T cells",
-                "label": "CELL_TYPE",
-                "start": 133,
-                "end": 140
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -5511,21 +4556,11 @@
         "entities": [
             {
                 "word": "glucocorticoids",
-                "label": "CHEMICAL",
-                "start": 26,
-                "end": 41
-            },
-            {
-                "word": "inflammation",
-                "label": "DISEASE",
-                "start": 73,
-                "end": 85
+                "label": "CHEMICAL"
             },
             {
                 "word": "asthma",
-                "label": "DISEASE",
-                "start": 173,
-                "end": 179
+                "label": "DISEASE"
             }
         ]
     },
@@ -5536,21 +4571,15 @@
         "entities": [
             {
                 "word": "p50",
-                "label": "PROTEIN",
-                "start": 23,
-                "end": 26
+                "label": "PROTEIN"
             },
             {
                 "word": "p52",
-                "label": "PROTEIN",
-                "start": 29,
-                "end": 32
+                "label": "PROTEIN"
             },
             {
                 "word": "RelB",
-                "label": "PROTEIN",
-                "start": 37,
-                "end": 41
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5561,21 +4590,15 @@
         "entities": [
             {
                 "word": "EBV-encoded nuclear antigen",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 27
+                "label": "PROTEIN"
             },
             {
-                "word": "EBNA",
-                "label": "PROTEIN",
-                "start": 29,
-                "end": 33
+                "word": "EBNA-1",
+                "label": "PROTEIN"
             },
             {
                 "word": "EBNAs",
-                "label": "PROTEIN",
-                "start": 82,
-                "end": 87
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5587,38 +4610,44 @@
             {
                 "word": "IL-2",
                 "label": "GENE",
-                "start": 30,
-                "end": 34
+                "start": 33,
+                "end": 37
             },
             {
                 "word": "okadaic acid",
                 "label": "CHEMICAL",
-                "start": 78,
-                "end": 90
+                "start": 81,
+                "end": 93
+            },
+            {
+                "word": "phosphatases",
+                "label": "PROTEIN",
+                "start": 104,
+                "end": 116
             },
             {
                 "word": "octamer",
                 "label": "PROTEIN",
-                "start": 133,
-                "end": 140
+                "start": 139,
+                "end": 146
             },
             {
                 "word": "NF-kappa B",
                 "label": "PROTEIN",
-                "start": 143,
-                "end": 153
+                "start": 150,
+                "end": 160
             },
             {
                 "word": "NF of activated T cells",
                 "label": "PROTEIN",
-                "start": 158,
-                "end": 181
+                "start": 166,
+                "end": 189
             },
             {
                 "word": "AP-1",
                 "label": "PROTEIN",
-                "start": 218,
-                "end": 222
+                "start": 224,
+                "end": 228
             }
         ]
     },
@@ -5630,26 +4659,26 @@
             {
                 "word": "BCL-2",
                 "label": "PROTEIN",
-                "start": 98,
-                "end": 103
+                "start": 86,
+                "end": 91
             },
             {
-                "word": "B-cell",
+                "word": "EBV-immortalized B-cell",
                 "label": "CELL_TYPE",
-                "start": 154,
-                "end": 160
+                "start": 135,
+                "end": 158
             },
             {
                 "word": "BCL-2",
                 "label": "PROTEIN",
-                "start": 226,
-                "end": 231
+                "start": 218,
+                "end": 223
             },
             {
                 "word": "A20",
                 "label": "PROTEIN",
-                "start": 236,
-                "end": 239
+                "start": 228,
+                "end": 231
             }
         ]
     },
@@ -5661,14 +4690,14 @@
             {
                 "word": "interleukin-12",
                 "label": "PROTEIN",
-                "start": 71,
-                "end": 85
+                "start": 78,
+                "end": 92
             },
             {
                 "word": "IL-12",
                 "label": "PROTEIN",
-                "start": 88,
-                "end": 93
+                "start": 95,
+                "end": 100
             }
         ]
     },
@@ -5680,38 +4709,38 @@
             {
                 "word": "IFN A",
                 "label": "PROTEIN",
-                "start": 35,
-                "end": 40
+                "start": 38,
+                "end": 43
             },
             {
                 "word": "IFNA",
                 "label": "PROTEIN",
-                "start": 43,
-                "end": 47
+                "start": 46,
+                "end": 50
             },
             {
                 "word": "interleukin-2",
                 "label": "PROTEIN",
-                "start": 89,
-                "end": 102
+                "start": 96,
+                "end": 109
             },
             {
                 "word": "interleukin-2 receptor",
                 "label": "PROTEIN",
-                "start": 107,
-                "end": 129
+                "start": 114,
+                "end": 136
             },
             {
                 "word": "phytohemagglutinin",
                 "label": "CHEMICAL",
-                "start": 151,
-                "end": 169
+                "start": 156,
+                "end": 174
             },
             {
                 "word": "phorbol myristate acetate",
                 "label": "CHEMICAL",
-                "start": 174,
-                "end": 199
+                "start": 179,
+                "end": 204
             }
         ]
     },
@@ -5729,14 +4758,14 @@
             {
                 "word": "AML1",
                 "label": "PROTEIN",
-                "start": 44,
-                "end": 48
+                "start": 47,
+                "end": 51
             },
             {
                 "word": "acute myeloid leukemia",
                 "label": "DISEASE",
-                "start": 126,
-                "end": 148
+                "start": 134,
+                "end": 156
             }
         ]
     },
@@ -5746,28 +4775,40 @@
         "text": "PEBP2 alpha B is the murine counterpart of human AML1 , which is located at the breakpoints of the 8 ; 21 and 3 ; 21 chromosome translocations associated with acute myeloid leukemia .",
         "entities": [
             {
-                "word": "all-trans and 9-cis RA",
+                "word": "all-trans RA",
                 "label": "CHEMICAL",
-                "start": 13,
-                "end": 35
+                "start": 16,
+                "end": 28
+            },
+            {
+                "word": "9-cis RA",
+                "label": "CHEMICAL",
+                "start": 33,
+                "end": 41
             },
             {
                 "word": "HIV-1",
                 "label": "CHEMICAL",
-                "start": 57,
-                "end": 62
+                "start": 62,
+                "end": 67
+            },
+            {
+                "word": "monocytoid cells",
+                "label": "CELL_TYPE",
+                "start": 81,
+                "end": 97
             },
             {
                 "word": "phorbol myristate acetate",
                 "label": "CHEMICAL",
-                "start": 138,
-                "end": 163
+                "start": 133,
+                "end": 158
             },
             {
                 "word": "PMA",
                 "label": "CHEMICAL",
-                "start": 166,
-                "end": 169
+                "start": 161,
+                "end": 164
             }
         ]
     },
@@ -5779,8 +4820,8 @@
             {
                 "word": "human mammary epithelial cells",
                 "label": "CELL_TYPE",
-                "start": 65,
-                "end": 95
+                "start": 78,
+                "end": 108
             }
         ]
     },
@@ -5792,8 +4833,8 @@
             {
                 "word": "HTLV-1 Tax",
                 "label": "PROTEIN",
-                "start": 22,
-                "end": 32
+                "start": 23,
+                "end": 33
             },
             {
                 "word": "IkappaBalpha",
@@ -5810,20 +4851,20 @@
             {
                 "word": "Tax",
                 "label": "PROTEIN",
-                "start": 87,
-                "end": 90
+                "start": 84,
+                "end": 87
             },
             {
                 "word": "NF-kappaB",
                 "label": "PROTEIN",
-                "start": 109,
-                "end": 118
+                "start": 106,
+                "end": 115
             },
             {
                 "word": "IkappaBalpha",
                 "label": "PROTEIN",
-                "start": 139,
-                "end": 151
+                "start": 135,
+                "end": 147
             }
         ]
     },
@@ -5834,27 +4875,15 @@
         "entities": [
             {
                 "word": "EBNA3C",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 6
+                "label": "PROTEIN"
             },
             {
                 "word": "DNA",
-                "label": "DNA_RNA",
-                "start": 36,
-                "end": 39
-            },
-            {
-                "word": "DNA binding domain",
-                "label": "PROTEIN",
-                "start": 57,
-                "end": 75
+                "label": "DNA_RNA"
             },
             {
                 "word": "GALA",
-                "label": "PROTEIN",
-                "start": 84,
-                "end": 88
+                "label": "PROTEIN"
             }
         ]
     },
@@ -5865,39 +4894,27 @@
         "entities": [
             {
                 "word": "Hemoglobin",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 10
+                "label": "PROTEIN"
             },
             {
                 "word": "gamma-globin",
-                "label": "PROTEIN",
-                "start": 28,
-                "end": 40
+                "label": "PROTEIN"
             },
             {
                 "word": "erythroid delta-aminolevulinate synthase",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 84
+                "label": "PROTEIN"
             },
             {
                 "word": "mRNA",
-                "label": "DNA_RNA",
-                "start": 85,
-                "end": 89
+                "label": "DNA_RNA"
             },
             {
                 "word": "M-TAT/EPO cells",
-                "label": "CELL_TYPE",
-                "start": 116,
-                "end": 131
+                "label": "CELL_TYPE"
             },
             {
                 "word": "M-TAT/GM-CSF cells",
-                "label": "CELL_TYPE",
-                "start": 139,
-                "end": 157
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -5914,21 +4931,15 @@
         "entities": [
             {
                 "word": "c-Jun",
-                "label": "PROTEIN",
-                "start": 0,
-                "end": 5
+                "label": "PROTEIN"
             },
             {
                 "word": "GST-pi",
-                "label": "PROTEIN",
-                "start": 10,
-                "end": 16
+                "label": "PROTEIN"
             },
             {
                 "word": "plasma cells",
-                "label": "CELL_TYPE",
-                "start": 35,
-                "end": 47
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -5939,9 +4950,7 @@
         "entities": [
             {
                 "word": "progenitor cells",
-                "label": "CELL_TYPE",
-                "start": 145,
-                "end": 161
+                "label": "CELL_TYPE"
             }
         ]
     },
@@ -5952,27 +4961,19 @@
         "entities": [
             {
                 "word": "17beta-HSD IV",
-                "label": "PROTEIN",
-                "start": 43,
-                "end": 56
+                "label": "PROTEIN"
             },
             {
                 "word": "DNA-PK",
-                "label": "PROTEIN",
-                "start": 60,
-                "end": 66
+                "label": "PROTEIN"
             },
             {
                 "word": "mRNA",
-                "label": "DNA_RNA",
-                "start": 72,
-                "end": 76
+                "label": "DNA_RNA"
             },
             {
                 "word": "1 , 25 ( OH ) 2D3",
-                "label": "CHEMICAL",
-                "start": 103,
-                "end": 119
+                "label": "CHEMICAL"
             }
         ]
     },
@@ -5983,21 +4984,15 @@
         "entities": [
             {
                 "word": "CD48",
-                "label": "GENE",
-                "start": 18,
-                "end": 22
+                "label": "GENE"
             },
             {
-                "word": "Epstein-Barr virus-immortalized B-cell lines",
-                "label": "CELL_TYPE",
-                "start": 77,
-                "end": 121
+                "word": "B-cell",
+                "label": "CELL_TYPE"
             },
             {
                 "word": "NF-kappa B",
-                "label": "PROTEIN",
-                "start": 141,
-                "end": 151
+                "label": "PROTEIN"
             }
         ]
     },
@@ -6005,7 +5000,12 @@
         "id": 298,
         "source": "JNLPBA",
         "text": "The mechanism and function of the expressed genes during lymphocyte differentiation and in disorders is discussed .",
-        "entities": []
+        "entities": [
+            {
+                "word": "lymphocyte",
+                "label": "CELL_TYPE"
+            }
+        ]
     },
     {
         "id": 299,
@@ -6014,21 +5014,15 @@
         "entities": [
             {
                 "word": "AML1",
-                "label": "GENE",
-                "start": 5,
-                "end": 9
+                "label": "GENE"
             },
             {
                 "word": "AML1a",
-                "label": "PROTEIN",
-                "start": 45,
-                "end": 50
+                "label": "PROTEIN"
             },
             {
                 "word": "AML1b",
-                "label": "PROTEIN",
-                "start": 55,
-                "end": 60
+                "label": "PROTEIN"
             }
         ]
     },
@@ -6039,15 +5033,11 @@
         "entities": [
             {
                 "word": "AP-1",
-                "label": "PROTEIN",
-                "start": 17,
-                "end": 21
+                "label": "PROTEIN"
             },
             {
                 "word": "T cell",
-                "label": "CELL_TYPE",
-                "start": 69,
-                "end": 75
+                "label": "CELL_TYPE"
             }
         ]
     }

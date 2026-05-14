@@ -71,4 +71,4 @@ def evaluate_comprehensive(gt_json, gm_json):
     print("="*40)
 
 if __name__ == "__main__":
-    evaluate_comprehensive("ground_truth_300.json", "few_shot_train_multilabel.json")
+    evaluate_comprehensive("data/processed/ground_truth_300.json", "data/silver_labels/few_shot_train_multilabel.json")

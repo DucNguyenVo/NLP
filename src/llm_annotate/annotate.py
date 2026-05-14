@@ -1,10 +1,14 @@
 import json
 import time
+import os
+from dotenv import load_dotenv
+
 from google import genai
 from google.genai import types
 
+load_dotenv()
 # --- Cấu hình API ---
-API_KEY = "AIzaSyANC8XVgjFcZvmysAGOOF9tgIPSwWrYA5E"
+API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=API_KEY)
 
 # Dựa trên danh sách models/ của bạn, đây là định danh Lite chính xác nhất
@@ -17,6 +21,13 @@ class BioNERAnnotatorLite:
         Role: Biomedical Expert.
         Task: Extract entities (GENE, PROTEIN, DNA_RNA, CELL_TYPE, CHEMICAL, DISEASE).
         Return JSON format: {"results": [{"id": ..., "entities": [{"word": "...", "label": "...", "start": 0, "end": 0}]}]}
+        
+        Examples:
+        Input: "ID 1: Aspirin reduces fever and headache."
+        Output: {"results": [{"id": 1, "entities": [{"word": "Aspirin", "label": "CHEMICAL"}, {"word": "fever", "label": "DISEASE"}, {"word": "headache", "label": "DISEASE"}]}]}
+        
+        Input: "ID 2: the CD44 surface antigen"
+        Output: {"results": [{"id": 2, "entities": [{"word": "CD44 surface antigen", "label": "PROTEIN"}]}]}
         """
 
     def process_batch(self, batch_items):
@@ -33,7 +44,15 @@ class BioNERAnnotatorLite:
                 )
             )
             if response.text:
-                return json.loads(response.text).get("results", [])
+                text = response.text.strip()
+                if text.startswith("```json"):
+                    text = text[7:]
+                elif text.startswith("```"):
+                    text = text[3:]
+                if text.endswith("```"):
+                    text = text[:-3]
+                text = text.strip()
+                return json.loads(text).get("results", [])
         except Exception as e:
             print(f"\n[!] Error during API call: {str(e)}")
             return None
@@ -77,4 +96,4 @@ class BioNERAnnotatorLite:
 
 if __name__ == "__main__":
     annotator = BioNERAnnotatorLite()
-    annotator.run("raw_seed_data.json", "few_shot_train_multilabel.json")
+    annotator.run("data/processed/raw_seed_data.json", "data/silver_labels/few_shot_train_multilabel.json")

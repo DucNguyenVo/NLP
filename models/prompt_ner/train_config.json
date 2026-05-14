@@ -1,0 +1,59 @@
+{
+  "pubmedbert_model": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+  "template": "{\"placeholder\":\"text_a\"} Trong câu này, cụm từ '{\"meta\":\"entity\"}' là một {\"mask\"}.",
+  "label_words": {
+    "GENE": [
+      "gene",
+      "genes",
+      "genetics"
+    ],
+    "PROTEIN": [
+      "protein",
+      "proteins",
+      "enzyme",
+      "peptide",
+      "antigen"
+    ],
+    "DNA_RNA": [
+      "dna",
+      "rna",
+      "nucleotide",
+      "transcript"
+    ],
+    "CELL_TYPE": [
+      "cell",
+      "cells",
+      "tissue"
+    ],
+    "CHEMICAL": [
+      "chemical",
+      "drug",
+      "substance",
+      "compound",
+      "acid"
+    ],
+    "DISEASE": [
+      "disease",
+      "illness",
+      "syndrome",
+      "disorder",
+      "fever",
+      "tumor"
+    ]
+  },
+  "ner_classes": [
+    "GENE",
+    "PROTEIN",
+    "DNA_RNA",
+    "CELL_TYPE",
+    "CHEMICAL",
+    "DISEASE"
+  ],
+  "freeze_embedding_and_first_layers": 6,
+  "learning_rate": 2e-05,
+  "batch_size": 8,
+  "epochs": 4,
+  "max_seq_length": 256,
+  "decoder_max_length": 3,
+  "silver_data": "D:\\NLP\\data\\silver_labels\\few_shot_train_multilabel.json"
+}

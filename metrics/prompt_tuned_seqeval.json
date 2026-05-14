@@ -1,0 +1,12 @@
+{
+  "precision": 0.9627329192546584,
+  "recall": 0.9627329192546584,
+  "f1": 0.9627329192546584,
+  "num_sentences": 200,
+  "num_spans": 483,
+  "checkpoint": "models\\prompt_ner",
+  "conll": "data\\raw\\BC5CDR\\train.tsv",
+  "source": "BC5CDR",
+  "eval_mode": "oracle_span_seqeval",
+  "classification_report": "              precision    recall  f1-score   support\n\n    CHEMICAL       1.00      0.94      0.97       289\n     DISEASE       1.00      0.99      1.00       194\n     PROTEIN       0.00      0.00      0.00         0\n\n   micro avg       0.96      0.96      0.96       483\n   macro avg       0.67      0.65      0.66       483\nweighted avg       1.00      0.96      0.98       483\n"
+}

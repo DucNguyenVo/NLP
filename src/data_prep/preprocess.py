@@ -101,18 +101,19 @@ class BioNERPreprocessor:
 
     def save_results(self):
         # Lưu file cho LLM
-        with open("raw_seed_data.json", 'w', encoding='utf-8') as f:
+        with open("data/processed/raw_seed_data.json", 'w', encoding='utf-8') as f:
             json.dump(self.raw_data, f, ensure_ascii=False, indent=4)
         
         # Lưu file đối soát
-        with open("ground_truth_300.json", 'w', encoding='utf-8') as f:
+        with open("data/processed/ground_truth_300.json", 'w', encoding='utf-8') as f:
             json.dump(self.ground_truth_data, f, ensure_ascii=False, indent=4)
             
         print(f"\n[Done] Đã xuất {len(self.raw_data)} câu.")
-        print("- File cho LLM: raw_seed_data.json")
-        print("- File đối soát: ground_truth_300.json")
+        print("- File cho LLM: data/processed/raw_seed_data.json")
+        print("- File đối soát: data/processed/ground_truth_300.json")
 
 if __name__ == "__main__":
+    random.seed(42)
     datasets = [
         {"path": "data/raw/BC5CDR/train.tsv", "name": "BC5CDR"},
         {"path": "data/raw/NCBI_Disease/train.tsv", "name": "NCBI Disease"},
