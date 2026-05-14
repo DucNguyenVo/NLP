@@ -1,0 +1,19 @@
+# BioNER few-shot — Python 3.9+
+#
+# Cài chuẩn:
+#   pip install -r requirements.txt
+#   pip install -r requirements_train.txt --no-deps
+#
+# (Bước 2 tránh lỗi build sentencepiece==0.1.96 do OpenPrompt ghim phiên bản cũ;
+#  ta đã có sentencepiece bản wheel từ bước 1.)
+
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+
+torch>=2.0.0
+sentencepiece>=0.1.99
+transformers>=4.36.0,<4.46.0
+accelerate>=0.25.0
+
+seqeval>=1.2.2
+matplotlib>=3.7.0

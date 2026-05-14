@@ -1,0 +1,3 @@
+# Chỉ cài OpenPrompt (sau khi đã cài requirements.txt).
+# Bắt buộc dùng --no-deps để pip không ép cài sentencepiece==0.1.96 (build lỗi trên Windows/py312).
+openprompt==1.0.1

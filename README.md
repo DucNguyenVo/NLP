@@ -15,47 +15,45 @@ Du an nay xay dung mot quy trinh tao du lieu few-shot va danh gia chat luong gan
 
 ```text
 NLP/
-|- data/
-|  |- raw/
-|  |  |- BC5CDR/train.tsv
-|  |  |- NCBI_Disease/train.tsv
-|  |  |- JNLPBA/train.tsv
-|  |- few_shot_train/
-|  |- raw_seed_data/
-|- module/
-|  |- preprocess.py
-|  |- annotate.py
-|  |- validate.py
-|  |- debug_labels.py
-|- raw_seed_data.json
-|- ground_truth_300.json
-|- few_shot_train_multilabel.json
-|- README.md
+├── data/
+│   ├── raw/                 # Dữ liệu gốc (BC5CDR, NCBI, JNLPBA .tsv)
+│   ├── processed/           # Dữ liệu đã xử lý (raw_seed_data.json, ground_truth_300.json)
+│   └── silver_labels/       # Dữ liệu do LLM gán nhãn (few_shot_train_multilabel.json)
+├── src/                     
+│   ├── data_prep/           # Xử lý dữ liệu ban đầu
+│   │   └── preprocess.py
+│   ├── llm_annotate/        # Gọi API Gemini
+│   │   └── annotate.py
+│   └── evaluation/          # File đánh giá
+│       ├── validate.py
+│       └── debug_labels.py
+├── .env
+└── README.md
 ```
 
 ## Cac thanh phan chinh
 
-### 1) `module/preprocess.py`
+### 1) `src/data_prep/preprocess.py`
 
 - Doc file CoNLL (`train.tsv`) va tach token/label.
 - Chuan hoa label `DISEASE` ve dang BIO thong nhat.
 - Trich xuat entities tu nhan BIO.
 - Lay mau `k_shot` cho moi dataset (mac dinh `k_shot=100`).
 - Xuat:
-  - `raw_seed_data.json`: dung de gui LLM gan nhan,
-  - `ground_truth_300.json`: dung de danh gia doi soat.
+  - `data/processed/raw_seed_data.json`: dung de gui LLM gan nhan,
+  - `data/processed/ground_truth_300.json`: dung de danh gia doi soat.
 
 > Mac dinh 3 nguon x 100 mau = 300 cau.
 
-### 2) `module/annotate.py`
+### 2) `src/llm_annotate/annotate.py`
 
-- Doc `raw_seed_data.json`.
+- Doc `data/processed/raw_seed_data.json`.
 - Goi Gemini theo batch (`BATCH_SIZE=10`) de trich xuat entity cac nhan:
   - `GENE`, `PROTEIN`, `DNA_RNA`, `CELL_TYPE`, `CHEMICAL`, `DISEASE`.
 - Co retry 3 lan neu loi, va luu checkpoint sau moi batch.
-- Xuat ket qua ra `few_shot_train_multilabel.json`.
+- Xuat ket qua ra `data/silver_labels/few_shot_train_multilabel.json`.
 
-### 3) `module/validate.py`
+### 3) `src/evaluation/validate.py`
 
 - Doi soat ket qua Gemini voi ground truth.
 - Co mapping chuan hoa nhan de giam sai lech giua cac bo du lieu:
@@ -63,7 +61,7 @@ NLP/
 - So khop fuzzy theo cap `(word, label)` de xu ly truong hop span dai/ngan khac nhau.
 - In ra `TP`, `FP`, `FN` va `Precision`, `Recall`, `F1`.
 
-### 4) `module/debug_labels.py`
+### 4) `src/evaluation/debug_labels.py`
 
 - Ban danh gia bo sung voi chuan hoa text (bo dau cau, viet thuong).
 - So sanh hai chieu (Gemini -> GT va GT -> Gemini) de phan tich thua/sot.
@@ -74,7 +72,7 @@ NLP/
 - Thu vien:
 
 ```bash
-pip install google-genai
+pip install google-genai python-dotenv
 ```
 
 ## Cach chay
@@ -84,28 +82,28 @@ Chay cac lenh tai thu muc goc `NLP`.
 ### Buoc 1: Tao seed data va ground truth
 
 ```bash
-python module/preprocess.py
+python src/data_prep/preprocess.py
 ```
 
 Ket qua:
 
-- `raw_seed_data.json`
-- `ground_truth_300.json`
+- `data/processed/raw_seed_data.json`
+- `data/processed/ground_truth_300.json`
 
 ### Buoc 2: Gan nhan bang Gemini
 
 ```bash
-python module/annotate.py
+python src/llm_annotate/annotate.py
 ```
 
 Ket qua:
 
-- `few_shot_train_multilabel.json`
+- `data/silver_labels/few_shot_train_multilabel.json`
 
 ### Buoc 3: Danh gia
 
 ```bash
-python module/validate.py
+python src/evaluation/validate.py
 ```
 
 Hoac dung script debug:
